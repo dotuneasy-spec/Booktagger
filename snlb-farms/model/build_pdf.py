@@ -8,8 +8,8 @@ import markdown
 from weasyprint import HTML
 
 ROOT = Path(__file__).resolve().parents[1]
-MD_PATH = ROOT / "SNLB_Farms_Bankable_Feasibility_Study.md"
-OUT_PDF = ROOT / "SNLB_Farms_Bankable_Feasibility_Study.pdf"
+MD_PATH = ROOT / "SNLB_Farms_Comprehensive_Feasibility_Study.md"
+OUT_PDF = ROOT / "SNLB_Farms_Comprehensive_Feasibility_Study.pdf"
 OUT_HTML = ROOT / "build" / "im.html"
 
 CSS = r"""
@@ -17,7 +17,7 @@ CSS = r"""
   size: A4;
   margin: 16mm 14mm 18mm 14mm;
   @top-left {
-    content: "SNLB Farms  ·  Bankable Feasibility Study & IM  ·  v3.0";
+    content: "SNLB Farms  ·  Comprehensive Feasibility Study  ·  August 2026";
     font-family: Inter, "Noto Sans", "DejaVu Sans", sans-serif;
     font-size: 7.5pt;
     color: #5a656c;
@@ -31,7 +31,7 @@ CSS = r"""
     letter-spacing: 0.08em;
   }
   @bottom-left {
-    content: "August 2026  ·  Credit / bank base case  ·  Ogun State → Mile 12";
+    content: "August 2026  ·  Ogun State → Mile 12  ·  Two-cycle self-fund model";
     font-family: Inter, "Noto Sans", "DejaVu Sans", sans-serif;
     font-size: 7.5pt;
     color: #5a656c;
@@ -218,6 +218,13 @@ pre {
   white-space: pre-wrap;
   page-break-inside: avoid;
 }
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5mm auto 3.2mm auto;
+  page-break-inside: avoid;
+}
 
 table {
   width: 100%;
@@ -283,21 +290,21 @@ def md_to_body_html(text: str) -> str:
 
 COVER = """
 <section class="cover">
-  <p class="eyebrow">Confidential  ·  For lenders, DFIs and professional advisors</p>
-  <h1>SNLB Farms<span>Bankable Feasibility Study &amp; Information Memorandum</span></h1>
+  <p class="eyebrow">Confidential  ·  Promoters, advisors, lenders and DFIs</p>
+  <h1>SNLB Farms<span>Comprehensive Feasibility Study</span></h1>
   <div class="rule"></div>
-  <p class="lede">Commercial hybrid tomato production on a leased 100-hectare master block in Ogun State, Nigeria, supplying Mile 12 International Market, Lagos. Credit / bank base case.</p>
+  <p class="lede">Commercial tomato farming on a leased 100-hectare master block in Ogun State, Nigeria, supplying Mile 12 International Market, Lagos. A self-funding expansion from 1 hectare to 100 hectares through two-cycle production, 50/50 reinvestment and progressive mechanization.</p>
   <dl>
-    <dt>Edition</dt><dd>v3.0 — Bankable  ·  August 2026</dd>
-    <dt>Horizon</dt><dd>5 years / 10 cycles  ·  1 ha → 100 ha in six cycles</dd>
-    <dt>Underwriting</dt><dd>Credit case (haircut prices &amp; yields, full cost stack, NTA 2025 34% tax)</dd>
-    <dt>Opening equity</dt><dd>Stated ₦8.0m  ·  recommended paid-in ₦12.0m</dd>
-    <dt>NPV @ 18%</dt><dd>₦2.62 billion (5-year, no terminal value)</dd>
-    <dt>Classification</dt><dd>Not financial, legal, tax or investment advice</dd>
+    <dt>Prepared</dt><dd>August 2026</dd>
+    <dt>Horizon</dt><dd>5 years / 10 cycles  ·  1 ha → 100 ha in six cycles (3 years)</dd>
+    <dt>Base case NPV</dt><dd>₦2.62 billion at 18% (5-year, no terminal value)</dd>
+    <dt>Opening capital</dt><dd>₦12.0 million paid-in (₦3.5m CapEx + Cycle 1 working capital and buffer)</dd>
+    <dt>Includes</dt><dd>SWOT · ESG · charts · NPV/IRR · three scenarios · optional ₦80m facility</dd>
+    <dt>Classification</dt><dd>Planning document — not financial, legal, tax or investment advice</dd>
   </dl>
   <div class="foot">
     <span>Ogun State  →  Mile 12, Lagos</span>
-    <span>Self-fund base path  ·  optional ₦80m facility</span>
+    <span>Self-fund path  ·  optional external facility</span>
   </div>
 </section>
 """
@@ -310,7 +317,7 @@ def main() -> None:
 <html lang="en">
 <head>
   <meta charset="utf-8"/>
-  <title>SNLB Farms — Bankable Feasibility Study &amp; Information Memorandum (v3.0)</title>
+  <title>SNLB Farms — Comprehensive Feasibility Study (August 2026)</title>
   <style>{CSS}</style>
 </head>
 <body>
