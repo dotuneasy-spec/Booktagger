@@ -297,7 +297,7 @@ COVER = """
   <dl>
     <dt>Prepared</dt><dd>August 2026</dd>
     <dt>Horizon</dt><dd>5 years / 10 cycles  ·  1 ha → 100 ha in six cycles (3 years)</dd>
-    <dt>Base case NPV</dt><dd>₦2.62 billion at 18% (5-year, no terminal value)</dd>
+    <dt>Planning case NPV</dt><dd>₦5.12 billion at 18% (Peak-first, 5-year, no terminal value)</dd>
     <dt>Opening capital</dt><dd>₦8.0 million (₦3.0m CapEx + ₦5.0m Cycle 1 working capital)</dd>
     <dt>Includes</dt><dd>SWOT · ESG · charts · NPV/IRR · three scenarios · optional ₦80m facility</dd>
     <dt>Classification</dt><dd>Planning document — not financial, legal, tax or investment advice</dd>

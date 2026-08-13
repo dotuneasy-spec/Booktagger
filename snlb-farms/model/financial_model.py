@@ -76,7 +76,7 @@ class CaseParams:
 
 CASES = {
     "promoter": CaseParams(
-        name="Promoter case (filled-in costs, NTA agri tax holiday)",
+        name="Upside case (NTA agri tax holiday on the operating plan)",
         yield_reg_t=20.0,
         yield_peak_t=18.0,
         price_reg=33_000,
@@ -90,14 +90,14 @@ CASES = {
         initial_capex=3_500_000,
     ),
     "credit": CaseParams(
-        name="Credit / bank base case (underwriting)",
-        yield_reg_t=18.0,
-        yield_peak_t=16.0,
-        price_reg=22_000,
-        price_peak=90_000,
-        prod_reg=3_600_000,
-        prod_peak=4_200_000,
-        logistics_per_basket=1_100,
+        name="Planning case — Peak-first, non-glut Mile 12 prices, full tax",
+        yield_reg_t=20.0,
+        yield_peak_t=18.0,
+        price_reg=33_000,
+        price_peak=145_000,
+        prod_reg=3_400_000,
+        prod_peak=3_800_000,
+        logistics_per_basket=900,
         cost_inflation=0.12,
         tax_mode="full",
         initial_equity=8_000_000,
@@ -121,7 +121,8 @@ CASES = {
 
 # Operational expansion path (ha under cultivation at each cycle)
 HA_PATH = [1, 3, 15, 27, 72, 100, 100, 100, 100, 100]
-SEASONS = ["Regular", "Peak"] * 5
+# Cycle 1 is timed into Mile 12 scarcity (Peak / non-glut). Regular glut is the second cycle, not the plan.
+SEASONS = ["Peak", "Regular"] * 5
 YEARS = [1, 1, 2, 2, 3, 3, 4, 4, 5, 5]
 CYCLE_IDS = [f"C{i}" for i in range(1, 11)]
 MASTER_HA = 100
@@ -480,12 +481,13 @@ def run_case(p: CaseParams, with_debt: bool = False) -> dict:
         eq.append(fte)
     equity_irr = irr_newton(eq, guess=1.0)
 
-    # Cycle 1 break-even
+    # Cycle 1 break-even against that cycle's selling price (Peak if Peak-first)
     c1 = cycles[0]
     c1_var = c1["prod"] + c1["logistics"] + c1["lease"] + c1["insurance"] + c1["contingency"] + c1["mgmt"] + c1["da"]
+    c1_price = p.price_peak if c1["season"] == "Peak" else p.price_reg
     be_price = c1_var / c1["baskets"] if c1["baskets"] else 0
-    be_baskets = c1_var / p.price_reg if p.price_reg else 0
-    mos = 1 - be_price / p.price_reg if p.price_reg else 0
+    be_baskets = c1_var / c1_price if c1_price else 0
+    mos = 1 - be_price / c1_price if c1_price else 0
 
     # Payback on initial equity using cumulative FCF
     cum = 0.0
@@ -529,7 +531,7 @@ def run_case(p: CaseParams, with_debt: bool = False) -> dict:
             "be_baskets": be_baskets,
             "margin_of_safety": mos,
             "c1_baskets": c1["baskets"],
-            "c1_price": p.price_reg,
+            "c1_price": c1_price,
         },
         "debt": {
             "enabled": with_debt,
@@ -649,7 +651,8 @@ def main() -> None:
                 f"  Y{y['year']}: ha={y['ha_end']:>3}  rev={fmt(y['revenue'])}  "
                 f"EBIT={fmt(y['ebit'])} ({pct(y['ebit_margin'])})  "
                 f"NPAT={fmt(y['npat'])} ({pct(y['net_margin'])})  "
-                f"FCF={fmt(y['fcf'])}  cash={fmt(y['closing_cash'])}"
+                f"FCF={fmt(y['fcf'])}  cash={fmt(y['closing_cash'])}  "
+                f"gm={pct(y['gross_margin'])}  buf={fmt(y['cum_buffer']) if 'cum_buffer' in y else ''}"
             )
         print(
             f"  NPV 10% no TV {fmt(d['npv_10_no_tv'])} | with TV {fmt(d['npv_10_with_tv'])}"
@@ -663,12 +666,19 @@ def main() -> None:
         be = r["break_even"]
         print(
             f"  C1 BE price ₦{be['be_price']:,.0f} vs ₦{be['c1_price']:,.0f} "
-            f"(MoS {pct(be['margin_of_safety'])})"
+            f"(MoS {pct(be['margin_of_safety'])})  cash cost ₦{be['c1_cash_cost']:,.0f}"
         )
         rd = results[f"{key}_debt"]
         print(f"  Optional ₦80m facility min DSCR: {rd['debt']['min_dscr']:.2f}x" if rd["debt"]["min_dscr"] else "")
+        if key == "credit":
+            print("  Annual detail:")
+            for y in r["years"]:
+                print(
+                    f"    Y{y['year']} capex={fmt(y['capex'])} ebitda={fmt(y['ebitda'])} "
+                    f"tax={fmt(y['tax'])} fcf={fmt(y['fcf'])}"
+                )
 
-    print("\nCycle detail — CREDIT case")
+    print("\nCycle detail — PLANNING case")
     for c in cred["cycles"]:
         print(
             f"  {c['id']} {c['season']:8} {c['ha']:3}ha  rev={fmt(c['revenue'])}  "
