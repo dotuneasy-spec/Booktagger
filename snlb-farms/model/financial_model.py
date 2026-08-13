@@ -90,7 +90,7 @@ CASES = {
         initial_capex=3_500_000,
     ),
     "credit": CaseParams(
-        name="Planning case — Peak-first, non-glut Mile 12 prices, full tax",
+        name="Planning case — Regular first at non-glut Mile 12 prices, full tax",
         yield_reg_t=20.0,
         yield_peak_t=18.0,
         price_reg=33_000,
@@ -121,8 +121,8 @@ CASES = {
 
 # Operational expansion path (ha under cultivation at each cycle)
 HA_PATH = [1, 3, 15, 27, 72, 100, 100, 100, 100, 100]
-# Cycle 1 is timed into Mile 12 scarcity (Peak / non-glut). Regular glut is the second cycle, not the plan.
-SEASONS = ["Peak", "Regular"] * 5
+# Original sequence: Cycle 1 Regular (non-glut Mile 12 price), then Peak, then alternate.
+SEASONS = ["Regular", "Peak"] * 5
 YEARS = [1, 1, 2, 2, 3, 3, 4, 4, 5, 5]
 CYCLE_IDS = [f"C{i}" for i in range(1, 11)]
 MASTER_HA = 100
@@ -481,7 +481,7 @@ def run_case(p: CaseParams, with_debt: bool = False) -> dict:
         eq.append(fte)
     equity_irr = irr_newton(eq, guess=1.0)
 
-    # Cycle 1 break-even against that cycle's selling price (Peak if Peak-first)
+    # Cycle 1 break-even against that cycle's selling price
     c1 = cycles[0]
     c1_var = c1["prod"] + c1["logistics"] + c1["lease"] + c1["insurance"] + c1["contingency"] + c1["mgmt"] + c1["da"]
     c1_price = p.price_peak if c1["season"] == "Peak" else p.price_reg

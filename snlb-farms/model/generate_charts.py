@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Charts for the SNLB Farms comprehensive feasibility study — Peak-first planning case."""
+"""Charts for the SNLB Farms comprehensive feasibility study — Regular-first, non-glut planning case."""
 from __future__ import annotations
 
 import json
@@ -102,13 +102,13 @@ def fig_mile12() -> None:
     for i, ys in obs.items():
         xs = i + rng.uniform(-0.12, 0.12, len(ys))
         ax.scatter(xs, ys, s=42, c=G0, zorder=3, alpha=0.85)
-    ax.axhline(33, color=G1, ls="--", lw=1.4, label="Planning Regular ₦33k")
+    ax.axhline(33, color=G1, ls="--", lw=1.4, label="Planning Regular (non-glut) ₦33k")
     ax.axhline(145, color=OR, ls="--", lw=1.4, label="Planning Peak ₦145k")
     ax.axhline(15, color=RD, ls=":", lw=1.2, label="Glut crash floor ₦15k")
     ax.set_xticks(range(5))
     ax.set_xticklabels(cats)
     ax.set_ylabel("₦ ’000 per 50 kg big basket")
-    ax.set_title("Mile 12 Big-Basket Price Context — Plan is Non-Glut / Peak")
+    ax.set_title("Mile 12 Big-Basket Price Context — Regular Planned as Non-Glut")
     ax.legend(frameon=False, fontsize=8, loc="upper left")
     ax.set_ylim(0, 170)
     save(fig, "fig_mile12_prices.png")
@@ -142,7 +142,7 @@ def fig_cycle_pnl() -> None:
     ax.set_xticks(x)
     ax.set_xticklabels(labels)
     ax.set_ylabel("₦ million")
-    ax.set_title("Cycle Revenue & Net Profit — Peak-First Planning Case")
+    ax.set_title("Cycle Revenue & Net Profit — Regular-First, Non-Glut Planning Case")
     ax.legend(frameon=False, fontsize=8)
     ax.set_ylim(0, max(rev) * 1.15)
     save(fig, "fig_cycle_pnl.png")
@@ -196,7 +196,7 @@ def fig_margins() -> None:
         ax.text(x, y - 3.2, f"{y:.1f}%", ha="center", fontsize=8, color=G1)
     ax.set_ylabel("Margin %")
     ax.set_ylim(35, 95)
-    ax.set_title("Gross & Net Margin Trend — Peak-First Planning Case")
+    ax.set_title("Gross & Net Margin Trend — Regular-First Planning Case")
     ax.legend(frameon=False, fontsize=8, loc="center right")
     save(fig, "fig_margins.png")
 
@@ -204,11 +204,11 @@ def fig_margins() -> None:
 def fig_breakeven() -> None:
     be = PLAN["break_even"]
     fig, ax = plt.subplots(figsize=(7.2, 3.6))
-    labels = ["Break-even\nprice", "Planning Peak\nselling price"]
+    labels = ["Break-even\nprice", "Planning Regular\n(non-glut) price"]
     vals = [be["be_price"], be["c1_price"]]
     bars = ax.bar(labels, vals, color=[OR, G0], width=0.48)
     ax.set_ylabel("₦ per 50 kg basket")
-    ax.set_title("Cycle 1 Break-even vs Peak (Non-Glut) Selling Price")
+    ax.set_title("Cycle 1 Break-even vs Non-Glut Regular Selling Price")
     ax.set_ylim(0, max(vals) * 1.25)
     for b, v in zip(bars, vals):
         ax.text(
@@ -260,7 +260,7 @@ def fig_sensitivity() -> None:
 
 
 def fig_three_case() -> None:
-    labels = ["Stress case\n(glut floor)", "Planning case\n(Peak-first)", "Upside case\n(tax holiday)"]
+    labels = ["Stress case\n(glut floor)", "Planning case\n(Regular first, non-glut)", "Upside case\n(tax holiday)"]
     npv = [
         ST["dcf"]["npv_18_no_tv"] / 1e9,
         PLAN["dcf"]["npv_18_no_tv"] / 1e9,

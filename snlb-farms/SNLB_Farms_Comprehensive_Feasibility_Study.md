@@ -12,7 +12,7 @@ A self-funding expansion from 1 hectare to 100 hectares, driven by two-cycle ann
 | Prepared | August 2026 |
 | Horizon | Year 1–Year 5 (build-out in six cycles / three years; steady state Years 4–5) |
 | Currency | Nigerian naira (₦), nominal |
-| Planning case | Peak-first (non-glut) — 20/18 t/ha, ₦33,000 / ₦145,000 baskets, full operating stack, NTA 2025 tax |
+| Planning case | Regular first at non-glut Mile 12 prices — 20/18 t/ha, ₦33,000 / ₦145,000 baskets, full stack, NTA 2025 tax |
 | Classification | Confidential planning document |
 
 **Purpose.** This study assesses the commercial viability of phased hybrid tomato production on a contiguous 100-hectare master block in Ogun State, with produce sold into Mile 12 International Market (≈1.5 hours). It sets out the operating model, market, agronomy, expansion path, three financial scenarios, charts, discounted cash flow, optional facility terms, risk, ESG, and the conditions for first planting.
@@ -42,35 +42,35 @@ This study assesses a phased tomato farming venture established on a single leas
 
 The operating model runs **two production cycles per year** on every hectare under cultivation:
 
-- **Peak (Scarcity / non-glut) Season** (July–November) — national northern supply tightens and Mile 12 prices rise; **Cycle 1 and the planning case**.
-- **Regular Season** (December–June) — dry-season glut window; the second cycle each year, not the price the plan is built on.
+- **Regular Season** (December–June) — the first cycle; planned at a **non-glut** Mile 12 price for graded hybrid fruit, not at the January crash.
+- **Peak (Scarcity) Season** (July–November) — national northern supply tightens and Mile 12 prices rise; the margin engine, from Cycle 2.
 
-The first cycle is **Peak, on one hectare**, timed into the July–November scarcity window. Every cycle afterward alternates Regular and Peak as the footprint grows. From Cycle 5, about **70% of volume** is sold under bulk tonnage contracts so that scale does not flood the Mile 12 spot auction.
+The first cycle is **Regular, on one hectare**. Every cycle afterward alternates Peak and Regular as the footprint grows. From Cycle 5, about **70% of volume** is sold under bulk tonnage contracts so that scale does not flood the Mile 12 spot auction.
 
-Agronomic targets sit at the conservative end of NIHORT’s intensive range (20–40 t/ha): **20 t/ha Regular / 18 t/ha Peak**, with drip and best practice from transplant one. The **planning case** uses those yields and Mile 12 **non-glut** prices — **₦145,000 Peak / ₦33,000 Regular**. An **upside case** adds the NTA 2025 five-year agricultural income-tax holiday. A **stress case** applies the January 2025 glut floor, weaker Peak prices, lower yields and faster cost inflation. Glut at ₦22,000 is a caution, not the plan.
+Agronomic targets sit at the conservative end of NIHORT’s intensive range (20–40 t/ha): **20 t/ha Regular / 18 t/ha Peak**, with drip and best practice from transplant one. The **planning case** uses those yields and **non-glut** Mile 12 prices — **₦33,000 Regular / ₦145,000 Peak**. An **upside case** adds the NTA 2025 five-year agricultural income-tax holiday. A **stress case** applies the January 2025 glut floor (₦15,000), weaker Peak prices, lower yields and faster cost inflation. **₦22,000 is a weak-glut caution, not the Regular plan.**
 
 Capital allocation follows a **50/50 rule** at every cycle close: half of net profit is a cash buffer; half is reinvested into adjacent hectares, drip extension and, later, packhouse infrastructure. Land added per cycle is capped at **+45 ha**, the practical ceiling on preparation, irrigation and staffing in a single six-month window. Under that combination the venture reaches the full 100-hectare block in **six cycles — three years**.
 
 Opening capitalization is **₦8.0 million**: ₦3.0 million of irrigation infrastructure and basic equipment, and ₦5.0 million of Cycle 1 working capital. Growth after Cycle 1 is funded from retained earnings. External debt is not required to reach 100 ha. An optional ₦80 million production facility from Year 2 is specified so that a BOA or NIRSAL-wrapped bank file is ready if the promoters later choose it.
 
-### Key figures at a glance — planning case (Peak-first, non-glut)
+### Key figures at a glance — planning case (Regular first, non-glut)
 
 | Metric | Value |
 | --- | --- |
-| Starting scale (Cycle 1) | 1 ha, Peak / non-glut (Jul–Nov) |
+| Starting scale (Cycle 1) | 1 ha, Regular Season (non-glut price) |
 | Agronomic and planning yield | 20 t/ha Regular / 18 t/ha Peak (NIHORT-sourced; drip from Cycle 1) |
-| Planning prices (50 kg basket) | ₦145,000 Peak / ₦33,000 Regular |
+| Planning prices (50 kg basket) | ₦33,000 Regular / ₦145,000 Peak |
 | Expansion path | 1 → 3 → 15 → 27 → 72 → 100 ha, capped at +45 ha/cycle |
 | Time to full 100 ha | 6 cycles — 3 years |
 | Opening capital | ₦8,000,000 (₦3.0m CapEx + ₦5.0m Cycle 1 WC) |
-| Year 1 NPAT / net margin | ₦46.5m / 50.6% |
-| Year 3 NPAT / net margin | ₦2.57bn / 54.5% (first year the block is full) |
-| Cycle 1 break-even | ₦18,654 / basket vs ₦145,000 Peak (87.1% margin of safety) |
-| Cycle 1 net profit | ₦30.0 million on ₦52.2 million revenue |
+| Year 1 NPAT / net margin | ₦97.4m / 57.4% |
+| Year 3 NPAT / net margin | ₦3.24bn / 56.4% (first year the block is full) |
+| Cycle 1 break-even | ₦15,810 / basket vs ₦33,000 Regular (52.1% margin of safety) |
+| Cycle 1 net profit | ₦4.54 million on ₦13.2 million revenue |
 | Sales-unit transition | From Cycle 5 (72 ha): ≈70% bulk / 30% spot |
-| Cumulative buffer by Year 3 | ₦1.62 billion |
-| 5-year NPV @ 18% (no terminal value) | ₦5.12 billion |
-| Optional ₦80m facility — minimum DSCR | 113× planning; 4.0× stress |
+| Cumulative buffer by Year 3 | ₦2.13 billion |
+| 5-year NPV @ 18% (no terminal value) | ₦5.78 billion |
+| Optional ₦80m facility — minimum DSCR | 145× planning; 4.0× stress |
 
 ![Scenario NPV at 18%](charts/fig_three_case_npv.png)
 
@@ -78,7 +78,7 @@ Opening capitalization is **₦8.0 million**: ₦3.0 million of irrigation infra
 
 ### Feasibility verdict
 
-The venture is **feasible**. It combines (a) a structural national supply deficit for fresh tomatoes, (b) a durable Ogun–Lagos logistics advantage versus long-haul northern producers, (c) a Peak-first calendar that sells Cycle 1 into Mile 12 scarcity rather than glut, and (d) a cycle-level 50/50 allocation that funds land under cultivation while building a cash buffer. The pace of the plan is governed by how quickly new land can be prepared, staffed and irrigated — not by how much capital is available after Cycle 1.
+The venture is **feasible**. It combines (a) a structural national supply deficit for fresh tomatoes, (b) a durable Ogun–Lagos logistics advantage versus long-haul northern producers, (c) a two-cycle calendar that starts on Regular at a non-glut Mile 12 price and then captures Peak scarcity at 3 ha, and (d) a cycle-level 50/50 allocation that funds land under cultivation while building a cash buffer. The pace of the plan is governed by how quickly new land can be prepared, staffed and irrigated — not by how much capital is available after Cycle 2.
 
 ---
 
@@ -88,9 +88,9 @@ The venture is **feasible**. It combines (a) a structural national supply defici
 
 The venture leases (and options) the full contiguous 100-hectare block in Ogun State before operations begin, then brings parcels into cultivation as retained profit allows. Because the block is already secured, each expansion step is operational — drip, land prep, staffing — rather than a new land negotiation.
 
-- **Cycle 1 — Peak / non-glut.** One hectare; harvest into July–November scarcity; first Mile 12 relationships at scarcity prices.
-- **Cycle 2 — Regular Season.** Three hectares; harvest into the December–June glut window; the first glut test, after Peak cash is already in the bank.
-- **From Cycle 3.** Peak and Regular alternate on the growing footprint. Produce moves Ogun → Mile 12 in about 1.5 hours, in 50 kg baskets, until the Cycle 5 bulk transition.
+- **Cycle 1 — Regular Season (non-glut price).** One hectare; harvest into the December–June window at ₦33,000/basket; first track record and first Mile 12 relationships.
+- **Cycle 2 — Peak Season.** Three hectares; harvest into July–November scarcity at ₦145,000/basket; first high-margin cash generation.
+- **From Cycle 3.** Regular and Peak alternate on the growing footprint. Produce moves Ogun → Mile 12 in about 1.5 hours, in 50 kg baskets, until the Cycle 5 bulk transition.
 
 The land structure used in the model is the one a lender or careful promoter would want: **₦200,000/ha/year** on cultivated hectares plus a **₦25,000/ha/year holding fee** on unused option land, with the lease/option assignable. Lease-to-own conversion from Year 2, funded from the buffer, builds collateral.
 
@@ -136,8 +136,8 @@ The venture is asset-light. Machinery is rented per cycle from a farm-management
 
 | | Helpful | Harmful |
 | --- | --- | --- |
-| **Internal** | **Strengths:** Ogun proximity (1.5 h vs 36–48 h north); Peak-first scarcity capture; 50/50 discipline; master option/lease; drip from Cycle 1; asset-light mechanization; phased drip and packhouse CapEx inside the model. | **Weaknesses:** Mile 12 concentration until Cycle 5; operational bandwidth (staffing and land prep) binds before capital; thin management in early cycles; working-capital intensity per hectare; no owned cold chain until the Cycle 5 packhouse trigger; Cycle 1 timing risk is front-loaded. |
-| **External** | **Opportunities:** Structural deficit and US$350–400m paste imports; processor offtake (Dangote, Tomato Jos); NATIP, ACGSF, Ogun SAPZ; NTA 2025 agri tax holiday on the upside case; lease-to-own collateral. | **Threats:** Missed Peak window; January 2025 glut prints of ₦13–15k on Regular cycles; input inflation (NBS food 16.96% May 2026); Peak pest pressure; new southern intensive entrants; lease/tenure defect; Regular harvest at 100 ha without bulk contracts. |
+| **Internal** | **Strengths:** Ogun proximity (1.5 h vs 36–48 h north); two-cycle scarcity capture after a Regular start; 50/50 discipline; master option/lease; drip from Cycle 1; asset-light mechanization; phased drip and packhouse CapEx inside the model. | **Weaknesses:** Mile 12 concentration until Cycle 5; operational bandwidth (staffing and land prep) binds before capital; thin management in early cycles; working-capital intensity per hectare; no owned cold chain until the Cycle 5 packhouse trigger. |
+| **External** | **Opportunities:** Structural deficit and US$350–400m paste imports; processor offtake (Dangote, Tomato Jos); NATIP, ACGSF, Ogun SAPZ; NTA 2025 agri tax holiday on the upside case; lease-to-own collateral. | **Threats:** January 2025 glut prints of ₦13–15k if Regular is a crash not a non-glut week; input inflation (NBS food 16.96% May 2026); Peak pest pressure; new southern intensive entrants; lease/tenure defect; Regular harvest at 72 ha without bulk contracts. |
 
 ---
 
@@ -162,11 +162,11 @@ Mile 12 absorbs an estimated **1,000+ tonnes of tomatoes a day** for a Lagos pop
 | Late May / early Jun 2026 | ₦60,000–₦70,000 | Inter-peak trough |
 | Early Jul 2026 | ₦120,000–₦150,000 | Scarcity spike — **planning Peak reference** |
 
-The **planning case** sells Peak at **₦145,000** and Regular at **₦33,000** — non-glut Mile 12 prices for graded hybrid fruit, aligned with the July 2026 scarcity print and the ordinary glut-window cluster. **₦22,000 is not the plan**; it is a weak-glut caution. The **stress case** uses the January 2025 crash (₦15,000) and a weak Peak (₦55,000).
+The **planning case** sells Regular at **₦33,000** (non-glut Mile 12 price for graded hybrid fruit — the original operating ticket, inside the Dec 2024 ₦35,000–₦55,000 cluster) and Peak at **₦145,000** (July 2026 scarcity print). **₦22,000 is not the Regular plan**; it is a weak-glut caution. The **stress case** uses the January 2025 crash (₦15,000) and a weak Peak (₦55,000).
 
 ![Mile 12 price context](charts/fig_mile12_prices.png)
 
-*Figure: Selected Mile 12 big-basket points against planning prices (₦33k Regular / ₦145k Peak). The plan is the non-glut / Peak window, not the January crash.*
+*Figure: Selected Mile 12 big-basket points against planning prices (₦33k non-glut Regular / ₦145k Peak). Cycle 1 is Regular at the non-glut ticket, not at the January crash.*
 
 ### 3.3 Value chain positioning
 
@@ -185,7 +185,7 @@ About **98%** of national production comes from smallholders on 1–5 ha plots, 
 
 At 100 ha the planning case produces **3,800 tonnes per year** (Years 4–5). That is about **3–4 days** of Mile 12 throughput — material to named wholesalers, not to the terminal as a whole — provided Cycle 5 bulk contracts are in place.
 
-Offtake design from Cycle 5: ~50% standing wholesale contracts, ~20% processor/institutional, ~30% Mile 12 spot. No single counterparty above **40%** of a cycle without board consent. Two letters of intent before Cycle 3; a bulk term sheet before Cycle 5 planting. Do not take the Cycle 6 Regular step to 100 ha unless that glut-window harvest is contracted.
+Offtake design from Cycle 5: ~50% standing wholesale contracts, ~20% processor/institutional, ~30% Mile 12 spot. No single counterparty above **40%** of a cycle without board consent. Two letters of intent before Cycle 3; a bulk term sheet before Cycle 5 planting — or the +45 ha Regular step waits for the next Peak.
 
 ---
 
@@ -213,10 +213,10 @@ Unit convention: 1 tonne = 20 baskets of 50 kg. Peak yield is 10–12% below Reg
 
 | Cycle | Window | Planning yield | Planning price | Role |
 | --- | --- | --- | --- | --- |
-| Peak / non-glut (Cycle 1 first) | Jul–Nov | 18 t/ha (360 baskets) | ₦145,000/basket | First harvest; scarcity capture |
-| Regular | Dec–Jun | 20 t/ha (400 baskets) | ₦33,000/basket | Second cycle; glut window after Peak cash is in |
+| Regular (Cycle 1 first) | Dec–Jun | 20 t/ha (400 baskets) | ₦33,000/basket | Establishing cycle at a **non-glut** Mile 12 ticket |
+| Peak (Scarcity) | Jul–Nov | 18 t/ha (360 baskets) | ₦145,000/basket | Scarcity capture; footprint expanded ahead of every Peak |
 
-Planting weeks are reverse-engineered from the target Mile 12 window. **A Peak harvest that misses the scarcity window is the principal operating way to weaken the plan.** Cycle 1 is therefore timed into July–November, not into the glut.
+Planting weeks are reverse-engineered from the target Mile 12 window. **A Peak harvest that misses the scarcity window is the principal operating way to weaken the plan.** Cycle 1 stays Regular so the farm is proven before that window.
 
 ### 4.4 Irrigation, soil and pest management
 
@@ -273,16 +273,16 @@ A master option/lease is executed across the contiguous 100-hectare block before
 
 ### 5.2 Cycle-by-cycle organic expansion
 
-The path is 1 → 3 → 15 → 27 → 72 → 100 ha. Jump sizes are what the reinvestment pool can buy, subject to the 45 ha/cycle ceiling. Cycles 1–4 are cash-unconstrained after Cycle 1 Peak; from Cycle 4 the ceiling binds.
+The path is 1 → 3 → 15 → 27 → 72 → 100 ha. Jump sizes are what the reinvestment pool can buy, subject to the 45 ha/cycle ceiling. Cycles 1–4 are cash-unconstrained after Cycle 2 Peak; from Cycle 4 the ceiling binds.
 
 | Cycle | Added | Area | Mech. | Planning revenue | Planning NPAT | Cycle CapEx |
 | --- | --- | --- | --- | --- | --- | --- |
-| C1 Y1 Peak | start | 1 ha | 0 | ₦52.2m | ₦30.0m | opening at t=0 |
-| C2 Y1 Regular | +2 | 3 ha | 0 | ₦39.6m | ₦16.4m | ₦2.0m drip |
-| C3 Y2 Peak | +12 | 15 ha | 1 | ₦783.0m | ₦465.3m | ₦18.0m drip + borehole |
-| C4 Y2 Regular | +12 | 27 ha | 2 | ₦356.4m | ₦157.6m | ₦20.0m drip + shed |
-| C5 Y3 Peak | +45 | 72 ha | 3 | ₦3.50bn | ₦2.07bn | ₦85.0m drip + packhouse |
-| C6 Y3 Regular | +28 | 100 ha | 3 | ₦1.23bn | ₦508.3m | ₦28.0m drip |
+| C1 Y1 Regular | start | 1 ha | 0 | ₦13.2m | ₦4.54m | opening at t=0 |
+| C2 Y1 Peak | +2 | 3 ha | 0 | ₦156.6m | ₦92.9m | ₦2.0m drip |
+| C3 Y2 Regular | +12 | 15 ha | 1 | ₦198.0m | ₦83.2m | ₦18.0m drip + borehole |
+| C4 Y2 Peak | +12 | 27 ha | 2 | ₦1,409.4m | ₦846.0m | ₦20.0m drip + shed |
+| C5 Y3 Regular | +45 | 72 ha | 3 | ₦883.9m | ₦361.2m | ₦85.0m drip + packhouse |
+| C6 Y3 Peak | +28 | 100 ha | 3 | ₦4.85bn | ₦2.88bn | ₦28.0m drip |
 
 ![Land expansion path](charts/fig_land_expansion.png)
 
@@ -290,9 +290,9 @@ The path is 1 → 3 → 15 → 27 → 72 → 100 ha. Jump sizes are what the rei
 
 ![Cycle revenue and net profit](charts/fig_cycle_pnl.png)
 
-*Figure: Cycle revenue and net profit — Peak-first planning case (₦ million). Peak cycles dominate value creation.*
+*Figure: Cycle revenue and net profit — Regular-first planning case (₦ million). Peak cycles dominate value creation.*
 
-Do not plant the Cycle 6 Regular step to 100 ha unless that glut-window harvest is contracted; the add can wait for the following Peak without breaking the three-year idea of the plan.
+Do not plant +45 ha Regular in Cycle 5 unless that harvest is contracted; the add can wait for the following Peak without breaking the three-year idea of the plan.
 
 ### 5.3 Lease-to-own pathway
 
@@ -303,8 +303,8 @@ From Year 2, selected parcels convert to owned land where the lease allows, usin
 | Phase | Timing | Key activities |
 | --- | --- | --- |
 | Pre-operations | Months −4 to 0 | Incorporate; TIN; master option/lease with assignment; soil + borehole tests; ₦8m paid-in; NAIC/GIT bind; farm manager; FMC advisory; seed and drip quotations |
-| Cycle 1 Peak | Months 0–6 | 1 ha into Jul–Nov scarcity; Mile 12 buyer log; cycle-close pack; 50/50 split; prepare +2 ha |
-| Cycle 2 Regular | Months 6–12 | 3 ha Regular; first glut test with Peak cash already in; reinvestment into +12 ha |
+| Cycle 1 Regular | Months 0–6 | 1 ha at non-glut Regular price; Mile 12 buyer log; cycle-close pack; 50/50 split; prepare +2 ha |
+| Cycle 2 Peak | Months 6–12 | 3 ha Peak; first high-margin harvest; reinvestment into +12 ha |
 | Cycles 3–4 | Year 2 | 15 → 27 ha; Stage 1→2 mechanization; finance hire; two offtake LOIs; optional ₦80m facility; selective lease-to-own |
 | Cycles 5–6 | Year 3 | 72 → 100 ha; Stage 3; packhouse; 70/30 bulk/spot; full team |
 | Steady state | Year 4+ | Dual-cycle 100 ha; yield/cost improvement; optional processing from buffer (separate study) |
@@ -313,11 +313,11 @@ From Year 2, selected parcels convert to owned land where the lease allows, usin
 
 ## 6. Financial Plan
 
-The engine is `model/financial_model.py`. The **planning case** is Peak-first at non-glut Mile 12 prices (₦145,000 / ₦33,000), agronomic yields, the complete cost stack, and full NTA 2025 tax. The **upside case** is the same crop path with the five-year agri income-tax holiday. The **stress case** stacks glut Regular prices, weaker Peak, lower yields and 17% cost inflation.
+The engine is `model/financial_model.py`. The **planning case** keeps the original sequence — Cycle 1 Regular, then Peak — at **non-glut** Mile 12 prices (₦33,000 / ₦145,000), agronomic yields, the complete cost stack, and full NTA 2025 tax. The **upside case** is the same crop path with the five-year agri income-tax holiday. The **stress case** stacks January 2025 glut Regular prices, weaker Peak, lower yields and 17% cost inflation.
 
 ### 6.1 Scenario design
 
-| | Stress | **Planning (Peak-first)** | Upside |
+| | Stress | **Planning (Regular first, non-glut)** | Upside |
 | --- | --- | --- | --- |
 | Yield Regular / Peak | 15.0 / 13.5 t/ha | **20 / 18 t/ha** | 20 / 18 t/ha |
 | Price Regular / Peak | ₦15,000 / ₦55,000 | **₦33,000 / ₦145,000** | ₦33,000 / ₦145,000 |
@@ -325,7 +325,7 @@ The engine is `model/financial_model.py`. The **planning case** is Peak-first at
 | Logistics / basket | ₦1,300 | **₦900** | ₦900 |
 | Cost inflation | 17% | **12%** | 12% |
 | Sale prices | Flat | **Flat** | Flat |
-| First cycle | Peak | **Peak** | Peak |
+| First cycle | Regular | **Regular** | Regular |
 | Tax | Full NTA 2025 (Y1 small-company 0%) | **34% (30% CIT + 4% levy)** | 5-year agri holiday |
 
 All three cases include: phased CapEx, NAIC 2%, cargo 1.5%, management payroll, 5% contingency, D&A, holding-fee lease, 7% bulk haircut from Cycle 5, mechanization discounts 7/14/20%.
@@ -336,25 +336,25 @@ Prices are held **flat** while costs inflate. That is conservative for Years 1�
 
 | | Stress | **Planning** | Upside |
 | --- | --- | --- | --- |
-| Revenue | ₦1.41bn | **₦4.72bn** | ₦4.72bn |
-| NPAT | ₦219m | **₦2.57bn** | ₦3.90bn |
-| Net margin | 15.5% | **54.5%** | 82.6% |
-| 5-yr NPV @ 18% (no TV) | ₦259m | **₦5.12bn** | ₦7.78bn |
-| Cycle 1 | Profit ₦7.1m | **Profit ₦30.0m (MoS 87%)** | Profit ₦45.5m (holiday) |
+| Revenue | ₦1.68bn | **₦5.74bn** | ₦5.74bn |
+| NPAT | ₦387m | **₦3.24bn** | ₦4.91bn |
+| Net margin | 23.0% | **56.4%** | 85.5% |
+| 5-yr NPV @ 18% (no TV) | ₦429m | **₦5.78bn** | ₦8.79bn |
+| Cycle 1 | Loss ₦2.76m | **Profit ₦4.54m (MoS 52%)** | Profit ₦6.88m (holiday) |
 
-The stress case remains NPV-positive at 18%. Cycle 1 is Peak, so even the stacked glut/weak-Peak stress still prints a first-cycle profit. Regular glut is tested in Cycle 2, after Peak cash is in.
+The stress case remains NPV-positive at 18%. Cycle 1 can lose money if Regular prints the January 2025 crash (₦15,000) instead of the non-glut ₦33,000 ticket. Year 1 as a whole stays positive because Peak on 3 ha repairs it.
 
 ### 6.3 Planning-case annual P&L
 
 | ₦ million | Y1 | Y2 | Y3 | Y4 | Y5 |
 | --- | --- | --- | --- | --- | --- |
-| Revenue | 91.8 | 1,139.4 | 4,722.9 | 6,082.2 | 6,082.2 |
-| EBIT | 70.4 | 943.8 | 3,901.3 | 5,017.8 | 4,893.3 |
-| EBIT margin | 76.7% | 82.8% | 82.6% | 82.5% | 80.5% |
-| Tax @ 34% | 23.9 | 320.9 | 1,326.4 | 1,706.1 | 1,663.7 |
-| **NPAT** | **46.5** | **622.9** | **2,574.8** | **3,311.8** | **3,229.6** |
-| Net margin | 50.6% | 54.7% | 54.5% | 54.5% | 53.1% |
-| Cumulative 50% buffer | 23.2 | 334.7 | 1,622.1 | 3,278.0 | 4,892.8 |
+| Revenue | 169.8 | 1,607.4 | 5,738.5 | 6,082.2 | 6,082.2 |
+| EBIT | 147.6 | 1,407.9 | 4,906.1 | 5,017.8 | 4,893.3 |
+| EBIT margin | 86.9% | 87.6% | 85.5% | 82.5% | 80.5% |
+| Tax @ 34% | 50.2 | 478.7 | 1,668.1 | 1,706.1 | 1,663.7 |
+| **NPAT** | **97.4** | **929.2** | **3,238.0** | **3,311.8** | **3,229.6** |
+| Net margin | 57.4% | 57.8% | 56.4% | 54.5% | 53.1% |
+| Cumulative 50% buffer | 48.7 | 513.3 | 2,132.3 | 3,788.2 | 5,403.0 |
 
 Output VAT: fresh produce treated as **exempt**. The planning case does not spend the agri tax holiday; that cash appears only in the upside case, subject to a written tax opinion.
 
@@ -362,13 +362,13 @@ Output VAT: fresh produce treated as **exempt**. The planning case does not spen
 
 | ₦ million | Y1 | Y2 | Y3 |
 | --- | --- | --- | --- |
-| 50% buffer (annual) | 23.2 | 311.5 | 1,287.4 |
-| 50% reinvested | 23.2 | 311.5 | 1,287.4 |
-| Cumulative buffer | 23.2 | 334.7 | 1,622.1 |
+| 50% buffer (annual) | 48.7 | 464.6 | 1,619.0 |
+| 50% reinvested | 48.7 | 464.6 | 1,619.0 |
+| Cumulative buffer | 48.7 | 513.3 | 2,132.3 |
 
 ![Annual revenue, profit and buffer](charts/fig_annual_triple.png)
 
-*Figure: Annual revenue, net profit and cumulative buffer — Peak-first planning case (₦ million).*
+*Figure: Annual revenue, net profit and cumulative buffer — Regular-first planning case (₦ million).*
 
 ![Cumulative buffer](charts/fig_buffer.png)
 
@@ -384,10 +384,10 @@ Output VAT: fresh produce treated as **exempt**. The planning case does not spen
 | --- | --- | --- | --- | --- | --- |
 | CapEx | (5.5) | (38.0) | (113.0) | — | — |
 | Owner equity | 8.0* | — | — | — | — |
-| Closing cash | 49.9 | 640.6 | 3,126.3 | 6,464.3 | 9,720.2 |
+| Closing cash | 100.8 | 997.8 | 4,146.7 | 7,484.8 | 10,740.6 |
 | Net PPE | 5.6 | 37.8 | 126.9 | 100.7 | 74.4 |
 | Debt | — | — | — | — | — |
-| Equity | 55.5 | 678.4 | 3,253.2 | 6,565.0 | 9,794.6 |
+| Equity | 106.4 | 1,035.6 | 4,273.7 | 7,585.4 | 10,815.0 |
 
 \*Owner equity of ₦8.0 million at t=0. Mile 12 is modelled as cash sales (T+0 to T+3).
 
@@ -407,26 +407,26 @@ Irrigation does not scale at zero marginal cost. The study phases drip, borehole
 
 ![Phased CapEx](charts/fig_capex.png)
 
-*Figure: Phased irrigation, borehole and packhouse capital expenditure. Funded from operations after Cycle 1 Peak. Cycle 5’s ₦85 million step is why Peak Cycle 3 and Regular Cycle 4 must print.*
+*Figure: Phased irrigation, borehole and packhouse capital expenditure. Funded from operations after Cycle 2 Peak. Cycle 5’s ₦85 million step is why Peak Cycle 4 must print.*
 
-### 6.7 Break-even (Cycle 1 Peak — non-glut)
+### 6.7 Break-even (Cycle 1 Regular — non-glut)
 
 | | Stress | **Planning** | Upside |
 | --- | --- | --- | --- |
-| Break-even ₦/basket | ₦28,738 | **₦18,654** | ₦18,654 |
-| Cycle 1 selling price | ₦55,000 | **₦145,000** | ₦145,000 |
-| Margin of safety | 47.7% | **87.1%** | 87.1% |
-| Cycle 1 NPAT | ₦7.1m | **₦30.0m** | ₦45.5m |
+| Break-even ₦/basket | ₦24,213 | **₦15,810** | ₦15,810 |
+| Cycle 1 selling price | ₦15,000 | **₦33,000** | ₦33,000 |
+| Margin of safety | −61.4% | **52.1%** | 52.1% |
+| Cycle 1 NPAT | −₦2.76m | **₦4.54m** | ₦6.88m |
 
-Planning-case payback on opening equity is **Cycle 1 Peak**, inside the first harvest.
+Planning-case payback on opening equity is **Cycle 2 Peak**, still inside Year 1.
 
 ![Cycle 1 break-even](charts/fig_breakeven.png)
 
-*Figure: Cycle 1 break-even price versus planning Peak selling price (87.1% margin of safety).*
+*Figure: Cycle 1 break-even price versus non-glut Regular selling price (52.1% margin of safety).*
 
 ### 6.8 Sensitivity
 
-Peak cycles carry the enterprise. Regular glut is the second cycle, not the plan. The designed stress case (yield −25%, Peak ₦55k, costs +25%, 17% inflation) is the stacked test.
+Peak cycles carry the enterprise. Regular is planned at a non-glut ₦33,000 ticket; a January-style crash is the stress case, not the plan. The designed stress case (yield −25%, Peak ₦55k, costs +25%, 17% inflation) is the stacked test.
 
 ![Sensitivity](charts/fig_sensitivity.png)
 
@@ -440,15 +440,15 @@ Unlevered FCF = EBIT × (1 − 34%) + D&A − CapEx. t = 0 is −₦8.0 million 
 
 | | t=0 | Y1 | Y2 | Y3 | Y4 | Y5 |
 | --- | --- | --- | --- | --- | --- | --- |
-| FCF ₦m | (8.0) | 45.4 | 590.7 | 2,485.8 | 3,338.0 | 3,255.8 |
+| FCF ₦m | (8.0) | 96.3 | 897.0 | 3,148.9 | 3,338.0 | 3,255.8 |
 
 | Discount | NPV |
 | --- | --- |
-| 10%, no terminal value | ₦6.69bn |
-| **18%, no terminal value** | **₦5.12bn** |
-| 18% + Gordon TV (g = 3%) | ₦14.88bn |
+| 10%, no terminal value | ₦7.49bn |
+| **18%, no terminal value** | **₦5.78bn** |
+| 18% + Gordon TV (g = 3%) | ₦15.55bn |
 
-Project IRR on this path is very high because opening equity is small relative to Cycle 1 Peak cash. **NPV at 18%, Cycle 1 cash coverage, and DSCR (if geared) are the decision metrics** — not IRR.
+Project IRR on this path is very high because opening equity is small relative to Cycle 2 Peak cash. **NPV at 18%, Cycle 1 cash coverage, and DSCR (if geared) are the decision metrics** — not IRR.
 
 ### 6.10 KPIs (cycle pack, within 21 days of last sale)
 
@@ -464,7 +464,7 @@ Tonnes sold, average realised ₦/basket, spoilage %, cash / next-cycle opex, bu
 | Cycle 1 working capital (inputs, labour, lease, logistics, market) | 5,000,000 | Bank / DFI | — |
 | **Total** | **8,000,000** | **Total** | **8,000,000** |
 
-This is the original opening pack. No bank or DFI facility is required to start. After Cycle 1 Peak, working-capital demand is met from internally generated cash. Cycle 5 (₦364 million opex + ₦85 million CapEx) proceeds only with Cycle 3–4 cash in the bank.
+This is the original opening pack. No bank or DFI facility is required to start. After Cycle 2 Peak, working-capital demand is met from internally generated cash. Cycle 5 (₦337 million opex + ₦85 million CapEx) proceeds only with Cycle 4 cash in the bank.
 
 ### 6.12 Optional ₦80 million facility
 
@@ -476,13 +476,13 @@ The plan does not need debt to reach 100 ha. The optional facility exists so tha
 | Use | C3–C4 drip, borehole, packing shed, WC reserve, prepaid NAIC |
 | Rate | BOA production: 9% + 1% p.a. management + 0.5% appraisal |
 | Shape | Year 2 interest-only; Years 3–5 amortising |
-| Minimum DSCR | **113×** planning; **4.0×** stress (covenant 1.50×) |
+| Minimum DSCR | **145×** planning; **4.0×** stress (covenant 1.50×) |
 
 ![Optional facility DSCR](charts/fig_dscr.png)
 
 *Figure: Debt service coverage on the optional ₦80 million facility — planning case versus a typical 1.50× agricultural covenant.*
 
-Security, if drawn: all-asset debenture; assignment of the master lease/option (negotiate now); charge over drip and packhouse; NAIC loss-payee; promoter guarantee; BOA lien deposit 10–20% if that product is used. Year 2 planning-case cash (₦641 million) would cash-collateralise the ticket after Cycle 1–2.
+Security, if drawn: all-asset debenture; assignment of the master lease/option (negotiate now); charge over drip and packhouse; NAIC loss-payee; promoter guarantee; BOA lien deposit 10–20% if that product is used. Year 2 planning-case cash (₦998 million) would cash-collateralise the ticket after Cycle 2.
 
 ---
 
@@ -494,8 +494,8 @@ The enterprise is high-margin, Peak-dependent and operationally constrained. It 
 
 | Risk | L | I | Mitigation |
 | --- | --- | --- | --- |
-| Peak below ₦90,000 | M | H | Plan is ₦145k; stress ₦55k still Cycle-1-profitable; buffer |
-| Regular glut ₦13–15k | M | M | Cycle 2 Regular may compress; do not size Year 1 debt off Regular |
+| Peak below ₦90,000 | M | H | Plan is ₦145k; stress ₦55k still Year-1-profitable; buffer |
+| Regular glut ₦13–15k | M | M | Cycle 1 may lose money at the crash; do not size Year 1 debt off Regular |
 | Self-cannibalisation at 72–100 ha | M | H | 70% bulk from C5 contracted, not hoped |
 | Bulk buyer default | L | M | 40% concentration cap; 30% spot sleeve |
 | New southern intensive entrants | L | M | 18-month relationship lead; capital wall |
@@ -532,7 +532,7 @@ BOA publicly cites NAIC arable at 2% of material inputs — aligned with the mod
 
 ### 7.6 Overall
 
-Structural margins in the planning case (EBIT 77–83%) and the 50% buffer are the safety cushion. Market-absorption risk at full scale is addressed via the Cycle 5 bulk transition. The binding constraint from Cycle 4 is operational bandwidth — which is why the 45 ha/cycle ceiling is part of the plan, not a later discovery.
+Structural margins in the planning case (EBIT 80–88%) and the 50% buffer are the safety cushion. Market-absorption risk at full scale is addressed via the Cycle 5 bulk transition. The binding constraint from Cycle 4 is operational bandwidth — which is why the 45 ha/cycle ceiling is part of the plan, not a later discovery.
 
 ---
 
@@ -558,9 +558,9 @@ Cycle-level close, 50/50 rule, audit from Year 1, related-party lease disclosure
 
 ### 9.1 Feasibility verdict
 
-This study finds the venture **feasible**. Starting from one hectare and ₦8 million of paid-in capital, the Peak-first planning case reaches the full 100-hectare master block in six cycles — three years — without required external financing. It is underpinned by a structural tomato supply deficit, Ogun’s geographic advantage, a first harvest timed into Mile 12 scarcity rather than glut, and a capital-allocation policy that funds growth from retained profit while holding a cash buffer.
+This study finds the venture **feasible**. Starting from one hectare and ₦8 million of paid-in capital, the Regular-first planning case reaches the full 100-hectare master block in six cycles — three years — without required external financing. It is underpinned by a structural tomato supply deficit, Ogun’s geographic advantage, a first harvest at a non-glut Regular Mile 12 price, Peak capture from Cycle 2, and a capital-allocation policy that funds growth from retained profit while holding a cash buffer.
 
-The planning-case NPV at 18% is **₦5.12 billion** (five years, no terminal value). The stress case remains value-accretive at 18% (₦259 million). The upside case, if the agri tax holiday holds on the same crop path, is ₦7.78 billion at the same discount.
+The planning-case NPV at 18% is **₦5.78 billion** (five years, no terminal value). The stress case remains value-accretive at 18% (₦429 million). The upside case, if the agri tax holiday holds on the same crop path, is ₦8.79 billion at the same discount.
 
 ### 9.2 Critical success factors
 
@@ -568,7 +568,7 @@ The planning-case NPV at 18% is **₦5.12 billion** (five years, no terminal val
 2. ₦8 million paid-in before Cycle 1 transplant.
 3. A bankable lease/option with assignment rights and a holding fee.
 4. Uncompromising 50/50 allocation and the 45 ha/cycle ceiling.
-5. Bulk offtake signed before the Cycle 6 Regular step to 100 ha.
+5. Bulk offtake signed before the +45 ha Regular step.
 6. Cycle-level books from harvest one.
 7. Irrigation integrity — modelled yields are drip-dependent.
 
@@ -578,7 +578,7 @@ The planning-case NPV at 18% is **₦5.12 billion** (five years, no terminal val
 - Instruct counsel on the master option/lease before drip deposits.
 - Commission soil and borehole tests on the first 10 ha.
 - Bind NAIC and GIT; hire the farm manager; engage an FMC on advisory terms.
-- Run Cycle 1 as a Peak / non-glut proof cycle into July–November. Use that cash to fund Cycle 2 Regular.
+- Run Cycle 1 as a Regular proof cycle at the non-glut ₦33,000 ticket. Use Cycle 2 Peak to fill the buffer.
 - Begin bulk-contract conversations in Cycles 3–4.
 - Confirm with the farm-management company, before Cycle 4, that +45 ha can actually be mobilised — revise the ceiling down if not.
 - Obtain a tax opinion on the NTA 2025 agri holiday; the planning case does not spend that cash.
@@ -601,7 +601,7 @@ The opportunity is a structural tomato deficit, a 1.5-hour corridor to the price
 | Peak / scarcity season | Jul–Nov cycle aligned with northern supply collapse |
 | 50/50 rule | NPAT split: 50% cash buffer, 50% reinvestment |
 | Master block | Contiguous 100 ha under option/lease |
-| Planning case | Peak-first non-glut prices and agronomic yields, full tax |
+| Planning case | Regular first at non-glut ₦33,000 / Peak ₦145,000, agronomic yields, full tax |
 | Upside case | Agronomic yields, observed Peak prints, agri tax holiday |
 | Stress case | Glut Regular, weaker Peak, lower yield, faster inflation |
 | DSCR | EBITDA / (interest + fees + principal) |
@@ -621,9 +621,9 @@ The opportunity is a structural tomato deficit, a 1.5-hour corridor to the price
 7. Seed and drip quotations.
 8. Promoter KYC (NIN, BVN, ID, PEP).
 9. Tax engagement letter (holiday versus 34%).
-10. Cycle 1 budget signed against ≈₦6.7 million planning-case cash opex (Peak, 1 ha).
+10. Cycle 1 budget signed against ≈₦6.3 million planning-case cash opex (Regular, 1 ha).
 
-**Subsequent gates:** Cycle 1 Peak management accounts; Regular IPM before Cycle 2; two offtake LOIs before Cycle 3; mechanization SLA and 100 ha water note before Cycle 4; bulk term sheet before Cycle 5 (or delay the 100 ha Regular step); Year 1 audit within 120 days.
+**Subsequent gates:** Cycle 1 Regular management accounts; Peak IPM before Cycle 2; two offtake LOIs before Cycle 3; mechanization SLA and 100 ha water note before Cycle 4; bulk term sheet before Cycle 5 (or delay +45 ha); Year 1 audit within 120 days.
 
 ### C. Data-room index
 

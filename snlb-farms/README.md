@@ -14,7 +14,7 @@ Commercial tomato production on a leased 100-hectare master block in Ogun State,
 **Prepared:** August 2026  
 **Entity:** SNLB Farms  
 **Opening capital:** ₦8,000,000 (₦3.0m CapEx + ₦5.0m Cycle 1 working capital)  
-**Planning case:** Peak-first (non-glut) — 20/18 t/ha, ₦33,000 / ₦145,000 baskets, full cost stack, NTA 2025 tax
+**Planning case:** Regular first at non-glut Mile 12 prices — 20/18 t/ha, ₦33,000 / ₦145,000 baskets, full cost stack, NTA 2025 tax
 
 Notion: https://app.notion.com/p/643182fa58b845f88534f33c5d5316f3
 
