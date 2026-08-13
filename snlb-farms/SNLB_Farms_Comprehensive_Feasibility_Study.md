@@ -15,7 +15,7 @@ A self-funding expansion from 1 hectare to 100 hectares, driven by two-cycle ann
 | Planning case | Regular first at non-glut Mile 12 prices — 20/18 t/ha, ₦33,000 / ₦145,000 baskets, full stack, NTA 2025 tax |
 | Classification | Confidential planning document |
 
-**Purpose.** This study assesses the commercial viability of phased hybrid tomato production on a contiguous 100-hectare master block in Ogun State, with produce sold into Mile 12 International Market (≈1.5 hours). It sets out the operating model, market, agronomy, expansion path, three financial scenarios, charts, discounted cash flow, optional facility terms, risk, ESG, and the conditions for first planting.
+**Purpose.** This study assesses the commercial viability of phased hybrid tomato production on a contiguous 100-hectare master block in Ogun State, with produce sold into Mile 12 International Market (≈1.5 hours). It sets out the operating model, market, agronomy, Cycle 1 calendar and cash waterfall, quality spec, power and security, procurement lead times, offtake heads of terms, buffer use, expansion path, three financial scenarios, charts, discounted cash flow, optional facility terms, risk, ESG, and the conditions for first planting.
 
 **Disclaimer.** Figures are illustrative projections on stated assumptions. They are not guarantees. This document is not financial, legal, tax or investment advice. Independent professional advice is required before capital is committed.
 
@@ -218,17 +218,40 @@ Unit convention: 1 tonne = 20 baskets of 50 kg. Peak yield is 10–12% below Reg
 
 Planting weeks are reverse-engineered from the target Mile 12 window. **A Peak harvest that misses the scarcity window is the principal operating way to weaken the plan.** Cycle 1 stays Regular so the farm is proven before that window.
 
+#### How Cycle 1 earns the non-glut Regular price
+
+December–June is a long window. January 2025 printed ₦13,000–₦15,000; December 2024 and February 2025 printed ₦35,000–₦55,000 and ₦40,000. The ₦33,000 planning ticket is the non-crash Regular market — not an average of the crash. Cycle 1 is therefore timed to **harvest February–April**, after the January trough and before Peak.
+
+| Step | Timing (illustrative) | Purpose |
+| --- | --- | --- |
+| Nursery | Late October – late November | 3–4 week hybrid seedlings, hardened |
+| Transplant | Late November – mid December | Miss a January-only harvest |
+| Vegetative / first flower | December – January | Fertigation and scouting; do not flood the January auction |
+| Harvest | February – April | 5–6 week pick; sell into the non-glut Regular cluster |
+| Cycle close | April | 50/50 split; prepare +2 ha for Peak transplant ~May |
+
+If the farm is not ready for a November nursery, wait for the next Regular window rather than transplanting into a January harvest. Peak (Cycle 2) is then reverse-engineered from a July–November scarcity sale.
+
 ### 4.4 Irrigation, soil and pest management
 
 Drip plus fertigation on every productive hectare; shared mainlines across the master block. Opening CapEx ₦3.5 million (headworks + 1 ha). Incremental **₦1.0 million per additional hectare**, plus triggered shared works: second borehole ₦6 million at 15 ha; packing shed ₦8 million at 27 ha; packhouse, cold room and third borehole ₦40 million at 72 ha.
 
 IPM: resistant hybrids, traps, scouting, biologicals where feasible, targeted chemistry. Ogun is insulated from the main northern *Tuta* belt; Peak season is still modelled as higher cost and lower yield.
 
-Indicative water duty 4,000–6,000 m³/ha/cycle under drip, to be replaced by the agronomist. Borehole design is sized to 100 ha **before Cycle 5**.
+Indicative water duty 4,000–6,000 m³/ha/cycle under drip, to be replaced by the agronomist. At 5,000 m³/ha, Cycle 1 needs about **5,000 m³** over 90 days (~55 m³/day). A small borehole (2–4 m³/hour) covers 1 ha. At 100 ha the same duty is ~500,000 m³/cycle — which is why borehole design is sized to the full block **before Cycle 5**, not improvised at 72 ha.
 
-### 4.5 Post-harvest handling & logistics
+### 4.5 Post-harvest handling, logistics and Mile 12 selling
 
 Plastic crates from Cycle 1 (not raffia). Spoilage target **<5%**. Yields in the model are already net of a small field loss. Insulated or refrigerated trucking at **₦900/basket** in the planning case. Grading on size, colour, firmness and defects. Speed-to-market is the cold chain until the Cycle 5 packhouse.
+
+**Cycle 1 does not flood Mile 12.** 20 t on 1 ha is 400 baskets over a 5–6 week harvest — about **10–15 baskets per selling day** (1–2 small loads), not a terminal event. The 1,000+ t/day Mile 12 throughput absorbs that without moving the market.
+
+How the first 400 baskets are sold:
+
+- Grade to a **firm, hybrid, crate-packed** spec so the fruit trades with Jos-type Grade A, not the cheap soft local basket.
+- Open a **buyer log** of 5–8 Mile 12 wholesalers from week one of harvest; sell to two or three names, not a single dump.
+- Arrive early (pre-auction tightness), weigh and grade on the floor, cash T+0 to T+3.
+- Keep a daily price log against the ₦33,000 plan. If prints sit at ₦15,000–₦20,000 for a week, that is the stress case — see the Cycle 1 go/no-go in §6.14. Do not “average up” in the books.
 
 ### 4.6 Staffing plan
 
@@ -243,6 +266,8 @@ Seasonal field labour sits inside per-hectare production cost. Management scales
 | Modelled monthly management payroll | ₦70,000 | ₦550,000 | ₦2,600,000 |
 
 PAYE, pension (Pension Reform Act 2014) and NSITF/ITF are quantified with advisors as payroll formalises.
+
+Harvest labour on 1 ha: **8–12 pickers**, two to three picks a week for 5–6 weeks, plus crate handling and one driver/owner run to Mile 12. That crew sits inside the ₦612,000 Regular seasonal-labour line. At 72–100 ha the same pattern scales; it is why the 45 ha/cycle ceiling exists.
 
 ### 4.7 Sales-unit transition — baskets to bulk
 
@@ -262,6 +287,76 @@ The 50 kg basket is the primary unit through Cycle 4 (27 ha). From Cycle 5 (72 h
 | **Base production cost** | **3,400,000** | **3,800,000** |
 
 NAIC arable cover is **2% of production cost on top**. Quotations replace these shares before a BOA appraisal.
+
+### 4.9 Cycle 1 field pack — how 20 t/ha is built on 1 ha
+
+The 20 t/ha Regular yield is not a later-cycle prize. It is the intensive drip stand on hectare one.
+
+| Item | Cycle 1 planning pack |
+| --- | --- |
+| Net cultivated area | 1.0 ha (beds, paths and tank inside the hectare) |
+| Plant population | ≈22,000–25,000 plants/ha (hybrid, transplanted) |
+| Spacing (indicative) | Double-row on drip laterals; 30–40 cm in-row |
+| Cultivar | Eva F1 / Platinum F1; HortiTom strip from Cycle 2 |
+| Nursery | 3–4 weeks; 10% extra seedlings for gaps |
+| Irrigation | Drip + fertigation from transplant; mulch; staking/trellis |
+| Harvest | Breaker/turning stage; 2–3 picks/week; plastic crates |
+| Output | 20 t = 400 × 50 kg baskets, net of a small field loss |
+
+Indicative bill against the ₦3.4 million Regular production line (quotations replace this before planting): seed/seedlings ~₦1.02m; fertilizer/fertigation ~₦0.68m; IPM ~₦0.41m; seasonal labour ~₦0.61m; irrigation operating ~₦0.27m; staking/mulch ~₦0.24m; nursery & miscellaneous ~₦0.17m. Opening CapEx (₦3.0 million in the pack) is headworks, 1 ha drip, crates and tools — the kit that makes this stand possible.
+
+### 4.10 Quality specification — how ₦33,000 is earned
+
+₦33,000 is a **grade**, not a hope. Cheap, soft, raffia-packed local fruit prints ₦13,000–₦25,000 even in mixed weeks. Firm hybrid in crates prints with Jos-type Grade A (₦35,000–₦55,000 in ordinary Regular surveys). Cycle 1 fruit must meet a written spec before it leaves the farm:
+
+| Attribute | Cycle 1 spec |
+| --- | --- |
+| Cultivar | Named hybrid (Eva F1 / Platinum F1); no recycled seed |
+| Ripeness | Breaker to turning; no fully red overripe on the vine |
+| Firmness | Thumb test; reject soft, cracked or watery fruit |
+| Size / colour | Uniform; defects and sunscald out |
+| Pack | Clean plastic crate, 50 kg net, no raffia |
+| Residue | Spray interval observed; no harvest the day of chemistry |
+| Spoilage in transit | <5%; insulated/crate haul, 1.5 hours |
+
+Fruit that fails the spec is sold as a second grade or dumped — it is not mixed into the ₦33,000 lot. That is how the non-glut Regular ticket is defended on the Mile 12 floor.
+
+### 4.11 Power, pumping and farm security
+
+Drip on 1 ha needs reliable pumping, not grid hope.
+
+- **Cycle 1 power.** A small diesel genset (or hybrid solar-pump where the borehole yield allows) is part of the ₦3.0 million opening kit. Budget fuel inside the ₦272,000 irrigation operating line. Keep 72 hours of diesel on site.
+- **Spares.** One spare pump, fittings and a drip-repair kit on hectare one. Irrigation failure is a yield event, not a maintenance inconvenience.
+- **Security.** Night watch on the nursery and drip headworks from transplant. Haul cash is T+0 to T+3 — two-person Mile 12 runs, no overnight cash on the farm. GIT cover is already in the model.
+- **Host community.** Written access for labour and a simple grievance channel before Cycle 1. Prefer local harvest crews. This is social licence, not CSR theatre; a blocked gate at 72 ha is an operating risk.
+
+### 4.12 Input procurement lead times
+
+Cycle 1 fails if seed and drip arrive after the November nursery window.
+
+| Item | Lead time | Action |
+| --- | --- | --- |
+| Certified hybrid seed | 8–12 weeks (import / authorised distributor) | Order before nursery; 10% extra for gaps |
+| Drip laterals, filters, fertigation tank | 4–8 weeks | Deposit after soil/water pass; install before transplant |
+| Fertilizer and soluble feed | 2–4 weeks | First cycle on quotation; bulk from Cycle 3 |
+| Crates, twine, mulch, traps | 2–3 weeks | On site before transplant |
+| NAIC / GIT bind | 2–3 weeks | Bind before transplant, not after |
+
+FX on imported seed and drip is managed by **naira quotations and early order**, not by hoping the naira holds. That is already the planning assumption; it is an operating task in months −4 to −1.
+
+### 4.13 Farm-manager KPIs (Cycle 1–2)
+
+The farm manager is paid against cycle packs, not against hope.
+
+| KPI | Cycle 1 target | Cycle 2 target |
+| --- | --- | --- |
+| Yield (net) | ≥ 18 t/ha (plan 20) | ≥ 16 t/ha Peak (plan 18) |
+| Spoilage in transit | <5% | <5% |
+| Average realised ₦/basket | ≥ ₦30,000 Regular | Peak window hit (Jul–Nov sale) |
+| Spray / harvest interval | Spec held | Spec held |
+| Cycle close pack | Within 21 days of last sale | Same |
+
+Missed Peak timing is a farm-manager miss, not a market miss.
 
 ---
 
@@ -302,12 +397,53 @@ From Year 2, selected parcels convert to owned land where the lease allows, usin
 
 | Phase | Timing | Key activities |
 | --- | --- | --- |
-| Pre-operations | Months −4 to 0 | Incorporate; TIN; master option/lease with assignment; soil + borehole tests; ₦8m paid-in; NAIC/GIT bind; farm manager; FMC advisory; seed and drip quotations |
+| Pre-operations | Months −4 to 0 | See 16-week countdown below |
 | Cycle 1 Regular | Months 0–6 | 1 ha at non-glut Regular price; Mile 12 buyer log; cycle-close pack; 50/50 split; prepare +2 ha |
 | Cycle 2 Peak | Months 6–12 | 3 ha Peak; first high-margin harvest; reinvestment into +12 ha |
 | Cycles 3–4 | Year 2 | 15 → 27 ha; Stage 1→2 mechanization; finance hire; two offtake LOIs; optional ₦80m facility; selective lease-to-own |
 | Cycles 5–6 | Year 3 | 72 → 100 ha; Stage 3; packhouse; 70/30 bulk/spot; full team |
 | Steady state | Year 4+ | Dual-cycle 100 ha; yield/cost improvement; optional processing from buffer (separate study) |
+
+**16-week pre-ops countdown (before Cycle 1 transplant)**
+
+| Week | Gate |
+| --- | --- |
+| −16 to −14 | Counsel on master option/lease; CAC/TIN; open farm account; ₦8m paid in |
+| −14 to −12 | Soil lab + borehole yield/quality on first 10 ha; survey |
+| −12 to −10 | Seed and drip quotations; FMC advisory letter; farm-manager hire |
+| −10 to −8 | NAIC/GIT bind; crate and input orders; genset/pump confirmed |
+| −8 to −6 | Drip install on 1 ha; nursery started |
+| −6 to −4 | Fertigation trial on a short lateral; IPM kit on site; buyer list started |
+| −4 to 0 | Transplant window (late Nov – mid Dec); Cycle 1 budget signed; first scouting log |
+
+If any of soil, water, seed or drip is late, **slip the transplant**. Do not compress nursery into a January harvest.
+
+### 5.5 What the buffer is for
+
+By Year 3 the planning case holds about **₦2.13 billion** in the 50% buffer. That cash is not a licence to start a paste plant, a second 100 ha, or export. Allowed uses, in order:
+
+1. Next-cycle working capital and drip (already in the reinvestment half).
+2. Lease-to-own deposits from Year 2 where the lease allows.
+3. A missed Peak or a Regular crash (the stress case).
+4. Packhouse quality if Cycle 4 cash is in — not because the NPV needs it.
+5. Short naira instruments (Treasury bills) for cash that exceeds the next two cycles’ opex. No related-party loans, no FX speculation, no processing until a separate study.
+
+### 5.6 Offtake heads of terms (from Cycle 5)
+
+Cycle 1–4 are Mile 12 cash sales. From Cycle 5 (~70% bulk) a one-page term sheet, not a handshake:
+
+| Term | Planning position |
+| --- | --- |
+| Product | Graded fresh tomato, hybrid, crate or bulk bin, spec as §4.10 |
+| Volume | ~70% of the cycle; 30% remains Mile 12 spot |
+| Price | 10% below the reference Mile 12 basket (7% blended haircut already in the model) |
+| Window | Named weeks; Peak window is a condition for Peak cycles |
+| Payment | T+3 to T+7; no open account beyond that |
+| Concentration | No single buyer >40% of a cycle without a board note |
+| Rejects | Spec failure is the farm’s; in-transit after dispatch is GIT |
+| LOIs | Two letters before Cycle 3; signed term sheet before Cycle 5 planting |
+
+If the term sheet is not signed, delay the +45 ha Regular step. The three-year path to 100 ha can wait one cycle; a 72 ha Regular dump cannot.
 
 ---
 
@@ -484,6 +620,31 @@ The plan does not need debt to reach 100 ha. The optional facility exists so tha
 
 Security, if drawn: all-asset debenture; assignment of the master lease/option (negotiate now); charge over drip and packhouse; NAIC loss-payee; promoter guarantee; BOA lien deposit 10–20% if that product is used. Year 2 planning-case cash (₦998 million) would cash-collateralise the ticket after Cycle 2.
 
+### 6.13 Cycle 1 cash waterfall (₦8.0 million pack)
+
+Cash leaves the farm before Mile 12 pays. The ₦8.0 million pack is sized for that gap: ₦3.0 million CapEx and ₦5.0 million working capital. Cycle 1 lease cash in this pack is **cultivated hectare only** (₦100,000). The unused 99 ha is held on option/ROFR so a holding fee does not consume Cycle 1 working capital. Harvest cash (₦13.2 million at ₦33,000) returns over five to six weeks.
+
+| Phase | Cash out (indicative) | Cash in | Running cash |
+| --- | ---: | ---: | ---: |
+| t = 0 — equity paid in | — | 8,000,000 | 8,000,000 |
+| Headworks, 1 ha drip, crates, tools | 3,000,000 | — | 5,000,000 |
+| Nursery, seed, first fertigation | 1,200,000 | — | 3,800,000 |
+| In-season inputs, labour, IPM, water, lease, insurance | 3,200,000 | — | 600,000 |
+| Harvest weeks (400 baskets @ ₦33,000) | 360,000 logistics | 13,200,000 | 13,440,000 |
+| Cycle close (before 50/50) | — | — | ≈13.4m |
+
+The ₦600,000 trough before first sale is why crates, fuel and the last labour week are not left to “pay from the market.” If Regular prints the stress floor (₦15,000) instead of ₦33,000, harvest cash is ₦6.0 million and Cycle 1 is a planned loss — the go/no-go below.
+
+### 6.14 Cycle 1 go / no-go before the +2 ha Peak step
+
+Cycle 1 is the proof. Do not add two hectares for Peak on hope.
+
+| Cycle 1 result | Action |
+| --- | --- |
+| Yield ≥ 18 t/ha **and** average basket ≥ ₦30,000 | Proceed to 3 ha Peak as planned |
+| Yield 15–18 t/ha **or** price ₦22,000–₦30,000 | Peak on 1–2 ha only; fix nursery, fertigation or grade; do not spend the full +2 ha drip until the next close |
+| Yield < 15 t/ha **or** price ≤ ₦20,000 for the harvest | Stay at 1 ha; run Peak as a timing test; do not scale. That is the stress case, not a reason to raise opening capital |
+
 ---
 
 ## 7. Risk Assessment
@@ -565,12 +726,13 @@ The planning-case NPV at 18% is **₦5.78 billion** (five years, no terminal val
 ### 9.2 Critical success factors
 
 1. Peak harvest timed into the July–November scarcity window.
-2. ₦8 million paid-in before Cycle 1 transplant.
-3. A bankable lease/option with assignment rights and a holding fee.
-4. Uncompromising 50/50 allocation and the 45 ha/cycle ceiling.
-5. Bulk offtake signed before the +45 ha Regular step.
-6. Cycle-level books from harvest one.
-7. Irrigation integrity — modelled yields are drip-dependent.
+2. Cycle 1 Regular harvest timed to **February–April**, not into the January crash.
+3. ₦8 million paid-in before Cycle 1 transplant.
+4. A bankable lease/option with assignment rights; Cycle 1 rent on cultivated land, unused block on option.
+5. Uncompromising 50/50 allocation and the 45 ha/cycle ceiling.
+6. Bulk offtake signed before the +45 ha Regular step.
+7. Cycle-level books from harvest one.
+8. Irrigation integrity — modelled yields are drip-dependent.
 
 ### 9.3 Recommendations
 
@@ -578,8 +740,11 @@ The planning-case NPV at 18% is **₦5.78 billion** (five years, no terminal val
 - Instruct counsel on the master option/lease before drip deposits.
 - Commission soil and borehole tests on the first 10 ha.
 - Bind NAIC and GIT; hire the farm manager; engage an FMC on advisory terms.
-- Run Cycle 1 as a Regular proof cycle at the non-glut ₦33,000 ticket. Use Cycle 2 Peak to fill the buffer.
-- Begin bulk-contract conversations in Cycles 3–4.
+- Run Cycle 1 as a Regular proof cycle at the non-glut ₦33,000 ticket, harvested February–April. Use Cycle 2 Peak to fill the buffer.
+- Apply the Cycle 1 go/no-go before spending drip on the extra 2 ha.
+- Order seed 8–12 weeks before nursery; do not compress into a January harvest.
+- Begin bulk-contract conversations in Cycles 3–4; sign heads of terms before Cycle 5 planting.
+- Hold the buffer for operations, lease-to-own and a missed cycle — not for processing or a second 100 ha.
 - Confirm with the farm-management company, before Cycle 4, that +45 ha can actually be mobilised — revise the ceiling down if not.
 - Obtain a tax opinion on the NTA 2025 agri holiday; the planning case does not spend that cash.
 - After the Cycle 2 audit pack, raise the optional ₦80 million facility only if it accelerates packhouse quality — not because the model needs it.
@@ -597,7 +762,7 @@ The opportunity is a structural tomato deficit, a 1.5-hour corridor to the price
 
 | Term | Meaning |
 | --- | --- |
-| Regular season | Dec–Jun glut-aligned cycle |
+| Regular season | Dec–Jun cycle; **planned** at a non-glut Mile 12 ticket (harvest Feb–Apr), not at the January crash |
 | Peak / scarcity season | Jul–Nov cycle aligned with northern supply collapse |
 | 50/50 rule | NPAT split: 50% cash buffer, 50% reinvestment |
 | Master block | Contiguous 100 ha under option/lease |
@@ -641,6 +806,6 @@ NIHORT production guidance and HortiTom4/5 notes. Olam-Caraway public yields. Mi
 
 | Version | Date | Notes |
 | --- | --- | --- |
-| Comprehensive Feasibility Study | August 2026 | Operating model, charts, three scenarios, phased CapEx, NTA 2025, DCF, optional facility, CPs |
+| Comprehensive Feasibility Study | August 2026 | Regular-first, non-glut prices; Cycle 1 calendar, quality spec, power/security, procurement, buffer policy, offtake heads of terms |
 
 Prepared for SNLB Farms. Not for general circulation. Replace planning tables with live quotations and the site report before any binding credit application.
