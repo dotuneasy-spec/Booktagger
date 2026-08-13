@@ -1,6 +1,8 @@
 # SNLB Farms
 # Bankable Feasibility Study & Information Memorandum
 
+> **Superseded working paper.** The circulating study is [`SNLB_Farms_Comprehensive_Feasibility_Study.md`](./SNLB_Farms_Comprehensive_Feasibility_Study.md) (and its PDF). Opening capital is the original **₦8,000,000** pack (₦3.0 million CapEx + ₦5.0 million Cycle 1 working capital). Do not use the ₦12 million paid-in recommendation in this file.
+
 **Commercial Tomato Farming on a Leased 100-Hectare Master Block**  
 Ogun State, Nigeria — supplying Mile 12 International Market, Lagos
 

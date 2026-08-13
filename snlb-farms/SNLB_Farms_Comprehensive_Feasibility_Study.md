@@ -51,7 +51,7 @@ Agronomic targets sit at the conservative end of NIHORT’s intensive range (20�
 
 Capital allocation follows a **50/50 rule** at every cycle close: half of net profit is a cash buffer; half is reinvested into adjacent hectares, drip extension and, later, packhouse infrastructure. Land added per cycle is capped at **+45 ha**, the practical ceiling on preparation, irrigation and staffing in a single six-month window. Under that combination the venture reaches the full 100-hectare block in **six cycles — three years**.
 
-Opening capitalization is **₦12.0 million**: ₦3.5 million of headworks, 1 ha drip, crates, tools and legal; the balance for Cycle 1 cash operating costs, pre-ops and a small shock reserve. Growth after Cycle 1 is funded from retained earnings. External debt is not required to reach 100 ha. An optional ₦80 million production facility from Year 2 is specified so that a BOA or NIRSAL-wrapped bank file is ready if the promoters later choose it.
+Opening capitalization is **₦8.0 million**: ₦3.0 million of irrigation infrastructure and basic equipment, and ₦5.0 million of Cycle 1 working capital. Growth after Cycle 1 is funded from retained earnings. External debt is not required to reach 100 ha. An optional ₦80 million production facility from Year 2 is specified so that a BOA or NIRSAL-wrapped bank file is ready if the promoters later choose it.
 
 ### Key figures at a glance — base case
 
@@ -63,7 +63,7 @@ Opening capitalization is **₦12.0 million**: ₦3.5 million of headworks, 1 ha
 | Base-case prices (50 kg basket) | ₦22,000 Regular / ₦90,000 Peak |
 | Expansion path | 1 → 3 → 15 → 27 → 72 → 100 ha, capped at +45 ha/cycle |
 | Time to full 100 ha | 6 cycles — 3 years |
-| Opening capital | ₦12,000,000 paid-in |
+| Opening capital | ₦8,000,000 (₦3.0m CapEx + ₦5.0m Cycle 1 WC) |
 | Year 1 NPAT / net margin | ₦46.5m / 49.3% |
 | Year 3 NPAT / net margin | ₦1.53bn / 47.5% (first year the block is full) |
 | Cycle 1 break-even | ₦18,262 / basket vs ₦22,000 Regular (17.0% margin of safety) |
@@ -303,7 +303,7 @@ From Year 2, selected parcels convert to owned land where the lease allows, usin
 
 | Phase | Timing | Key activities |
 | --- | --- | --- |
-| Pre-operations | Months −4 to 0 | Incorporate; TIN; master option/lease with assignment; soil + borehole tests; ₦12m paid-in; NAIC/GIT bind; farm manager; FMC advisory; seed and drip quotations |
+| Pre-operations | Months −4 to 0 | Incorporate; TIN; master option/lease with assignment; soil + borehole tests; ₦8m paid-in; NAIC/GIT bind; farm manager; FMC advisory; seed and drip quotations |
 | Cycle 1 Regular | Months 0–6 | 1 ha; Mile 12 buyer log; cycle-close pack; 50/50 split; prepare +2 ha |
 | Cycle 2 Peak | Months 6–12 | 3 ha Peak; first high-margin harvest; reinvestment into +12 ha |
 | Cycles 3–4 | Year 2 | 15 → 27 ha; Stage 1→2 mechanization; finance hire; two offtake LOIs; optional ₦80m facility; selective lease-to-own |
@@ -389,7 +389,7 @@ Output VAT: fresh produce treated as **exempt**. The base case does not spend th
 | Debt | — | — | — | — | — |
 | Equity | 55.5 | 505.0 | 2,030.3 | 3,528.0 | 4,937.1 |
 
-\*The model engine starts at ₦8.0 million so that Cycle 1 tightness is visible. **Recommended paid-in capital is ₦12.0 million** (see 6.11). Mile 12 is modelled as cash sales (T+0 to T+3).
+\*Owner equity of ₦8.0 million at t=0. Mile 12 is modelled as cash sales (T+0 to T+3).
 
 ### 6.6 CapEx programme
 
@@ -456,17 +456,15 @@ Tonnes sold, average realised ₦/basket, spoilage %, cash / next-cycle opex, bu
 
 ### 6.11 Sources & uses and working capital
 
-**Recommended opening pack — ₦12,000,000**
+**Opening pack — ₦8,000,000**
 
-| Use | ₦ |
-| --- | --- |
-| Initial CapEx | 3,500,000 |
-| Cycle 1 cash operating costs (ex-D&A) | 6,199,000 |
-| Pre-ops (soil, CAC, insurance, nursery) | 800,000 |
-| Opening shock buffer | 1,501,000 |
-| **Total** | **12,000,000** |
+| Use | ₦ | Source | ₦ |
+| --- | --- | --- | --- |
+| Cycle 1 CapEx (drip, nursery, irrigation, tools) | 3,000,000 | Promoter equity | 8,000,000 |
+| Cycle 1 working capital (inputs, labour, lease, logistics, market) | 5,000,000 | Bank / DFI | — |
+| **Total** | **8,000,000** | **Total** | **8,000,000** |
 
-Cycle 1 cash opex of ≈₦6.2 million plus ₦3.5 million CapEx is why paid-in capital is set at ₦12 million rather than a thinner ₦8 million. After Cycle 2 Peak, working-capital demand is met from internally generated cash. Cycle 5 (₦408 million opex + ₦85 million CapEx) proceeds only with Cycle 4 cash in the bank.
+This is the original opening pack. No bank or DFI facility is required to start. After Cycle 2 Peak, working-capital demand is met from internally generated cash. Cycle 5 (₦408 million opex + ₦85 million CapEx) proceeds only with Cycle 4 cash in the bank.
 
 ### 6.12 Optional ₦80 million facility
 
@@ -560,14 +558,14 @@ Cycle-level close, 50/50 rule, audit from Year 1, related-party lease disclosure
 
 ### 9.1 Feasibility verdict
 
-This study finds the venture **feasible**. Starting from one hectare and ₦12 million of paid-in capital, the base case reaches the full 100-hectare master block in six cycles — three years — without required external financing. It is underpinned by a structural tomato supply deficit, Ogun’s geographic advantage, a deliberate strategy of scaling ahead of every Peak cycle, and a capital-allocation policy that funds growth from retained profit while holding a cash buffer.
+This study finds the venture **feasible**. Starting from one hectare and ₦8 million of paid-in capital, the base case reaches the full 100-hectare master block in six cycles — three years — without required external financing. It is underpinned by a structural tomato supply deficit, Ogun’s geographic advantage, a deliberate strategy of scaling ahead of every Peak cycle, and a capital-allocation policy that funds growth from retained profit while holding a cash buffer.
 
 The base case NPV at 18% is **₦2.62 billion** (five years, no terminal value). The stress case remains value-accretive at 18% (₦429 million). The upside case, if Peak prints and the agri tax holiday both hold, is ₦8.79 billion at the same discount.
 
 ### 9.2 Critical success factors
 
 1. Peak harvest timed into the July–November scarcity window.
-2. ₦12 million paid-in before Cycle 1 transplant.
+2. ₦8 million paid-in before Cycle 1 transplant.
 3. A bankable lease/option with assignment rights and a holding fee.
 4. Uncompromising 50/50 allocation and the 45 ha/cycle ceiling.
 5. Bulk offtake signed before the +45 ha Regular step.
@@ -576,7 +574,7 @@ The base case NPV at 18% is **₦2.62 billion** (five years, no terminal value).
 
 ### 9.3 Recommendations
 
-- Incorporate SNLB Farms as a limited company; open a dedicated operating account; pay in ₦12 million.
+- Incorporate SNLB Farms as a limited company; open a dedicated operating account; pay in ₦8 million.
 - Instruct counsel on the master option/lease before drip deposits.
 - Commission soil and borehole tests on the first 10 ha.
 - Bind NAIC and GIT; hire the farm manager; engage an FMC on advisory terms.
@@ -615,7 +613,7 @@ The opportunity is a structural tomato deficit, a 1.5-hour corridor to the price
 ### B. Conditions of first planting
 
 1. CAC incorporation, TIN, MEMART with agri objects and borrowing power.
-2. ₦12.0 million paid-in **or** ₦8.0 million plus a bound ₦5–10 million input facility.
+2. ₦8,000,000 paid into the farm account, with the share register and board minutes.
 3. Executed master option/lease with lender-assignment language.
 4. Independent soil test and borehole yield/quality on the first 10 ha.
 5. Named farm manager (CV) and FMC advisory letter.
