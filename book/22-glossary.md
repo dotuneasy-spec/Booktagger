@@ -14,6 +14,12 @@
 
 **Occupation.** Taking the field as the I rather than a tightness, caption, or face. The act of singular thought, as opposed to becoming a new personality.
 
+**Hour (of thought).** A duration of occupation long enough for more than one function to be exact, and for a report to arrive late. Not sixty minutes, and not a personality’s schedule.
+
+**Late report.** Intellect’s caption after coincidence or grant or crack. Needed for test and speech. Lies when it claims to have been first, or when it completes what the hour left unclosed.
+
+**Freeze of direction.** An hour or a diet that will only cut, or only coincide. Not the same as freeze of the whole field into one project, though they can braid.
+
 **Animation.** The self-moving quality of a singular mind: it originates motion, expresses itself through situations, keeps going without being wound from outside, and has a tone. Not mood. The fact of inner motion.
 
 **Antithesis / synthesis.** Used here modestly: a real contrary allowed into a field, then gathered into a thicker stance. Not a claim that Ayanokōji is a German philosopher.

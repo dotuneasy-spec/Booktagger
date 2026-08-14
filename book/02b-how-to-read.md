@@ -2,9 +2,9 @@
 
 This is not a novel and not a textbook. It is a long walk around one fictional mind, using a handful of borrowed words because ordinary words smear the joints.
 
-You can read straight through. The path is core → work → inner motion → bill → Part V (form without the person) → **Part VI (the second)**.
+You can read straight through. The path is core → work → inner motion → bill → Part V (form) → Part VI (the second) → **Part VII (the hour)**.
 
-If you want only singular thought as thought, skip to Part V after the introduction (or after Chapter 17). Part VI continues that cut: appearance versus grant, crack, shared object, address, not-the-only.
+If you want only singular thought as thought, skip to Part V. Part VI is the second. Part VII is how cut and coincidence rank those acts in one stretch of thinking, with no little manager inside.
 
 You can also read it as a glossary that grew opinions. If a chapter feels like it is repeating, that is on purpose. A mind like this does not yield to a single pass. Mapping, for example, returns as conversation, as Umwelt, as making-do. Each return is a different side of one habit: he does not start by announcing.
 

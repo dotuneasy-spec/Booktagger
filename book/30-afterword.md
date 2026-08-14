@@ -4,7 +4,7 @@ A conversation asked for a book about a mind. The mind was a boy who treats hims
 
 This manuscript took that machine apart far enough to stop it from being a weapon, then put it back together as a reading.
 
-A later turn asked to continue, but more about singular thought and less about personality. Part V was that continuation. Part VI walks the joint Part V left open: the second. Appearance is not grant. Occupation of the one does not require uniqueness as a doctrine. Grant, crack, and shared object are acts, not a new who.
+Part VI walks the joint Part V left open: the second. Part VII puts the names into duration: an hour of thought in which intellect’s cut and intuition’s coincidence rank absorption, crack, grant, and shared object, with no personality holding the stretch. Occupation holds it. Ranking is occupation in time.
 
 If the book is too long, that is because the source talk kept asking to walk around the same joint until it was simple. Simple took space. If the book is too moral, that is because the joints were dual-use and the author of this text would not pretend otherwise. If the book is too dry, it caught a tone of the form when the form is instrumental. If it is too lyrical, it was answering the why that is not a how.
 

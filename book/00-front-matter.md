@@ -6,7 +6,7 @@ A study of singular thought, intuition, and the quiet machinery of a tool-self.
 
 ---
 
-*This book is original analysis of an image of thought. A fictional mind (Kiyotaka Ayanokōji) is used as a magnifying glass, especially in Parts I–IV. Part V drops the glass and describes **singular thought as a form**. Part VI stays on the remaining joint: **the second** — how thought that is one can think what is not a function of itself. Philosophical names are tools for joints, not a syllabus. The novels are not reprinted. This is not a method for controlling people.*
+*This book is original analysis of an image of thought. A fictional mind is a magnifying glass in Parts I–IV. Part V is **singular thought as a form**. Part VI is **the second**. Part VII is **the hour**: cut and coincidence ranking those functions in duration, without a personality to hold the stretch. Philosophical names are tools for joints. The novels are not reprinted. This is not a method for controlling people.*
 
 ---
 
@@ -108,6 +108,22 @@ A study of singular thought, intuition, and the quiet machinery of a tool-self.
 69. The Lie of Function-You
 70. What the Second Is For
 71. Recapitulation of Part VI
+
+**Part VII. The Hour of Thought**
+
+72. Cut and Coincidence in One Field
+73. What Intellect Does with the Second
+74. What Intuition Does with the Second
+75. Oscillation Without a Holder
+76. The Late Report
+77. An Hour, Without a Face
+78. When Cut Should Be First
+79. When Coincidence Should Be First
+80. Freeze of Direction
+81. How and Why in the Same Hour
+82. Ranking Is the Holder
+83. What the Hour Is For
+84. Recapitulation of Part VII
 
 **Coda** — What the tool-self cannot do
 
