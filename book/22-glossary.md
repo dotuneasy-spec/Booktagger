@@ -4,6 +4,14 @@
 
 **Actual / virtual.** Actual: the current contraction (this object, this now). Virtual: what presses in the medium without being king. Self-differing often actualizes what was virtual.
 
+**Grant.** The thought-act of positing another origin of animation — not as a better map of a mark, but as origin-not-mine. Not telepathy. Not a warmer personality.
+
+**Crack (of the second).** Leaving an involvement unclosed on purpose: not absorbing, not yet cashing a you, remainder kept exact.
+
+**Shared object.** A third thing (proof, problem, made duration) two occupations can coincide with without fusion and without hunting.
+
+**Function-you.** Address that says you while cashing the other as a function of this field. A lie of address; a tendency of absorptive unity, not a necessity of the form.
+
 **Occupation.** Taking the field as the I rather than a tightness, caption, or face. The act of singular thought, as opposed to becoming a new personality.
 
 **Animation.** The self-moving quality of a singular mind: it originates motion, expresses itself through situations, keeps going without being wound from outside, and has a tone. Not mood. The fact of inner motion.

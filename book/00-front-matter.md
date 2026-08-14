@@ -6,7 +6,7 @@ A study of singular thought, intuition, and the quiet machinery of a tool-self.
 
 ---
 
-*This book is original analysis of an image of thought. A fictional mind (Kiyotaka Ayanokōji) is used as a magnifying glass, especially in Parts I–IV. Part V drops the glass and describes **singular thought as a form** — one field, identity as function, self-differing — not as a personality. Philosophical names (Bergson, Hallward, Deleuze, Uexküll) are tools for joints, not a syllabus. The novels are not reprinted. This is not a method for controlling people.*
+*This book is original analysis of an image of thought. A fictional mind (Kiyotaka Ayanokōji) is used as a magnifying glass, especially in Parts I–IV. Part V drops the glass and describes **singular thought as a form**. Part VI stays on the remaining joint: **the second** — how thought that is one can think what is not a function of itself. Philosophical names are tools for joints, not a syllabus. The novels are not reprinted. This is not a method for controlling people.*
 
 ---
 
@@ -90,6 +90,24 @@ A study of singular thought, intuition, and the quiet machinery of a tool-self.
 54. Occupying, Not Becoming Someone
 55. What Singular Thought Does
 56. Recapitulation of Part V
+
+**Part VI. The Second**
+
+57. Appearance Is Not Grant
+58. Option One: There Is No Second
+59. Option Two: Grant as a Change of Image
+60. Option Three: The Crack
+61. Shared Object
+62. Resistance
+63. Address
+64. Not the Only
+65. Mapping Restated
+66. The World as Answer
+67. Implication of Another Ranking
+68. Double Occupation?
+69. The Lie of Function-You
+70. What the Second Is For
+71. Recapitulation of Part VI
 
 **Coda** — What the tool-self cannot do
 
