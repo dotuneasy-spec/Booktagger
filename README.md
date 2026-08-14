@@ -6,7 +6,11 @@ A book-length literary and philosophical study of Kiyotaka Ayanokōji’s *image
 
 ## Read this
 
-Open **[book/FULL-MANUSCRIPT.md](book/FULL-MANUSCRIPT.md)** for the assembled book (start to finish).
+Open **[book/FULL-MANUSCRIPT.md](book/FULL-MANUSCRIPT.md)** for the assembled markdown.
+
+**PDF (graphic cover):** [book/Thinking-as-One-Being.pdf](book/Thinking-as-One-Being.pdf) — 6×9 in, ~368 pages, Ayanokōji cover.
+
+Rebuild with `python3 book/build_pdf.py` (needs `pandoc` and `typst`).
 
 Individual chapters live in `book/` if you want to read or edit them separately. Order is listed in `book/00-front-matter.md`.
 
