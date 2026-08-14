@@ -1,17 +1,13 @@
 # Afterword
 
-A conversation asked for a book about a mind. The mind was a boy who treats himself as a tool. The conversation had already built a machine of ideas: singular and specific, nodes, animation, mapping, dialectic, counterpoint, intuition, one being, a poetic why.
+A conversation asked for a book. It began as a who and became a form of thought.
 
-This manuscript took that machine apart far enough to stop it from being a weapon, then put it back together as a reading.
+The manuscript took a dual-use machine of ideas apart far enough that it would not be a weapon, then rebuilt it as: occupation of one field; the problem of a second; an hour without a manager; a diet that limits what can be thought; the original problem of the now, cashed without a new personality.
 
-Part VI walks the joint Part V left open: the second. Part VII puts the names into duration: an hour of thought in which intellect’s cut and intuition’s coincidence rank absorption, crack, grant, and shared object, with no personality holding the stretch. Occupation holds it. Ranking is occupation in time.
+It is finished. Not because every joint in philosophy is closed. Because the joints this conversation needed are named, walked, and ranked. Further walking would be the next ping treated as the world.
 
-If the book is too long, that is because the source talk kept asking to walk around the same joint until it was simple. Simple took space. If the book is too moral, that is because the joints were dual-use and the author of this text would not pretend otherwise. If the book is too dry, it caught a tone of the form when the form is instrumental. If it is too lyrical, it was answering the why that is not a how.
+If the book is long, the talk asked for simple, and simple took space. If it is moral, the craft of function-you had to be named. If it is dry, that is a tone of the form. If it is lyrical, that is the why that is not a how.
 
-Kiyotaka Ayanokōji remains a fiction. Fictions are good for diagrams because they can be extreme without a real victim in the room. The victim-risk starts when a reader leaves the room and tries to live as a workshop among unsuspecting people. Don’t. Occupy your own one being. Rank your own now. Stay for your own why. Let others be specific.
+Occupy the field. Rank the now. Let some marks press. Do not cash a you as a tool and call it meeting. Stay for a tone that is not for use, if diet allows. Let others be origins when that is exact.
 
-The school story will go on, in volumes, with twists this book refused to chase. The image of thought may shift. If he ever lands in a now that is enough, or meets someone as not-a-fold, or lets a day be a day, that would not ruin the diagram. It would complete a dialectic this coda called unfinished.
-
-Until then, the first four parts still have a portrait: thinking as one being, trained as a tool, superb at the how-floor, a beginner at the why, agency without a home. Part V keeps the geometry and drops the portrait.
-
-That is enough for a book. The rest is your duration, which is not a character’s field.
+The rest is not a chapter. It is your duration.

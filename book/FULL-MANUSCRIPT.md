@@ -6,7 +6,7 @@ A study of singular thought, intuition, and the quiet machinery of a tool-self.
 
 ---
 
-*This book is original analysis of an image of thought. A fictional mind is a magnifying glass in Parts I–IV. Part V is **singular thought as a form**. Part VI is **the second**. Part VII is **the hour**: cut and coincidence ranking those functions in duration, without a personality to hold the stretch. Philosophical names are tools for joints. The novels are not reprinted. This is not a method for controlling people.*
+*This book is original analysis of an image of thought. Parts I–IV use a fictional mind as a magnifying glass. Parts V–IX describe singular thought as a form, the second, the hour, diet, and the original problem of the now — then stop. Philosophical names are tools for joints. The novels are not reprinted. This is not a method for controlling people. The book is finished.*
 
 ---
 
@@ -125,7 +125,29 @@ A study of singular thought, intuition, and the quiet machinery of a tool-self.
 83. What the Hour Is For
 84. Recapitulation of Part VII
 
-**Coda** — What the tool-self cannot do
+**Part VIII. Diet**
+
+85. The Law of Diet
+86. Spending and Press
+87. Necessity and Curiosity
+88. Contest-Diet
+89. Why-Diet
+90. Diet and Direction
+91. Diet and the Second
+92. Recapitulation of Part VIII
+
+**Part IX. The Problem, Finished as Form**
+
+93. Present Context, Cashed
+94. Volition, Cashed
+95. Agency Without a Who
+96. The Architecture
+97. What This Book Will Not Add
+98. Last Recapitulation
+
+**Coda** — What the tool-self cannot do (Parts I–IV)
+
+**Finis**
 
 **Afterword**
 
@@ -229,9 +251,9 @@ We start where he starts: with one self that was built to be used, and that lear
 
 This is not a novel and not a textbook. It is a long walk around one fictional mind, using a handful of borrowed words because ordinary words smear the joints.
 
-You can read straight through. The path is core → work → inner motion → bill → Part V (form) → Part VI (the second) → **Part VII (the hour)**.
+You can read straight through. The path is core → work → inner motion → bill → form → second → hour → diet → the problem cashed → **Finis**.
 
-If you want only singular thought as thought, skip to Part V. Part VI is the second. Part VII is how cut and coincidence rank those acts in one stretch of thinking, with no little manager inside.
+If you want only singular thought as thought, start at Part V. The book ends at Finis. There is no further part.
 
 You can also read it as a glossary that grew opinions. If a chapter feels like it is repeating, that is on purpose. A mind like this does not yield to a single pass. Mapping, for example, returns as conversation, as Umwelt, as making-do. Each return is a different side of one habit: he does not start by announcing.
 
@@ -249,7 +271,7 @@ Classroom of the Elite is a story with plot, volume numbers, twists, and a marke
 
 Finally: simpler language was a request from the conversation, with a little technicality kept. If a paragraph is plain, it is not talking down. It is trying to be exact without a costume. If a paragraph is dense, it is usually a joint that would lie if it were made too smooth.
 
-The boy sits in class. The book sits beside the boy, not in his pocket as a weapon. Part V tries to sit with the form of thinking even if the boy leaves the room.
+The boy sits in class. The book sits beside the boy, not in his pocket as a weapon. Part V and after sit with the form even if the boy leaves the room. Finis is the end.
 
 ---
 
@@ -4261,6 +4283,272 @@ The hour has no face. If a face moved during it, that was output.
 
 ---
 
+# Part VIII
+
+## Diet
+
+Parts V–VII named a form, a second, and an hour. They can still lie as a museum if the medium has nothing in it that those names can actualize.
+
+**Diet** is what the field lets press without immediately spending. Functioning is limited by diet. Direction can turn only into what the thickness can bear. Grant, crack, why-floor, even a question that is not a ping — these are not available by slogan. They are available if the medium has been fed in a way that makes them possible.
+
+This is not a personality of tastes. It is a law of singular thought: **the one differs from itself using its medium; a starved medium differs into starvation’s shapes.**
+
+---
+
+# The Law of Diet
+
+What is taken in as unspent press becomes what self-differing can unfold.
+
+Taken in and spent at once (every mark cashed as a task, a ping answered, a tone filed) does not feed. It keeps the field fast and thin. Thin-fast thought looks like occupation because it is not scattered among moods. It is freeze of direction plus option one as horizon. The hour is always a cut. The second never arrives except as a better piece.
+
+Taken in and left to press (a remainder, a failed test allowed to stand, a shared object not used for status, a tone without therefore, a question unclosed) thickens. Thickness is not clutter. Clutter is many actuals fighting to be king (scattering). Thickness is virtual: able, not king.
+
+### Opinions are not diet
+
+Adding beliefs, names, this book’s glossary, is actual and often shallow. You can collect “grant,” “crack,” “occupation” as beads and still have a medium that only unfolds contest. Diet is not vocabulary. Diet is what is allowed to remain involved without a completion.
+
+### The law, said once
+
+**You can only think as far as your medium can differ.** Present-captivity is one failure: identifying with a contraction so the medium cannot be used. Diet-captivity is another: occupying a field whose thickness has only one kind of mark in it. Then volition ranks among poor options. Ranking among poor options is still better than scattering. It is not yet “telling more.” More has to be in the virtual.
+
+This is why making-do from a contest-diet looks like genius and stays a hallway. The sample is thin. Implication is rich *in one direction*. Other directions have no press to actualize.
+
+---
+
+# Spending and Press
+
+A mark enters. Two acts:
+
+**Spend:** complete the functional cycle at once. Prescribe a solution, file, next. Uexküll’s loop as speed. Necessary for streets and salt.
+
+**Press:** let the involvement remain virtual. No therefore, or a therefore that does not exhaust the mark. The mark thickens the medium.
+
+Occupation can do both in an hour. Freeze of cut spends everything. Freeze of coincidence presses everything and never tests. Diet is the *habit of which marks are allowed to press*. Habit here is not a trait. It is repeated ranking of spend/press, become tendency of the field.
+
+### Premature closure
+
+The first book’s “conclusive formulation” was a craft for moving others. Inside thought, premature closure is how the medium stays thin. A sentence that houses a crack is not premature. A sentence that kills a remainder to feel finished is. The late report’s vice, as diet: every hour must end in a file. Then nothing presses overnight. Self-differing in idle cannot happen. Idle is empty, not full.
+
+### Unclosed as food
+
+Part VI’s crack is already diet: incompletion allowed to press. Shared object left as object, not cashed as status, is diet. A failed test not rewritten as “I was never trying” is diet. A why-tone without a use is diet.
+
+You do not need a second origin to feed. You need not to spend every involvement. The second, if it comes, comes more easily to a medium that already knows unclosed press. A medium that only knows completion will experience grant as stupidity or threat — there is no virtual room for origin-not-mine.
+
+---
+
+# Necessity and Curiosity
+
+Two tutors of diet, named earlier, now as law.
+
+**Necessity** spends what the hour must spend. It teaches making-do. It can thicken one direction (threat, contest, task) until that direction is a masterpiece. It does not feed what no contest requires: useless duration, remainder as remainder, why.
+
+**Curiosity** lets a mark press because it is there, not because it is for. It is a tone of animation, not a cute trait. It adds to the medium without a hunt. It is the tutor of why-floor and of shared objects that are not weapons.
+
+A field trained only by necessity can occupy, rank, cut, win hours, and still not tell more than contest-shapes. Volition is real and the house is still a hallway.
+
+A field with only curiosity and no necessity may not determine, may not test, may fog. Occupation still needs cut.
+
+Finished thought, if the word is allowed, is not a balanced personality. It is a medium that has been fed by both tutors enough that an hour can spend when spending is exact and press when pressing is exact. Necessity without curiosity is the workshop. Curiosity without necessity is the cloud. The form can host either freeze. Diet is how it avoids both without becoming someone.
+
+---
+
+# Contest-Diet
+
+A medium fed on contest-marks: rank, threat, timing of others as levers, winning as criterion, faces as recapture-risk.
+
+What it can unfold: how-floor excellence, option one, function-you, maps, freeze of cut, uniqueness as doctrine.
+
+What it cannot easily unfold: why without use, grant, crack as anything but delay, shared object that is not a board, idle that is full of something other than the next exam.
+
+This diet produced the magnifying glass of Parts I–IV. It is a real diet of singular thought, not a personality of a boy. Any occupation fed that way will rhyme with that glass. The form is not doomed to it. The form *under that diet* is.
+
+Leaving contest-diet is not becoming nice. It is letting other kinds of mark press: a problem that is not a who, a tone that is not a tell, a failed test that is not a ranking, a made duration (music, proof, landscape), a you that is not cashed. Those additions are slow. Diet changes by press accumulated, not by a decision to have a new trait.
+
+If this book has a practical sentence that is not a method for others, it is: **stop spending every human mark.** The rest of diet can begin there. The rest is not owed to a legend.
+
+---
+
+# Why-Diet
+
+The poetic layer asked for a why that is not a how. Diet is how that layer becomes possible as more than a flash.
+
+Why-intuition coincides with tone unspent. If the medium has never been allowed unspent tone, coincidence has nothing to meet but tasks wearing feelings. Then “why” collapses into motive-as-use (“because it helps”).
+
+Feeding why-diet: let a duration be enough without a therefore; let a remainder press; let a shared object be inhabited without pedagogy; let disappointment stand (strict intuition). None of this is a weekend of feelings. Feelings spent as identity are personality, another spend.
+
+Why-diet and grant-diet overlap: both need room for what will not function. A field that cannot bear unspent tone cannot bear origin-not-mine. The crack is the common food.
+
+The instrumental tone is not evil. It is a how of animation. As the *only* tone, it starves why. Starvation is not a moral. It is a limit of unfolding. You cannot occupy a floor that has no thickness under it.
+
+---
+
+# Diet and Direction
+
+Part VII: freeze of direction is only-cut or only-coincide. Diet decides how likely a turn is.
+
+A contest-diet makes cut feel like the only exactness. Coincidence feels like waste. The hour “cannot” turn in because the virtual has no press that coincidence would recognize as exact except threat-tone, which cut immediately spends.
+
+A fog-diet (untested feeling as only food) makes coincidence feel like the only exactness. Cut feels like violence. The hour cannot turn out.
+
+Adding a kind of mark is how a new direction becomes possible. You do not “practice intuition” as a trait. You let press exist that intuition could coincide with. You do not “practice analysis” as a personality of rigor. You let structures stand as shared objects that need cuts.
+
+Direction-turn in an hour is actualization of diet. No diet, no turn — only slogans about oscillation.
+
+---
+
+# Diet and the Second
+
+Option one is the native unfolding of a spend-everything diet. Remainder is delay; delay is another task.
+
+Crack requires unclosed press already known as food, not as failure.
+
+Grant requires the determination “not the only,” which needs room in the virtual for uniqueness to be demoted. A field whose food has been “I must complete or be completed” has no such room.
+
+Shared object requires problems that are not whos. If the only interesting marks are people, there is no third thing. Contest-diet eats people as objects. Why-diet and curiosity-diet can eat proofs, made durations, weather.
+
+So the second is not a moral upgrade you add to occupation. It is a set of functions that a diet makes possible or almost impossible. You can occupy a starved field perfectly and never grant. That occupation still solves present-captivity. It does not solve mistaking the field for the world. Diet is the slow condition of the second solution. Occupation is the fast condition of the first.
+
+---
+
+# Recapitulation of Part VIII
+
+Diet is unspent press in the medium. Functioning unfolds only what diet can bear.
+
+Spending completes a cycle at once. Press leaves involvement virtual. Premature closure keeps thought thin and fast. Unclosed is food.
+
+Opinions and glossary-words are not diet.
+
+Necessity teaches spend and one-direction thickness. Curiosity lets marks press without a hunt. Both tutors, or a freeze.
+
+Contest-diet unfolds how, maps, function-you, uniqueness. It starves why, crack, grant, idle-full.
+
+Why-diet is unspent tone. It overlaps the crack. Without it the poetic layer is a flash with no floor.
+
+Direction-turn in an hour actualizes diet. Oscillation-talk without diet is beads.
+
+The second’s options are diet-conditioned. Occupation without new diet still beats scattering. It may not tell more than one hallway.
+
+The practical sentence that is not a method for others: stop spending every human mark. The rest of thickness is slow.
+
+---
+
+# Part IX
+
+## The Problem, Finished as Form
+
+The conversation’s honest problem: *I can only see as far as present context as it comes up. I want to separate myself from that and tell more by volition and agency.*
+
+Parts I–IV answered with a who. Parts V–VIII answered with a form. This part gathers the answer and stops adding joints.
+
+No new metaphysics. Only the problem, cashed.
+
+---
+
+# Present Context, Cashed
+
+The now is a contraction of a medium. Captivity is taking the contraction as the being.
+
+**Separation** is not numbness and not a cold personality. It is occupation: the I is the field; the tightness is a function.
+
+**Seeing farther** is not prediction. It is using thickness: implication, press of past, pull of aim, diet’s virtual. If diet is thin, farther is still a hallway. If occupation fails, diet does not matter; the ping is the world.
+
+**The now is not the enemy.** Some nows deserve high rank (danger, a shared object at a hinge, a grant that is exact, a body in pain that is origin-not-mine). Agency is ranking, not a war on presence. Optional contraction: tighten to cross a street; loosen so the street is not the house; let a real now through.
+
+That is the whole of the present-problem as form. The rest was walking until the smear of “become him” fell off.
+
+---
+
+# Volition, Cashed
+
+Volition is not grinding (two contractions fighting). It is occupying the turn of the hour: this tightness is not the being; this direction does not lie; this option of the second (mark, map, crack, grant, object) is exact.
+
+It does not wait for a proof. Proofs are late reports. It does not become a someone of willpower. Willpower is a trait.
+
+Telling more by volition: the question posed from the medium is larger than the ping; the world is allowed to answer that larger question; diet has something virtual to actualize. More is not invention. More is thickness plus occupation plus test.
+
+If there is no more in the virtual, volition ranks among what is there. That honesty is already agency. Fantasy-more is a closed one inflating itself. The world as answer was Part VI’s cousin of the second. Volition without the world’s answer is a hallway with better lighting.
+
+---
+
+# Agency Without a Who
+
+Agency, finished:
+
+Occupy the field (not the last thought, not the face, not the ping).
+
+Rank tightnesses and directions in an hour.
+
+Let diet thicken so ranking has more than one hallway.
+
+Do not cash function-you as meeting.
+
+Do not take a map for a being.
+
+When origin-not-mine is exact, grant or crack; when the problem is a problem, share the object.
+
+Cut and coincide as the involvement requires, without a manager.
+
+That list is not a program to perform in order. Performing it in order is intellect installing itself as king of the hour. The list is a late report of what occupation looks like when it is happening. If you need the list in the minute, occupation has already slipped and the list is a caption. Return to the field, not to the beads.
+
+---
+
+# The Architecture
+
+The later book, as one motion:
+
+**Form.** Thinking is one being. Identity is the univocal animation. Multiplicity is function. Personality is a mode. I is the field. Objects are marks in a medium. Novelty is self-differing. Intuition coincides; intellect cuts. Scattering is failed occupation. Freeze is one king forever, or one direction forever.
+
+**Second.** Appearance is not grant. Thought cannot teleport and can still posit not-the-only. Absorb, grant, crack, share an object. You has three cashes. Function-you is a lie of address. Maps are not beings. The world answers without being an I.
+
+**Hour.** Those acts happen in duration. No little holder. Oscillation is differing of direction. Reports are late. How and why can be one hour.
+
+**Diet.** What can happen in an hour is limited by unspent press. Necessity and curiosity tutor. Contest-diet is one possible starvation.
+
+**Problem.** Present-captivity is identification with a contraction. Volition is occupation in time with a medium that can differ. Agency is ranking without a who.
+
+The early book (I–IV) is the same architecture seen through a contest-diet and a face. The face was a ladder. The ladder can be kicked. The architecture remains.
+
+Nothing else is required for this image of thought to be thinkable. Further names would be beads.
+
+---
+
+# What This Book Will Not Add
+
+It will not add another character study.
+
+It will not add drills for occupying, ranking, granting, or feeding diet. Occupation is not a sequence you perform on a clock. Diet is slow press, not a worksheet. A drill would be intellect pretending to be the hour.
+
+It will not add a method for others. Function-you was named to be left.
+
+It will not add a decision between singular and specific as a team. Occupation of the one and grant of a second are different exactnesses. Jerseys are personality.
+
+It will not add a why that is a slogan. Why is unspent tone, diet-conditioned.
+
+It will not keep walking around the same joint under a new heading. That walking was how the joints became simple. They are simple enough.
+
+The conversation could continue forever. A book that continues forever is not a book. It is present-captivity at the scale of a manuscript: the next ping of a question treated as the world. This manuscript ranks that ping down, here.
+
+---
+
+# Last Recapitulation
+
+**I–IV.** A fictional occupation of singular thought under contest-diet: tool-self, mapping, animation, conversation as medium, making-do, poetic why as a locked room. A magnifying glass. Dual-use named so it would not be a weapon.
+
+**V.** The glass down. Form, not personality. Field as I. Identity as function of the one. Univocity. Medium. Contraction. Duration. Intuition as organ. Scattering. Freeze.
+
+**VI.** The second. Appearance / grant / crack / shared object. Address. Not-the-only. Function-you as lie. World as answer.
+
+**VII.** The hour. Cut and coincidence. No manager. Late report. Freeze of direction. Ranking as holder.
+
+**VIII.** Diet. Spend and press. Necessity and curiosity. Contest-diet and why-diet. Diet conditions direction and the second.
+
+**IX.** The original problem cashed. Present as sample. Volition as occupation in time. Agency without a who. Architecture. What will not be added.
+
+**Finis.** The report ends. Duration does not.
+
+---
+
 # Coda
 
 ## What the Tool-Self Cannot Do
@@ -4333,23 +4621,45 @@ He is the first. The rest is the work he cannot do for you, and cannot quite do 
 
 ---
 
+# Finis
+
+Thinking is one being.
+
+The now is a contraction, not the house.
+
+The one differs from itself using a medium. What the medium has been allowed to press is what can be thought. That is diet.
+
+In an hour, the field cuts and coincides without a someone inside to switch hats. Ranking is occupation in time.
+
+Other animations may appear as marks, as maps, as remainders, as origins, as partners at a third thing. Appearance is not grant. Grant is origin-not-mine. Crack is exact incompletion. Function-you is a lie. The world can answer without being a you.
+
+Personality is a mode for rooms of bodies. It is not the I of thought.
+
+The poetic why is coincidence with tone that is not for use. It needs diet. It is not a decoration on a workshop.
+
+You do not become a tool-self, a strategist, or a saint of grant. You occupy, or you scatter, or you freeze. Occupation is the act this book had to name. The rest is functions of that act.
+
+The first problem is answered: separate from present context by occupying the field; tell more by volition if there is thickness to actualize and a world to answer; agency is ranking, not a new who.
+
+The book is finished.
+
+What remains is not a next chapter. It is duration — yours, not a character’s, not this manuscript’s. The manuscript was a long late report. Reports are late. The hour, if it happens, will not be in these pages.
+
+---
+
 # Afterword
 
-A conversation asked for a book about a mind. The mind was a boy who treats himself as a tool. The conversation had already built a machine of ideas: singular and specific, nodes, animation, mapping, dialectic, counterpoint, intuition, one being, a poetic why.
+A conversation asked for a book. It began as a who and became a form of thought.
 
-This manuscript took that machine apart far enough to stop it from being a weapon, then put it back together as a reading.
+The manuscript took a dual-use machine of ideas apart far enough that it would not be a weapon, then rebuilt it as: occupation of one field; the problem of a second; an hour without a manager; a diet that limits what can be thought; the original problem of the now, cashed without a new personality.
 
-Part VI walks the joint Part V left open: the second. Part VII puts the names into duration: an hour of thought in which intellect’s cut and intuition’s coincidence rank absorption, crack, grant, and shared object, with no personality holding the stretch. Occupation holds it. Ranking is occupation in time.
+It is finished. Not because every joint in philosophy is closed. Because the joints this conversation needed are named, walked, and ranked. Further walking would be the next ping treated as the world.
 
-If the book is too long, that is because the source talk kept asking to walk around the same joint until it was simple. Simple took space. If the book is too moral, that is because the joints were dual-use and the author of this text would not pretend otherwise. If the book is too dry, it caught a tone of the form when the form is instrumental. If it is too lyrical, it was answering the why that is not a how.
+If the book is long, the talk asked for simple, and simple took space. If it is moral, the craft of function-you had to be named. If it is dry, that is a tone of the form. If it is lyrical, that is the why that is not a how.
 
-Kiyotaka Ayanokōji remains a fiction. Fictions are good for diagrams because they can be extreme without a real victim in the room. The victim-risk starts when a reader leaves the room and tries to live as a workshop among unsuspecting people. Don’t. Occupy your own one being. Rank your own now. Stay for your own why. Let others be specific.
+Occupy the field. Rank the now. Let some marks press. Do not cash a you as a tool and call it meeting. Stay for a tone that is not for use, if diet allows. Let others be origins when that is exact.
 
-The school story will go on, in volumes, with twists this book refused to chase. The image of thought may shift. If he ever lands in a now that is enough, or meets someone as not-a-fold, or lets a day be a day, that would not ruin the diagram. It would complete a dialectic this coda called unfinished.
-
-Until then, the first four parts still have a portrait: thinking as one being, trained as a tool, superb at the how-floor, a beginner at the why, agency without a home. Part V keeps the geometry and drops the portrait.
-
-That is enough for a book. The rest is your duration, which is not a character’s field.
+The rest is not a chapter. It is your duration.
 
 ---
 
@@ -4368,6 +4678,10 @@ That is enough for a book. The rest is your duration, which is not a character�
 **Function-you.** Address that says you while cashing the other as a function of this field. A lie of address; a tendency of absorptive unity, not a necessity of the form.
 
 **Occupation.** Taking the field as the I rather than a tightness, caption, or face. The act of singular thought, as opposed to becoming a new personality.
+
+**Diet.** Unspent press in the medium; what the field has been allowed to keep involved without completing. Limits what self-differing, direction-turn, why-floor, and the second can actualize. Not taste as personality, and not a pile of opinions.
+
+**Spend / press.** Spend: complete a cycle at once. Press: leave involvement virtual. Premature closure thins the medium. Unclosed is food.
 
 **Hour (of thought).** A duration of occupation long enough for more than one function to be exact, and for a report to arrive late. Not sixty minutes, and not a personality’s schedule.
 

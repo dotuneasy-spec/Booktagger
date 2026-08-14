@@ -2,9 +2,9 @@
 
 This is not a novel and not a textbook. It is a long walk around one fictional mind, using a handful of borrowed words because ordinary words smear the joints.
 
-You can read straight through. The path is core → work → inner motion → bill → Part V (form) → Part VI (the second) → **Part VII (the hour)**.
+You can read straight through. The path is core → work → inner motion → bill → form → second → hour → diet → the problem cashed → **Finis**.
 
-If you want only singular thought as thought, skip to Part V. Part VI is the second. Part VII is how cut and coincidence rank those acts in one stretch of thinking, with no little manager inside.
+If you want only singular thought as thought, start at Part V. The book ends at Finis. There is no further part.
 
 You can also read it as a glossary that grew opinions. If a chapter feels like it is repeating, that is on purpose. A mind like this does not yield to a single pass. Mapping, for example, returns as conversation, as Umwelt, as making-do. Each return is a different side of one habit: he does not start by announcing.
 
@@ -22,4 +22,4 @@ Classroom of the Elite is a story with plot, volume numbers, twists, and a marke
 
 Finally: simpler language was a request from the conversation, with a little technicality kept. If a paragraph is plain, it is not talking down. It is trying to be exact without a costume. If a paragraph is dense, it is usually a joint that would lie if it were made too smooth.
 
-The boy sits in class. The book sits beside the boy, not in his pocket as a weapon. Part V tries to sit with the form of thinking even if the boy leaves the room.
+The boy sits in class. The book sits beside the boy, not in his pocket as a weapon. Part V and after sit with the form even if the boy leaves the room. Finis is the end.

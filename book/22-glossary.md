@@ -14,6 +14,10 @@
 
 **Occupation.** Taking the field as the I rather than a tightness, caption, or face. The act of singular thought, as opposed to becoming a new personality.
 
+**Diet.** Unspent press in the medium; what the field has been allowed to keep involved without completing. Limits what self-differing, direction-turn, why-floor, and the second can actualize. Not taste as personality, and not a pile of opinions.
+
+**Spend / press.** Spend: complete a cycle at once. Press: leave involvement virtual. Premature closure thins the medium. Unclosed is food.
+
 **Hour (of thought).** A duration of occupation long enough for more than one function to be exact, and for a report to arrive late. Not sixty minutes, and not a personality’s schedule.
 
 **Late report.** Intellect’s caption after coincidence or grant or crack. Needed for test and speech. Lies when it claims to have been first, or when it completes what the hour left unclosed.

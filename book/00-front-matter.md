@@ -6,7 +6,7 @@ A study of singular thought, intuition, and the quiet machinery of a tool-self.
 
 ---
 
-*This book is original analysis of an image of thought. A fictional mind is a magnifying glass in Parts I–IV. Part V is **singular thought as a form**. Part VI is **the second**. Part VII is **the hour**: cut and coincidence ranking those functions in duration, without a personality to hold the stretch. Philosophical names are tools for joints. The novels are not reprinted. This is not a method for controlling people.*
+*This book is original analysis of an image of thought. Parts I–IV use a fictional mind as a magnifying glass. Parts V–IX describe singular thought as a form, the second, the hour, diet, and the original problem of the now — then stop. Philosophical names are tools for joints. The novels are not reprinted. This is not a method for controlling people. The book is finished.*
 
 ---
 
@@ -125,7 +125,29 @@ A study of singular thought, intuition, and the quiet machinery of a tool-self.
 83. What the Hour Is For
 84. Recapitulation of Part VII
 
-**Coda** — What the tool-self cannot do
+**Part VIII. Diet**
+
+85. The Law of Diet
+86. Spending and Press
+87. Necessity and Curiosity
+88. Contest-Diet
+89. Why-Diet
+90. Diet and Direction
+91. Diet and the Second
+92. Recapitulation of Part VIII
+
+**Part IX. The Problem, Finished as Form**
+
+93. Present Context, Cashed
+94. Volition, Cashed
+95. Agency Without a Who
+96. The Architecture
+97. What This Book Will Not Add
+98. Last Recapitulation
+
+**Coda** — What the tool-self cannot do (Parts I–IV)
+
+**Finis**
 
 **Afterword**
 

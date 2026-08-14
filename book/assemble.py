@@ -92,7 +92,24 @@ ORDER = """00-front-matter.md
 97-ranking-holder.md
 99-hour-for.md
 98-part-vii-recap.md
+100-part-viii-note.md
+101-diet-law.md
+102-spending-press.md
+103-necessity-curiosity.md
+104-contest-diet.md
+105-why-diet.md
+106-diet-direction.md
+107-diet-second.md
+108-part-viii-recap.md
+109-part-ix-note.md
+110-present-cashed.md
+111-volition-cashed.md
+112-agency-cashed.md
+113-architecture.md
+114-will-not-add.md
+116-last-recap.md
 21-coda.md
+115-finis.md
 30-afterword.md
 22-glossary.md""".strip().splitlines()
 root = Path(__file__).parent
