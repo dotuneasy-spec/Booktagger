@@ -1,6 +1,10 @@
 # Glossary
 
-**Absorption.** The singular habit of taking events, people, and even inner remainders back into one project so that nothing stays truly outside.
+**Absorption.** In thought: taking a determination back into the one so the field remains one. When pointed at persons as if they were completions of a project, the same act jumps into method or harm.
+
+**Actual / virtual.** Actual: the current contraction (this object, this now). Virtual: what presses in the medium without being king. Self-differing often actualizes what was virtual.
+
+**Occupation.** Taking the field as the I rather than a tightness, caption, or face. The act of singular thought, as opposed to becoming a new personality.
 
 **Animation.** The self-moving quality of a singular mind: it originates motion, expresses itself through situations, keeps going without being wound from outside, and has a tone. Not mood. The fact of inner motion.
 
@@ -65,6 +69,12 @@
 **Umwelt.** The subjective meaningful world of a creature; perception-world plus effect-world. Not the full physical surroundings.
 
 **Volition / agency.** Here: the capacity to assign the now a rank from a wider field, rather than letting the now dictate the whole of mind. Not total prediction. Not numbness.
+
+**Personality.** A social-intellectual object: traits, face, biography, a who among others. In Part V, a *mode* of the field, not the identity of singular thought.
+
+**Scattering.** Failed occupation: each contraction takes itself as the I. Not the same as specific thought, which can grant real seconds while remaining able to be one.
+
+**Univocity.** Thinking said in one voice: differences are inflections of one field, not a stack of extra inner substances. Not flattening of content, and not a license to treat other people as folds.
 
 **Wall.** The behavior that protects a node: joke, freeze, charm, attack, saintliness, intellect.
 

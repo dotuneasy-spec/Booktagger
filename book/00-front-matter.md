@@ -6,7 +6,7 @@ A study of singular thought, intuition, and the quiet machinery of a tool-self.
 
 ---
 
-*This book is original analysis of a fictional mind. It draws on Classroom of the Elite as a public work of fiction, and on a handful of philosophical names — Bergson, Hallward, Deleuze, Uexküll — only as tools for naming what the character already does. It does not reprint the novels. It does not offer a method for controlling other people. It tries to describe how one mind is built, how it sees, and what it costs.*
+*This book is original analysis of an image of thought. A fictional mind (Kiyotaka Ayanokōji) is used as a magnifying glass, especially in Parts I–IV. Part V drops the glass and describes **singular thought as a form** — one field, identity as function, self-differing — not as a personality. Philosophical names (Bergson, Hallward, Deleuze, Uexküll) are tools for joints, not a syllabus. The novels are not reprinted. This is not a method for controlling people.*
 
 ---
 
@@ -68,6 +68,28 @@ A study of singular thought, intuition, and the quiet machinery of a tool-self.
 35. On Simplicity
 36. Objections
 37. Recapitulations
+
+**Part V. Singular Thought, Not Personality**
+
+38. Thought Is Not a Personality
+39. The “I” of Singular Thought
+40. Identity as a Function of the One
+41. Univocity
+42. How Singular Thought Has Objects
+43. Difference Without a Second God
+44. The Medium of Thought
+45. Contraction and Expansion
+46. The Time of Singular Thought
+47. Language Inside One Being
+48. The Problem of the Second
+49. Animation Is a Fact of Thought
+50. Personality as a Mode
+51. Scattering
+52. Intuition as the Organ of Singular Thought
+53. Thought Without a Face
+54. Occupying, Not Becoming Someone
+55. What Singular Thought Does
+56. Recapitulation of Part V
 
 **Coda** — What the tool-self cannot do
 
