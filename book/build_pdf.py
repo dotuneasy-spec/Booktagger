@@ -116,7 +116,7 @@ PREAMBLE.write_text(
       #v(0.55em)
       #text(size: 32pt, weight: "bold")[Thinking as#linebreak()One Being]
       #v(0.45em)
-      #text(size: 15pt, fill: rgb("#e6d7b8"))[The Mind of Ayanokoji]
+      #text(size: 15pt, weight: "bold", fill: rgb("#e6d7b8"))[The Mind of Ayanokoji]
     ]
   ]
 ]
