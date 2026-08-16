@@ -8,7 +8,7 @@ A book-length literary and philosophical study of Kiyotaka Ayanokōji’s *image
 
 **[Download Thinking as One Being (PDF)](https://github.com/dotuneasy-spec/Booktagger/raw/cursor/ayanokoji-mind-book-a01b/book/Thinking-as-One-Being.pdf)**
 
-**[Download cover (PNG)](https://github.com/dotuneasy-spec/Booktagger/raw/cursor/ayanokoji-mind-book-a01b/book/assets/cover-ayanokoji.png)**
+**[Download cover (JPG)](https://github.com/dotuneasy-spec/Booktagger/raw/cursor/ayanokoji-mind-book-a01b/book/assets/cover-ayanokoji.jpg)** · [PNG](https://github.com/dotuneasy-spec/Booktagger/raw/cursor/ayanokoji-mind-book-a01b/book/assets/cover-ayanokoji.png)
 
 Direct file: [`book/Thinking-as-One-Being.pdf`](https://github.com/dotuneasy-spec/Booktagger/blob/cursor/ayanokoji-mind-book-a01b/book/Thinking-as-One-Being.pdf) — 6×9 in, 368 pages, graphic Ayanokōji cover, ~3.2 MB.
 
