@@ -159,9 +159,24 @@ These are outside the operating design (they may appear later as options):
 
 **The bet.** Demand sits with the **ordinary majority**, including the poor. Nigeria’s population is the market’s strength. Most livelihoods still run on cash: fares, stalls, daily food, wages in notes. Poverty raises cash dependence; it does not remove the need to break a ₦1,000 for a ₦300 ride or a ₦200 purchase. A reliable place to get ₦100s and ₦200s is a mass convenience, not a middle-class gadget.
 
-**Why there is little data.** A dedicated note-breaking kiosk is a **new category**. There is no 20-year series of “transactions per change machine” the way there is for beer, airtime or POS. The hole is **unmeasured**, not evidence that the masses will not use it. Agency cash-out already showed that bottom-of-pyramid volume can support a terminal if it sits on a daily path. CashEase adds the missing cassette: small notes, on that same path.
+**Why there is little kiosk data.** A dedicated note-breaking kiosk is a **new category**. There is no 20-year series of “transactions per change machine.” That gap is **unbuilt infrastructure**, not missing pain. The pain is already on the ground. Agency cash-out showed that bottom-of-pyramid volume can support a terminal on a daily path. CashEase adds the cassette those paths still lack: small notes.
 
-**What population does.** It supports **many** livelihood doors — parks, markets, busy petrol — because that is where the masses already walk. Each kiosk still serves the catchment of **that door**, not 200 million people at once. The thesis is: put the box where the population already queues for work and trade; habit will thicken the queue. Phase 1 **is** how a new market is proven. It is not a vote of no confidence in the poor.
+### 3.2 On-ground pains this business solves
+
+These are the proof of **need**. They are visible every day without a kiosk P&L. Phase 1 measures **whether a box captures them as paid transactions** — it does not invent the pain.
+
+| Who | Pain on the ground | What the kiosk does |
+| --- | --- | --- |
+| **Bus / danfo / keke conductor** | Passenger pays ₦500 or ₦1,000 for a ₦200–₦300 fare; no ₦100s; argument, delay, lost seat, or the conductor eats the difference | Breaks the note in seconds at the park gate |
+| **Trader / stallholder** | Cannot make a small sale because they cannot break a large note; customer walks | Dispenses ₦100s/₦200s next to the stall belt |
+| **Artisan, hawker, daily-pay worker** | Wages and purchases in mixed notes; spends the morning asking “do you have change?” | One stop on the walk they already make |
+| **Commuter** | Misses a ride or overpays because nobody can break money; time lost in a shop that is not selling, only changing | Convenience without begging a stranger |
+| **Market / park as a system** | Trade slows when small notes dry up; informal changers charge a harsh spread or disappear | Liquidity **in use** — ₦100s in the hand, not in a vault |
+| **POS cash-out user** | Can withdraw but still cannot break for fare or pepper; the last-mile gap remains | Change cassette on the same pad as cash-out |
+
+The poor feel this **more**, not less: they live in cash, in small tickets, with no card to skip the problem. Population multiplies how often the pain happens. That **is** demand validation for the **job**. What no one has yet is a meter on a live CashEase door. That meter is the first 350 boxes on these same pains’ paths.
+
+**What population does.** It supports **many** livelihood doors — parks, markets, busy petrol — because that is where these pains already occur. Each kiosk still serves **that door**, not 200 million people at once. The thesis is: stand where the pain already is; habit will thicken the queue. Phase 1 **is** how a new category is metered. It is not a claim that the pains are imaginary.
 
 | Pillar | What we take as given | What Phase 1 writes down |
 | --- | --- | --- |
@@ -170,13 +185,9 @@ These are outside the operating design (they may appear later as options):
 | New category | No incumbent “change kiosk” chain | First category dataset for banks and BOI |
 | Convenience | People use what is in front of them | Stocked hopper + path site → repeat use |
 
-**Policy rhyme.** Faster small-note circulation at the last mile is liquidity **in use**. That is a fair CBN/BOI story. It supports introductions and file language. The commercial proof remains the books on those doors.
+**Policy rhyme.** Faster small-note circulation at the last mile is liquidity **in use**. That is a fair CBN/BOI story. It supports introductions and file language. The commercial meter remains the books on those doors.
 
-### 3.2 The job on the path
-
-Nigeria remains cash-plus-digital. Large notes are easy to get; small notes are not. Danfo, okada, keke, stalls and roadside trade need broken money **all day**.
-
-Change is **not a destination**. People do not travel across town to break ₦1,000. They need ₦100s **while they are already** at the park, the stall, or the junction. CashEase intercepts that trip. Habit forms on **existing** footfall: the same gate every morning.
+Nigeria remains cash-plus-digital. Large notes are easy to get; small notes are not. People do not travel across town to break ₦1,000. They need ₦100s **while they are already** at the park, the stall, or the junction — where the pain already is. CashEase intercepts that trip.
 
 ### 3.3 Where the money is
 
@@ -188,7 +199,7 @@ The comparable business is the POS/agent kiosk that already earns in a prime spo
 | **Secondary (Phase 2)** | The same pattern in Ibadan, then Abuja, Kano, Port Harcourt, Onitsha |
 | **Later** | More hubs if Phase 2 unit economics hold |
 
-Before a BOI file, replace desktop traffic with: current CBN denomination mix; acquirer POS cash-out in the target LGAs; a **two-week manual count** of change events at each candidate door.
+Site work starts with **pain counts**: how often in two weeks someone asks for change, loses a fare, or walks from a stall for lack of ₦100s — then CBN denomination mix and acquirer cash-out in that LGA.
 
 ### 3.4 Pricing
 
@@ -696,6 +707,6 @@ Discount rate 22%. Tax 32.1% of PBT. Fleet paths and unit assumptions are in `SC
 | Version | Date | Notes |
 | --- | --- | --- |
 | 2.0 | 18 Aug 2026 | Standalone plan: verdict as the opening design; livelihood-path demand; measured scale |
-| 2.1 | 18 Aug 2026 | Demand thesis: population, cash-using masses, new category; Phase 1 as how the market is proven |
+| 2.2 | 18 Aug 2026 | On-ground pains as demand validation; kiosk tx/day as the meter, not the proof of need |
 
 **Next refresh triggers:** counsel memo received; 60-day OEM trial closed; first 15-site counts complete; any circular on IADs, agent cash caps or POS geotagging.

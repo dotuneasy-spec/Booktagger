@@ -211,7 +211,7 @@ COVER = """
   <div class="rule"></div>
   <p class="lede">Owned multi-service cash kiosks on livelihood paths — parks, markets, busy petrol. Note-breaking, POS cash-out, airtime and bills. The company owns the machines; a bank supplies small notes and settlement. One machine per counted pitch. Raise ₦1.85 billion for 350 kiosks, then fund 2,000. National hubs follow proven doors.</p>
   <dl>
-    <dt>Prepared</dt><dd>August 2026  ·  v2.1</dd>
+    <dt>Prepared</dt><dd>August 2026  ·  v2.2</dd>
     <dt>Horizon</dt><dd>6 years (2027–2032)  ·  350 → 2,000 → earned scale</dd>
     <dt>Opening equity</dt><dd>₦1.85 billion for 350 kiosks (planning case)</dd>
     <dt>Planning unit</dt><dd>180 tx/day  ·  ₦100 blended fee  ·  break-even 89 tx/day</dd>
