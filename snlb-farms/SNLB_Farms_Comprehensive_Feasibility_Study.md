@@ -14,6 +14,7 @@ A self-funding expansion from 1 hectare to 100 hectares, driven by two-cycle ann
 | Currency | Nigerian naira (₦), nominal |
 | Planning case | Regular first at non-glut Mile 12 prices — 20/18 t/ha, ₦33,000 / ₦145,000 baskets, full stack, NTA 2025 tax |
 | Classification | Confidential planning document |
+| Download | https://github.com/dotuneasy-spec/Booktagger/raw/cursor/snlb-bankable-feasibility-3a17/snlb-farms/SNLB_Farms_Comprehensive_Feasibility_Study.pdf |
 
 **Purpose.** This study assesses the commercial viability of phased hybrid tomato production on a contiguous 100-hectare master block in Ogun State, with produce sold into Mile 12 International Market (≈1.5 hours). It sets out the legal vehicle (SNLB ENTERPRISE BN 6922259 and conversion to SNLB Farms Limited), the operating model, market, agronomy, Cycle 1 calendar and cash waterfall, the ₦8 million opening uses at current shop tickets, quality spec, power and security, procurement lead times, offtake heads of terms, buffer use, expansion path, three financial scenarios, charts, discounted cash flow, optional facility terms, risk, ESG, and the conditions for first planting.
 
