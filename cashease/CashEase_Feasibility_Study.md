@@ -5,12 +5,12 @@
 Note-breaking · POS cash-out · Airtime and bills  
 Nigeria — Lagos / Ogun first, then national hubs
 
-CashEase deploys owned kiosks on the paths where ordinary people already work in cash: parks, markets, and busy petrol corridors. Each box breaks notes, pays out POS cash, and sells airtime and bills. Banks supply small notes and settlement. The company owns the machines. Scale follows proven doors: 350, then 2,000, then national hubs.
+CashEase deploys owned kiosks wherever ordinary people already spend cash in daily life — buying a drink from a petty trader, paying the mallam on the street, taking a bus or waiting for one. The need is universal; the product is availability, like ATMs. Each box breaks notes, pays out POS cash, and sells airtime and bills. Banks supply small notes and settlement. The company owns the machines. Scale follows a dense first belt of those everyday doors: 350, then 2,000, then national hubs.
 
 | Field | Detail |
 | --- | --- |
 | Working name | CashEase Nigeria Ltd (legal name to be confirmed) |
-| Prepared | August 2026 · v2.1 |
+| Prepared | August 2026 · v2.4 |
 | Horizon | Year 1–Year 6 (2027–2032) |
 | Currency | Nigerian naira (₦), nominal |
 | Planning case | 180 tx/day, 92% uptime, ₦100 blended fee, bank cash from Year 2 |
@@ -44,13 +44,13 @@ CashEase deploys owned kiosks on the paths where ordinary people already work in
 
 ## 1. The Plan
 
-Nigeria’s last mile still runs on cash. The customer is the **mass of ordinary people who earn and spend in notes** — including the poor, who are more cash-dependent, not less. Conductors, traders and artisans need ₦100s and ₦200s all day. Population is the strength of the market. Dedicated change kiosks are a **new category**, so there is little historical “tx per kiosk” data; that is unmeasured, not disproven. CashEase meets the need as a **convenience on an existing trip**: the park gate, the market door, the busy station. Phase 1 is how a new mass market is **proven on the path the masses already walk**.
+Nigeria’s last mile still runs on cash. The customer is **everyone who spends notes in daily life** — including the poor, who are more cash-dependent, not less. Pain follows people, not a shortlist of famous crowd places. A drink from a petty trader, change from the mallam, a bus fare, waiting for that bus: those are the jobs. Population is the strength of the market. Dedicated change kiosks are a **new category**, so there is little historical “tx per kiosk” data; that is unmeasured, not disproven. CashEase is **ATM-like convenience for that everyday need** — available where people already are, so they do not hunt. Phase 1 is how that habit is **proven by covering a first belt densely enough that money can follow availability**.
 
 **The business, in one page**
 
 1. **Own 100% of the kiosks.** They are company assets and later collateral.
 2. **Sell a bundle.** Note-breaking is the reason to stop; POS cash-out, airtime and bills pay the rent.
-3. **Sit on livelihood paths.** Markets, motor parks, petrol on those roads. One machine per counted pad.
+3. **Follow people on everyday streets.** Petty-trade rows, mallam spots, bus waits and park edges — not only named mega-nodes. One machine per counted pad. Dense coverage in a belt, like ATMs, so the habit forms.
 4. **Rent space like any shop.** Ordinary leases. Hosts get rent and maybe 5–10% of that site’s net.
 5. **Partner with a bank for cash**, after live volumes: they load small notes and settle POS; they take a share of eligible fees; they do not buy the hardware.
 6. **Build 350, then 2,000.** That grid *is* the demand file for a new market. National hubs follow when those doors hold traffic.
@@ -87,7 +87,7 @@ Nigeria’s last mile still runs on cash. The customer is the **mass of ordinary
 | 20,000 kiosks | **Later option** if unit traffic still holds in new hubs. |
 | ₦90bn annual **profit** or one **₦90bn loan** | **Outside this model.** Thin fees and one queue per pad cap earnings. |
 | ₦90bn+ annual **revenue** | **Possible** at ~20,000 doors that still do ~180 tx/day. |
-| Weak sites (110 tx/day) | **Do not scale.** Break-even would be 286 tx/day. Location quality is binary. |
+| Empty pads (no daily cash moments) | **Move the box.** Follow people; do not leave iron where nobody already stops. |
 
 **Capital this year:** raise and deploy **₦1.85 billion** into 350 counted kiosks. Order 10 OEM units first. Sign a bank when those kiosks have months of data. File for **₦8–12 billion** toward 2,000 only then.
 
@@ -140,7 +140,7 @@ These are outside the operating design (they may appear later as options):
 
 | Party | Why they participate |
 | --- | --- |
-| Public | Faster, safer small notes and cash-out on a trip they already make |
+| Public | Faster, safer small notes and cash-out on a trip they already make — drink, mallam, bus |
 | Site host | Rent ± a small share; less “no change” friction for their own customers |
 | Partner bank | Volume, float, non-branch footprint |
 | CashEase | Daily fees, owned assets, a network that can be financed |
@@ -150,17 +150,17 @@ These are outside the operating design (they may appear later as options):
 | | Helpful | Harmful |
 | --- | --- | --- |
 | **Internal** | Clear ownership; bundle matches how people already use agents; China OEM path is real | Cash logistics; theft; float until a bank line exists |
-| **External** | Population-scale cash livelihoods, including the poor; new category; ATM/agent-density pressure on banks | Device classification; small-note scarcity; POS aggregators already on the best doors |
+| **External** | Population-scale daily cash need; pain follows people; ATM-like convenience; new category | Device classification; small-note scarcity; POS aggregators already on the busiest walks |
 
 ---
 
 ## 3. Market
 
-### 3.1 Demand thesis — population, the masses, a new category
+### 3.1 Demand thesis — people, everyday cash, a new category
 
-**The bet.** Demand sits with the **ordinary majority**, including the poor. Nigeria’s population is the market’s strength. Most livelihoods still run on cash: fares, stalls, daily food, wages in notes. Poverty raises cash dependence; it does not remove the need to break a ₦1,000 for a ₦300 ride or a ₦200 purchase. A reliable place to get ₦100s and ₦200s is a mass convenience, not a middle-class gadget.
+**The bet.** Demand sits with **people**, not with named areas. Everyone — irrespective of class — has a daily need for small notes and cash-out: a drink from a petty trader, change at the mallam, a bus fare, waiting for that bus. Nigeria’s population is the market’s strength. Pain travels with those people. Poverty raises cash dependence; it does not remove the need to break a ₦1,000 for a ₦300 ride or a ₦200 purchase. A reliable place to get ₦100s and ₦200s is a mass convenience, like an ATM for that particular everyday job — not a gadget for one famous market.
 
-**Why there is little kiosk data.** A dedicated note-breaking kiosk is a **new category**. There is no 20-year series of “transactions per change machine.” That gap is **unbuilt infrastructure**, not missing pain. The pain is already on the ground. Agency cash-out showed that bottom-of-pyramid volume can support a terminal on a daily path. CashEase adds the cassette those paths still lack: small notes.
+**Why there is little kiosk data.** A dedicated note-breaking kiosk is a **new category**. There is no 20-year series of “transactions per change machine.” That gap is **unbuilt infrastructure**, not missing pain. The pain is already on the ground, in ordinary streets. Agency cash-out and ATMs showed that when availability matches a universal daily need, **money follows**. CashEase adds the cassette those streets still lack: small notes.
 
 ### 3.2 On-ground pains this business solves
 
@@ -168,45 +168,55 @@ These are the proof of **need**. They are visible every day without a kiosk P&L.
 
 | Who | Pain on the ground | What the kiosk does |
 | --- | --- | --- |
-| **Bus / danfo / keke conductor** | Passenger pays ₦500 or ₦1,000 for a ₦200–₦300 fare; no ₦100s; argument, delay, lost seat, or the conductor eats the difference | Breaks the note in seconds at the park gate |
+| **Anyone buying small** | Drink from a petty trader, sachet, pepper — seller cannot break a large note; sale dies | Breaks the note beside the stall or on that street |
+| **Mallam / street seller** | Holds stock, not a till of ₦100s; customers and the mallam both hunt change | Everyday availability on the same corner as the need |
+| **Bus / danfo / keke conductor** | Passenger pays ₦500 or ₦1,000 for a ₦200–₦300 fare; no ₦100s; argument, delay, lost seat, or the conductor eats the difference | Breaks the note in seconds at the park edge or the wait |
+| **Person taking or waiting for a bus** | Anticipating the trip with a large note; misses the bus or overpays while hunting change | Convenience on the wait — like finding an ATM for that job |
 | **Trader / stallholder** | Cannot make a small sale because they cannot break a large note; customer walks | Dispenses ₦100s/₦200s next to the stall belt |
 | **Artisan, hawker, daily-pay worker** | Wages and purchases in mixed notes; spends the morning asking “do you have change?” | One stop on the walk they already make |
-| **Commuter** | Misses a ride or overpays because nobody can break money; time lost in a shop that is not selling, only changing | Convenience without begging a stranger |
 | **Market / park as a system** | Trade slows when small notes dry up; informal changers charge a harsh spread or disappear | Liquidity **in use** — ₦100s in the hand, not in a vault |
 | **POS cash-out user** | Can withdraw but still cannot break for fare or pepper; the last-mile gap remains | Change cassette on the same pad as cash-out |
 
-The poor feel this **more**, not less: they live in cash, in small tickets, with no card to skip the problem. Population multiplies how often the pain happens. That **is** demand validation for the **job**. What no one has yet is a meter on a live CashEase door. That meter is the first 350 boxes on these same pains’ paths.
+The poor feel this **more**, not less: they live in cash, in small tickets, with no card to skip the problem. Population multiplies how often the pain happens. That **is** demand validation for the **job**. What no one has yet is a meter on a live CashEase door. That meter is the first 350 boxes on the same everyday streets.
 
-**What population does.** It supports **many** livelihood doors — parks, markets, busy petrol — because that is where these pains already occur. Each kiosk still serves **that door**, not 200 million people at once. The thesis is: stand where the pain already is; habit will thicken the queue. Phase 1 **is** how a new category is metered. It is not a claim that the pains are imaginary.
+### 3.3 Pain follows people — ATM-like availability
+
+The product is **not** “put boxes at famous crowd places.” Famous names (a big market, a famous park) are only examples of **people already stopping**. The same pains happen on ordinary streets: the mallam with drinks, the petty trader, the bus stop where people wait and anticipate the trip. Those moments are daily. They are not a destination people travel to. They are life.
+
+**ATM logic.** People do not go to one celebrated ATM plaza. They use the machine that is already on their walk — because cash is a daily need and availability became a habit. Banks did not win by listing twenty landmarks; they won by covering daily life until the network felt everywhere. CashEase is the same job for **small notes and last-mile cash**: once the box is in front of the trader, the mallam, and the bus wait, people use it because the need is already there. Money follows that convenience.
+
+**What “everywhere” means.** Follow people, not a tourist map of hubs. A street with petty trade, a mallam, and buses is a CashEase street — whether or not it has a famous name. A pad with nobody already stopping for daily cash is like an ATM in an empty field: ATMs are not there either. The filter is **everyday activity**, not celebrity.
+
+**Why a first belt still densifies.** ATMs also rolled out as **coverage in a city**, then copied. Phase 1 packs Lagos–Ogun everyday streets so the product feels as available as an ATM in that catchment — that is how habit (and therefore money) forms. Spraying one quiet box per LGA does not create ATM-like convenience. Saturating ordinary cash streets in one belt does.
 
 | Pillar | What we take as given | What Phase 1 writes down |
 | --- | --- | --- |
-| Mass cash need | Conductors, traders, artisans, commuters — including the poor | Tx/day, fee mix, peak hours on each pad |
-| Population | National scale; Lagos–Ogun is a dense first belt | How many **doors** in the belt clear 89–180 tx/day |
+| Universal daily need | Everyone: drink, mallam, bus, stall — including the poor | Tx/day, fee mix, peak hours on each pad |
+| Pain follows people | The need travels with the person, not the place-name | How many **everyday streets** in the belt clear 89–180 tx/day |
 | New category | No incumbent “change kiosk” chain | First category dataset for banks and BOI |
-| Convenience | People use what is in front of them | Stocked hopper + path site → repeat use |
+| ATM-like convenience | People use what is in front of them for a daily job | Dense belt + stocked hopper → habit → money follows |
 
 **Policy rhyme.** Faster small-note circulation at the last mile is liquidity **in use**. That is a fair CBN/BOI story. It supports introductions and file language. The commercial meter remains the books on those doors.
 
-Nigeria remains cash-plus-digital. Large notes are easy to get; small notes are not. People do not travel across town to break ₦1,000. They need ₦100s **while they are already** at the park, the stall, or the junction — where the pain already is. CashEase intercepts that trip.
+Nigeria remains cash-plus-digital. Large notes are easy to get; small notes are not. People do not travel across town to break ₦1,000. They need ₦100s **while they are already** buying, waiting, or boarding. CashEase intercepts that moment.
 
-### 3.3 Where the money is
+### 3.4 Where the money is
 
-The comparable business is the POS/agent kiosk that already earns in a prime spot — not a bank ATM lobby.
+The comparable business is the POS/agent kiosk and the **ATM network** — ubiquitous tools for a daily cash job — not a shortlist of named mega-nodes.
 
 | Layer | Meaning |
 | --- | --- |
-| **Primary (Phase 1)** | Cash-out and change at 50–150 prime Lagos/Ogun nodes on parks, markets, busy petrol |
-| **Secondary (Phase 2)** | The same pattern in Ibadan, then Abuja, Kano, Port Harcourt, Onitsha |
+| **Primary (Phase 1)** | Dense coverage of everyday cash streets in Lagos/Ogun: petty-trade rows, mallam spots, bus waits, park edges, busy petrol on those same walks |
+| **Secondary (Phase 2)** | The same **coverage** pattern in Ibadan, then Abuja, Kano, Port Harcourt, Onitsha |
 | **Later** | More hubs if Phase 2 unit economics hold |
 
-Site work starts with **pain counts**: how often in two weeks someone asks for change, loses a fare, or walks from a stall for lack of ₦100s — then CBN denomination mix and acquirer cash-out in that LGA.
+Site work starts with **people counts**, not landmark lists: how often in two weeks someone buys small, asks the mallam for change, waits for a bus, or walks from a stall for lack of ₦100s — then CBN denomination mix and acquirer cash-out in that catchment.
 
-### 3.4 Pricing
+### 3.5 Pricing
 
 Nigerians already pay ATM surcharges and agent fees. ₦20–₦100 to break a note and ₦50–₦200 for POS cash-out are in-market **if** the alternative is a hunt for ₦100s. Pricing dies if the cassette is empty, a human agent next door is cheaper, or the site is a mall with working ATMs.
 
-### 3.5 Competition
+### 3.6 Competition
 
 | Competitor | Implication |
 | --- | --- |
@@ -214,7 +224,7 @@ Nigerians already pay ATM surcharges and agent fees. ₦20–₦100 to break a n
 | Informal changers | Instant and flexible. Win on reliability, hours, and having stock |
 | Bank ATMs | Dispense larger notes; poor small-note mix. Adjacent job, not the same pad |
 
-### 3.6 Regional expansion
+### 3.7 Regional expansion
 
 Other African currencies are out of scope until Nigeria has a working 2,000.
 
@@ -250,48 +260,51 @@ Custom software runs denominations, telemetry and reconciliation. Licensing that
 
 ## 5. Locations, Cash & Operations
 
-### 5.1 Location is the business
+### 5.1 Follow people, not place-names
 
-Planning assumes **180 paid transactions per up day**. Stress at 110 tx/day and ₦120k rent never breaks even. That is a door result.
+Planning assumes **180 paid transactions per up day**. A pad with no everyday cash moments will not print. That is a **people** result, not a verdict on a famous area.
 
-**Phase 1 site types**
+**The site is the daily activity, not the landmark.** Mile 12-class markets are busy because people already stop there to trade. The same job exists on unnamed streets: petty traders, the mallam, the bus wait. Those streets are the estate. Named hubs are optional density, not the strategy.
 
-- Wholesale and retail markets (Mile 12, Oshodi, Tejuosho, Balogun-type nodes)
-- Motor parks and last-mile junctions — conductors and traders
-- Busy fuel stations on those corridors
-- Campus gates
-- Hospital approaches only if a weekday count supports it
+**Phase 1 site types (everyday cash moments)**
+
+- Petty-trade rows and street sellers (drinks, food, small goods)
+- Mallam / corner spots on walking streets
+- Bus, danfo, keke waits — people anticipating the trip, not only the “famous park”
+- Park edges and last-mile junctions — conductors and passengers
+- Busy fuel stations on those same walks
+- Campus gates and hospital approaches only if weekday people-counts support them
 
 **How a site is taken**
 
-1. Count three day-parts for two weeks. Record existing POS/ATM and “do you have ₦100s?” events.
+1. Count three day-parts for two weeks. Record petty buys, mallam change-asks, bus waits, existing POS/ATM, and “do you have ₦100s?” events.
 2. Written lease: ₦50k–₦200k/month plus optional 5–10% of site-attributable net; short performance guarantee for the host if useful.
-3. Market association / park leadership; LGA; budget “area” cost honestly.
+3. Street / market association / park leadership; LGA; budget “area” cost honestly.
 4. Fix the POS geotag.
 5. 12–36 month occupancy with relocation rights.
 
-Budget **₦100k–₦300k** per prime site for deposit and extra fit-out. Do not open the 50th site until the first 10 have four weeks of data.
+Budget **₦100k–₦300k** per pad for deposit and extra fit-out. Do not open the 50th site until the first 10 have four weeks of data.
 
-You rent like any shop. You do not need a bank vestibule or a government plot. You also do not rent “anywhere”: the majority need change, but they use whatever is **in their path**.
+You rent like any shop. You do not need a bank vestibule or a government plot. You also do not spray boxes onto empty plots: ATMs follow people. CashEase does the same. The majority need change; they use whatever is **already on their walk**. Dense coverage of those walks in one belt is how availability starts to feel like ATMs — and how money follows.
 
 ![Planning-case unit waterfall](charts/fig_unit_waterfall.png)
 
 *Figure: After logistics, rent, bank share and field cost, there is no 50% net margin. Throughput has to be real.*
 
-### 5.2 One queue, many doors
+### 5.2 One queue, many ordinary doors
 
-The plan is **many machines in one corridor**, each on its **own** pitch — not one machine for all of Lagos, and not four machines on one slab.
+The plan is **many machines on everyday streets in one corridor**, each on its **own** pitch — not one machine for all of Lagos, and not four machines on one slab. Famous names are not required.
 
 | Setup | In the plan? |
 | --- | --- |
-| Dozens of boxes across Mile 12, Oshodi, parks, petrol on the same roads | **Yes — Phase 1–2** |
-| Two boxes at opposite ends of a huge market | **Often yes** |
+| Dozens of boxes on petty-trade streets, mallam corners, bus waits, park edges, petrol on the same walks | **Yes — Phase 1–2** |
+| Two boxes at opposite ends of a huge market or long street | **Often yes** |
 | Second box on the same pad after ~250+ tx/day and real queues | **Yes, earned** |
 | Four side by side at one station, hotel or mall door | **No as default** |
 
 A 180 tx/day door with four machines is ~45 tx each — below the 89 tx break-even. Four boxes also put ~₦15.4m of hardware and ~₦4.8m of cash on one pad.
 
-**Default: one machine per site. Two is a promotion. Four is a named mega-node only.**
+**Default: one machine per site. Two is a promotion. Four is a rare mega-node only.**
 
 ### 5.3 Chain landlords
 
@@ -300,7 +313,7 @@ A master lease with a fuel-retail or hub chain (Total, MRS, Ardova, a bus-termin
 | Place | Use |
 | --- | --- |
 | Petrol on market / park roads | **Yes — one machine** first |
-| Parks, wholesale gates, junctions | **Yes — one, then two** if there is a queue |
+| Parks, petty-trade streets, wholesale gates, junctions | **Yes — one, then two** if there is a queue |
 | Malls | **Maybe one** at taxi rank / food-court cash line — not the ATM lobby |
 
 Malls rent cleanly. They are often weak for change because ATMs and cards already sit there.
@@ -311,7 +324,7 @@ Hotels and salons want a guest USP. CashEase needs 180 cash transactions a day.
 
 | | Volume site (core) | Amenity site (overlay) |
 | --- | --- | --- |
-| Who | Markets, parks, busy petrol | Hotels, salons, cinemas, offices |
+| Who | Markets, petty streets, bus waits, busy petrol | Hotels, salons, cinemas, offices |
 | Why they say yes | Rent / small share | Convenience for their customers |
 | Why CashEase says yes | Queue all day | **They pay placement**, or a two-week count is exceptionally strong |
 
@@ -389,7 +402,7 @@ CBN can recognise, sandbox, or make it easier for banks to load small notes. It 
 | Phase | When | Fleet (year-end) | Purpose | Gate |
 | --- | --- | --- | --- | --- |
 | **0 — Prototypes** | Months 0–4 | 5–10 | OEM and Naira firmware | 60-day uptime ≥ 90% |
-| **1 — Proof** | Y1 (2027) | **350** | Livelihood-path sites, self-funded float | Median ≥ 150 tx/day; theft < 2%; 6 months of books |
+| **1 — Proof** | Y1 (2027) | **350** | Everyday-street sites, self-funded float | Median ≥ 150 tx/day; theft < 2%; 6 months of books |
 | **2 — Repeatable** | Y2 (2028) | **2,000** | Bank cash line; Lagos–Ogun–Ibadan density | Bank SLA; unit EBITDA on plan; DSCR for any facility |
 | **2b — National core** | Y3 (2029) | **5,000** | Abuja, Kano, PH, Onitsha | Two banks or bank + CIT |
 | **3 — Option** | Y4–Y6 | 10,000–20,000 | Only if planning unit economics still hold | Facility sized to DSCR ≥ 1.25× |
@@ -408,9 +421,9 @@ CBN can recognise, sandbox, or make it easier for banks to load small notes. It 
 
 Nationwide is how a 5,000–20,000 fleet is **housed**. It does not raise profit per box.
 
-Nigeria has more than 20,000 busy places. The plan needs 20,000 **CashEase doors** — pads that still clear ~89 tx/day after agents and informal change. That subset is counted, not assumed from the map.
+Nigeria has far more than 20,000 everyday cash streets. The plan needs 20,000 **CashEase doors** — pads where people already buy, wait, and board, that still clear ~89 tx/day after agents and informal change. That subset is counted on the street, not assumed from famous place-names.
 
-**Win one corridor, then copy hubs.** A second bank or national CIT is in place before vans leave the first belt.
+**Cover one belt like ATMs, then copy hubs.** A second bank or national CIT is in place before vans leave the first belt.
 
 ### 7.4 Path to 20,000
 
@@ -569,7 +582,7 @@ The cap on ₦90bn **profit** or a **₦90bn single loan** is the model: thin fe
 
 ### 10.1 How to maximise gain
 
-1. Put money into **doors**, not OEM volume. Kill the worst 10% of sites monthly.
+1. Put money into **everyday doors**, not OEM volume. Kill pads with no people monthly.
 2. Keep change cheap enough to stop the conductor; push POS and bills on the same screen.
 3. Own the box, rent the cash; hold 70%+ of POS.
 4. Add machines only when the last 50 are above 150 tx/day.
@@ -582,7 +595,7 @@ The cap on ₦90bn **profit** or a **₦90bn single loan** is the model: thin fe
 
 | Risk | Likelihood | Impact | Mitigation |
 | --- | --- | --- | --- |
-| Weak sites | High if rushed | Fatal | Two-week counts; kill bottom decile; cap Phase 1 at 350 |
+| Empty pads (no daily cash moments) | High if rushed | Fatal | Two-week people counts; kill bottom decile; cap Phase 1 at 350 |
 | Small-note scarcity | High | High | Bank mix SLA; ₦100–₦500 design; recycle |
 | Theft / vandalism | High | High | Caps, CIT, insurance, 72-hour pull |
 | Device reclassified as ATM | Medium | High | Counsel before OEM scale; IAD file ready |
@@ -605,7 +618,7 @@ Solar-first kiosks; CIT vans are the larger footprint — hence density in Lagos
 
 ### 12.2 Social
 
-Small-note access on livelihood paths. Jobs at 2,000 units in tech, monitoring, CIT and HQ. Host rent is part of the licence to operate. AML/CFT via the acquirer: thresholds, geotag, screening.
+Small-note access on everyday streets. Jobs at 2,000 units in tech, monitoring, CIT and HQ. Host rent is part of the licence to operate. AML/CFT via the acquirer: thresholds, geotag, screening.
 
 ### 12.3 Governance
 
@@ -615,45 +628,45 @@ Single-purpose Ltd. Reserved matters: debt above ₦2bn, OEM POs above 50 units,
 
 ## 13. Strategy to maximise potential
 
-The job is to **stand where the pain already is** and stack every door-opener that makes a live hopper possible: private leases, public concessions, bank float, a thin ATM sidecar. Do not wait for one saviour (CBN, vestibules, franchise, or a federal PPP).
+The job is to **stand where people already stop for daily cash** and stack every door-opener that makes a live hopper possible: private leases, public concessions, bank float, a thin ATM sidecar. Do not wait for one saviour (CBN, vestibules, franchise, or a federal PPP). Do not wait for a shortlist of famous crowd places.
 
-**Objective.** Maximise the number of **fat livelihood-path doors** with **stocked ₦100s**, company-owned boxes (operators may buy growth machines later), and cheap enough capital to reach 2,000 — then hubs — without betting the firm on 20,000 iron sitting quiet.
+**Objective.** Maximise **ATM-like availability** of stocked ₦100s on everyday streets (petty trade, mallam, bus wait), company-owned boxes (operators may buy growth machines later), and cheap enough capital to reach 2,000 — then hubs — without betting the firm on 20,000 iron sitting quiet.
 
 ### 13.1 Four tracks, in parallel (not in a queue)
 
 | Track | What you maximise | First move |
 | --- | --- | --- |
-| **A. Pain doors** | Capture of conductor/trader/commuter pain | 10 OEM units; two-week **pain counts**; pay rent on the best 10–15 pads |
+| **A. Everyday doors** | Capture of petty-trade / mallam / bus-wait / conductor pain — wherever people already are | 10 OEM units; two-week **people counts** on ordinary streets; pay rent on the best 10–15 pads |
 | **B. Bank float** | Small notes in the cassette | Acquirer now; **cash SLA** when 10–50 boxes have books. ATM-adjacent = **pilot of 5–10**, not the estate |
-| **C. Public land** | Official high-traffic slabs | Mini-concession: one park + one market; you own machines; fee or small share to LGA/terminal |
+| **C. Public land** | Official high-traffic slabs | Mini-concession: one park + one market street; you own machines; fee or small share to LGA/terminal |
 | **D. Policy story** | Introductions, not a cheque | Liquidity-in-use + inclusion language for BOI and bank desks |
 
-Track A **never pauses** for B, C, or D. Those tracks **raise the ceiling** once A is alive.
+Track A **never pauses** for B, C, or D. Those tracks **raise the ceiling** once A is alive. Track A is **coverage of daily life**, not a hunt for celebrity nodes.
 
 ### 13.2 Sequence that compounds
 
-1. **Create the first situations (months 0–6).** Hunt park chairmen, market associations, busy petrol dealers. Count change-asks, lost fares, walked customers. Order 10 machines. Go live. This is the new-category proof.  
-2. **Thicken the belt (months 6–12).** 350 doors in Lagos–Ogun on those paths. One machine per pad. Kill the quiet 10%.  
+1. **Create the first situations (months 0–6).** Walk ordinary streets: petty traders, mallams, bus waits, park edges, busy petrol. Count change-asks, lost fares, walked customers, people anticipating a trip. Order 10 machines. Go live. This is the new-category proof.  
+2. **Thicken the belt (months 6–12).** 350 doors in Lagos–Ogun until the product feels as available as an ATM in that catchment. One machine per pad. Kill pads with no people.  
 3. **Unlock float (months 9–18).** Bank adopts **cash + settlement** on *your* grid. Ask for a **vestibule sidecar** in the same paper — extra, not exclusive.  
-4. **Unlock public pads (in parallel).** Copy one working park concession to the next LGA. That is how government “adoption” becomes **land**, while the bank remains **cash**.  
+4. **Unlock public pads (in parallel).** Copy one working park or market-street concession to the next LGA. That is how government “adoption” becomes **land**, while the bank remains **cash**.  
 5. **Fund 2,000 (after books).** ₦8–12bn against machines + SLA. Best risk-adjusted scale (~₦1.2bn NPAT/year on planning).  
 6. **Stretch equity only after 2,000.** Hire-purchase / operator-bought boxes, **gross** fee share on the switch, buyback, bank still owns float.  
-7. **Copy hubs, then 20,000 as operations.** Same pattern in Ibadan, Abuja, Kano, PH. 20,000 is possible if B+C hold and doors stay fat — not if adoption means ATM lobbies only.
+7. **Copy hubs, then 20,000 as operations.** Same everyday-coverage pattern in Ibadan, Abuja, Kano, PH. 20,000 is possible if B+C hold and doors stay fat — not if adoption means ATM lobbies only, and not if the map is only famous names.
 
 ### 13.3 What to push, what to refuse
 
 | Push hard | Refuse / delay |
 | --- | --- |
-| Pads on parks, markets, busy petrol | Waiting for banks or a federal PPP to “approve the market” |
+| Pads on petty-trade streets, mallam corners, bus waits, park edges, busy petrol | Waiting for banks or a federal PPP to “approve the market” |
 | Bank as **cashier** of ₦100s | Selling the fleet to banks as the core P&L |
-| LGA/park **concession** for the slab | Nationwide exclusive that blocks private sites |
-| One box; second only if the queue is real | Four machines on one slab |
-| 70%+ of POS; change fees yours | Vestibule deal that forbids livelihood sites |
+| LGA/park **concession** for the slab | Nationwide exclusive that blocks private everyday streets |
+| One box; second only if the queue is real | Four machines on one slab; only-famous-hubs thinking |
+| 70%+ of POS; change fees yours | Vestibule deal that forbids livelihood / street sites |
 | Policy as a **letter and intro** | Policy as the revenue line |
 
 ### 13.4 How 20,000 becomes the upside, not the bet
 
-Bank float + public high-traffic concessions + a dense first belt is the **maximum-potential** shape. ATM sites add a slice of people who just withdrew large notes. Population and on-ground pain are why the ceiling can be high. The first 350–2,000 are how you **find and create** the situations. If those print, you have earned the right to chase 20,000. If a pad is dead, you move it — you do not conclude the masses had no pain.
+Bank float + public concessions + a **dense first belt of everyday streets** is the **maximum-potential** shape — ATM-like coverage, then copied. Bank ATM sites add a slice of people who just withdrew large notes. Population and on-ground pain are why the ceiling can be high: **everyone** has the need, so money can follow availability. The first 350–2,000 are how you **create that convenience** in one catchment. If those print, you have earned the right to chase 20,000. If a pad is dead, you move it to where people already stop — you do not conclude the masses had no pain, and you do not conclude only Mile 12-class names work.
 
 ---
 
@@ -663,7 +676,7 @@ Bank float + public high-traffic concessions + a dense first belt is the **maxim
 | --- | --- | --- | --- |
 | 1 | Incorporate; audit file; counsel memo (kiosk vs ATM vs IAD) | Promoter + counsel | Month 0–1 |
 | 2 | Shortlist two OEMs; order **10** units | Promoter | Month 1–2 |
-| 3 | Two-week counts on 40 livelihood-path sites; sign ≤ 15 leases | Operations | Month 1–3 |
+| 3 | Two-week counts on 40 everyday streets (petty trade, mallam, bus wait); sign ≤ 15 leases | Operations | Month 1–3 |
 | 4 | Acquirer term sheet | Promoter | Month 2 |
 | 5 | Run 10 units 60 days | Operations | Month 4–6 |
 | 6 | If medians ≥ 150 tx/day, complete **350** (₦1.85bn total uses) | Board | Month 6–12 |
@@ -671,7 +684,7 @@ Bank float + public high-traffic concessions + a dense first belt is the **maxim
 | 8 | BOI/club file for **₦8–12bn**, 2,000-kiosk hold | Finance | After 6–12 months of Phase 1 |
 | 9 | 5,000 and a second tranche after four quarters at plan | Board | Year 3 |
 
-CashEase is a **Nigerian multi-service cash-kiosk operator that owns its boxes and rents its float from banks**. It intercepts the majority’s daily need for small notes on paths they already walk. It rents like a shop: many doors in one belt, **one machine per pad**.
+CashEase is a **Nigerian multi-service cash-kiosk operator that owns its boxes and rents its float from banks**. It puts ATM-like availability on the majority’s daily cash moments — petty traders, mallams, bus waits — so money can follow convenience. It rents like a shop: many ordinary doors in one belt, **one machine per pad**.
 
 Raise **₦1.85 billion**, build **350**, then borrow for **2,000**. Nationwide hubs and any ₦90 billion *turnover* story are earned after those doors print.
 
@@ -691,7 +704,7 @@ Raise **₦1.85 billion**, build **350**, then borrow for **2,000**. Nationwide 
 | **NPAT** | Net profit after tax |
 | **PTSP** | Payment Terminal Service Provider |
 | **Planning case** | Go / no-go assumptions |
-| **Stress case** | Weak sites, expensive float, high theft |
+| **Stress case** | Empty pads, expensive float, high theft |
 | **Upside case** | Fatter traffic and fees on the same model |
 
 ### B. Sample bank partnership proposal
@@ -726,7 +739,7 @@ Use with **300–500 live kiosks** and an audit.
 6. Use of proceeds: machines, fit-out, residual self-float — no 20,000-unit PO  
 7. Planning, stress, and hold-at-2,000 cases  
 8. DSCR, collateral cover, insurance  
-9. Jobs and inclusion (livelihood-path sites)  
+9. Jobs and inclusion (everyday-street sites)  
 10. Requested ticket: **₦8–12 billion**, 7–10 years  
 
 ### D. Model files
@@ -754,5 +767,6 @@ Discount rate 22%. Tax 32.1% of PBT. Fleet paths and unit assumptions are in `SC
 | 2.0 | 18 Aug 2026 | Standalone plan: verdict as the opening design; livelihood-path demand; measured scale |
 | 2.2 | 18 Aug 2026 | On-ground pains as demand validation; kiosk tx/day as the meter, not the proof of need |
 | 2.3 | 18 Aug 2026 | Strategy to maximise potential: four parallel tracks, sequence, 20,000 as earned ceiling |
+| 2.4 | 18 Aug 2026 | Pain follows people: ATM-like everyday convenience (petty trader, mallam, bus wait); named hubs are density, not the strategy |
 
 **Next refresh triggers:** counsel memo received; 60-day OEM trial closed; first 15-site counts complete; any circular on IADs, agent cash caps or POS geotagging.
