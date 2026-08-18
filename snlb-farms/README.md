@@ -9,7 +9,7 @@ Commercial tomato production on a leased 100-hectare master block in Ogun State,
 | [model/financial_model.py](./model/financial_model.py) | 5-year / 10-cycle model (base, upside, stress; optional ₦80m facility) |
 | [model/generate_charts.py](./model/generate_charts.py) | Rebuild figures |
 | [model/build_pdf.py](./model/build_pdf.py) | Rebuild the PDF |
-| [charts/](./charts/) | Figures used in the study |
+| [FarmPark_Partner_File.md](./FarmPark_Partner_File.md) | Public desk file on the intended FMC (King’s Deck, Chevron, Lekki) and the gaps still open |
 
 **Prepared:** August 2026  
 **Entity:** SNLB Farms  

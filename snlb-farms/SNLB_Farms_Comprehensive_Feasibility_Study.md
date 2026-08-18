@@ -34,6 +34,8 @@ A self-funding expansion from 1 hectare to 100 hectares, driven by two-cycle ann
 9. [Conclusion & Recommendations](#9-conclusion--recommendations)
 10. [Appendices](#10-appendices)
 
+Intended farm-management partner: **FarmPark** (King’s Deck, Chevron Drive, Lekki) — public file and remaining gaps in Appendix F. Engagement is advisory on SNLB’s land; this is not a FarmPark co-investment.
+
 ---
 
 ## 1. Executive Summary
@@ -358,6 +360,14 @@ The farm manager is paid against cycle packs, not against hope.
 
 Missed Peak timing is a farm-manager miss, not a market miss.
 
+### 4.14 Intended farm-management partner — FarmPark (Lekki)
+
+The promoters intend to engage **FarmPark**, office at Suite 2, 3rd Floor, King’s Deck, Alternative Route off Chevron Drive, Lekki, as the farm-management company. Public identity: trading name FarmPark / farmpark.ng; LinkedIn and 2022 job ads state that **Farm Park is a trademark of FarmAgro Projects Limited**; job boards also use **FarmPark Limited**. Founding Executive Director named in public profiles: **David Omaghomi**. Contacts they publish: 0708 062 9726, care@farmpark.ng.
+
+Public positioning is farmland acquisition, **co-investment**, and “we manage the farms, you earn the returns,” with LinkedIn posts weighted to **fish, poultry and hatchery** in Lagos/Ibadan — not a published tomato drip SLA on an Ogun 100 ha block. Website marketing figures (500 acres, 75 co-investors, 85% “annual yield”) and US-dollar price tiles are **unverified** and are not used in this model. LinkedIn headcount scrapes are in the **1–11** range.
+
+**Engagement shape.** Cycles 1–2 remain Stage 0: FarmPark on **advisory** terms; a named farm manager on the Ogun site; SNLB keeps the 100 ha option, the ₦8 million equity and the 50/50 NPAT split. FarmPark is not to insert its land product or a profit share. A mechanization SLA is still required before Cycle 4. The public file, gap list and first-meeting ask sit in **Appendix F** and in `FarmPark_Partner_File.md`. Until CAC papers, a Cycle 1 advisory letter and a reference-farm visit are in the data room, FarmPark is a **named intention**, not a closed CP.
+
 ---
 
 ## 5. Growth & Expansion Roadmap
@@ -666,7 +676,7 @@ The enterprise is high-margin, Peak-dependent and operationally constrained. It 
 | Risk | L | I | Mitigation |
 | --- | --- | --- | --- |
 | Missed Peak harvest window | M | H | Calendar reverse-engineered from Mile 12; farm-manager KPI |
-| Staffing / +45 ha mobilisation | H | H | Hard ceiling; FMC SLA; option to delay add to next Peak |
+| Staffing / +45 ha mobilisation | H | H | Hard ceiling; FarmPark (or successor) SLA before C4; option to delay add to next Peak |
 | Irrigation failure | L | H | Spares; dual borehole from 15 ha |
 | *Tuta* / Peak disease | M | H | IPM; lower Peak yield; NAIC |
 | Lease defective / family claim | L | H | Counsel opinion; assignment language; holding fee + option |
@@ -739,7 +749,7 @@ The planning-case NPV at 18% is **₦5.78 billion** (five years, no terminal val
 - Incorporate SNLB Farms as a limited company; open a dedicated operating account; pay in ₦8 million.
 - Instruct counsel on the master option/lease before drip deposits.
 - Commission soil and borehole tests on the first 10 ha.
-- Bind NAIC and GIT; hire the farm manager; engage an FMC on advisory terms.
+- Bind NAIC and GIT; hire the farm manager; engage **FarmPark** on **advisory** terms only after the Appendix F ticks (CAC entity, no co-investment, Cycle 1 letter, reference-farm visit).
 - Run Cycle 1 as a Regular proof cycle at the non-glut ₦33,000 ticket, harvested February–April. Use Cycle 2 Peak to fill the buffer.
 - Apply the Cycle 1 go/no-go before spending drip on the extra 2 ha.
 - Order seed 8–12 weeks before nursery; do not compress into a January harvest.
@@ -781,7 +791,7 @@ The opportunity is a structural tomato deficit, a 1.5-hour corridor to the price
 2. ₦8,000,000 paid into the farm account, with the share register and board minutes.
 3. Executed master option/lease with lender-assignment language.
 4. Independent soil test and borehole yield/quality on the first 10 ha.
-5. Named farm manager (CV) and FMC advisory letter.
+5. Named farm manager (CV) and **FarmPark** (or successor FMC) **advisory letter for Cycle 1** — contracting company matched to CAC; no co-investment; no NPAT share (Appendix F).
 6. NAIC and GIT bound for Cycle 1.
 7. Seed and drip quotations.
 8. Promoter KYC (NIN, BVN, ID, PEP).
@@ -792,7 +802,7 @@ The opportunity is a structural tomato deficit, a 1.5-hour corridor to the price
 
 ### C. Data-room index
 
-Corporate (CAC, MEMART, TIN) · Land (lease/option, survey, counsel) · Technical (soil, water, drip, seed, IPM, calendar) · Market (price log, LOIs) · Financial (statements, cycle packs, tax, insurance) · ESG (OGEPA, labour) · Security (asset register) · Quotations.
+Corporate (CAC, MEMART, TIN) · Land (lease/option, survey, counsel) · Technical (soil, water, drip, seed, IPM, calendar) · Market (price log, LOIs) · Financial (statements, cycle packs, tax, insurance) · ESG (OGEPA, labour) · Security (asset register) · Quotations · FMC (FarmPark CAC, advisory letter, reference farms, fee quote).
 
 ### D. Model files
 
@@ -802,10 +812,37 @@ Corporate (CAC, MEMART, TIN) · Land (lease/option, survey, counsel) · Technica
 
 NIHORT production guidance and HortiTom4/5 notes. Olam-Caraway public yields. Mile 12 price points from Businessday, Nairametrics, Vanguard and related reporting, August 2024 – July 2026. NBS food inflation May 2026 (16.96% y/y). Nigeria Tax Act 2025 (small-company test; 30% CIT; 4% Development Levy; 5-year agri exemption for qualifying crop production — confirm with counsel). BOA production-loan charges (9%; NAIC arable 2%). ACGSF up to 75% guarantee. Industry estimates: 3.7 Mt output; 40–50% post-harvest loss; US$350–400m paste imports. Drip kit Nigerian retail ranges 2024–2026; model uses ₦1.0m/ha incremental plus shared headworks.
 
-### F. Document control
+### F. FarmPark partner file — public facts and gaps
+
+**Intended FMC:** FarmPark, King’s Deck, Alternative Route off Chevron Drive, Lekki. Full desk file: `snlb-farms/FarmPark_Partner_File.md`.
+
+| Public fact | Status |
+| --- | --- |
+| Office at Chevron / King’s Deck | Repeated on website, LinkedIn and 2021–22 job ads |
+| Legal name | **Open.** Trademark said to sit in FarmAgro Projects Limited; job boards say FarmPark Limited. No RC number in public materials. |
+| Commercial model | Investor-facing: land, co-investment, managed returns. Conflicts with SNLB 50/50 unless they accept **advisory / services only**. |
+| Tomato / drip / Ogun operating proof | **Not in public sources.** Posts mention fish, poultry, hatchery; one Ogun anecdote is a land-due-diligence warning, not a tomato farm. |
+| Website claims (500 acres, 85% yield, $12.99 plans, foreign staff names) | Treat as **template / unverified**. Do not use in the model. |
+| Headcount | Public scrapes 1–11 people. Insufficient on its face for 72–100 ha without named subcontractors. |
+| Related party signal | 2022 jobs directed CVs to a **Revelation Properties** Gmail. |
+
+**Gaps the promoters must close before paying a retainer or treating the FMC CP as met**
+
+1. CAC extract: contracting company, RC, directors, who signs.
+2. Written **advisory** mandate for Cycles 1–2 — no co-investment, no FarmPark land, no NPAT share.
+3. Three reference farms (crop, hectares, yield, buyer) and a visit to one working site.
+4. Named Ogun farm manager (CV) who accepts the §4.13 KPI pack.
+5. Naira fee quote; disclosure of any input mark-up.
+6. Mobilisation note for +15 / +27 / +45 ha and a Cycle 4 mechanization SLA.
+7. Related-party and non-circumvention letter on the 100 ha option.
+8. NAIC/GIT and labour (whose payroll) in writing.
+
+Walk away if they will only transact as an unnamed “FarmPark,” insist on co-investment or a profit share, or cannot show a farm you can walk.
+
+### G. Document control
 
 | Version | Date | Notes |
 | --- | --- | --- |
-| Comprehensive Feasibility Study | August 2026 | Regular-first, non-glut prices; Cycle 1 calendar, quality spec, power/security, procurement, buffer policy, offtake heads of terms |
+| Comprehensive Feasibility Study | August 2026 | Regular-first, non-glut prices; Cycle 1 calendar, quality spec, power/security, procurement, buffer policy, offtake heads of terms; FarmPark named as intended FMC with open due-diligence gaps |
 
 Prepared for SNLB Farms. Not for general circulation. Replace planning tables with live quotations and the site report before any binding credit application.
