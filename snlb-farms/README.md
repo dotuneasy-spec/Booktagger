@@ -15,7 +15,7 @@ Commercial tomato production on a leased 100-hectare master block in Ogun State,
 | [legal/SNLB_ENTERPRISE_CAC_BN_6922259.pdf](./legal/SNLB_ENTERPRISE_CAC_BN_6922259.pdf) | CAC business-name certificate (31 March 2023) |
 
 **Prepared:** August 2026  
-**Entity:** SNLB ENTERPRISE (CAC BN 6922259) trading as SNLB Farms  
+**Entity:** SNLB ENTERPRISE (CAC BN 6922259) → proposed **SNLB Farms Limited** (§2.1 of the study)  
 **Opening capital:** ₦8,000,000 (₦3.0m CapEx + ₦5.0m Cycle 1 working capital)  
 **Planning case:** Regular first at non-glut Mile 12 prices — 20/18 t/ha, ₦33,000 / ₦145,000 baskets, full cost stack, NTA 2025 tax
 

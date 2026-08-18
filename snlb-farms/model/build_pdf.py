@@ -295,7 +295,7 @@ COVER = """
   <div class="rule"></div>
   <p class="lede">Commercial tomato farming on a leased 100-hectare master block in Ogun State, Nigeria, supplying Mile 12 International Market, Lagos. A self-funding expansion from 1 hectare to 100 hectares through two-cycle production, 50/50 reinvestment and progressive mechanization.</p>
   <dl>
-    <dt>Prepared</dt><dd>August 2026</dd>
+    <dt>Entity</dt><dd>SNLB ENTERPRISE BN 6922259  ·  proposed SNLB Farms Limited</dd>
     <dt>Horizon</dt><dd>5 years / 10 cycles  ·  1 ha → 100 ha in six cycles (3 years)</dd>
     <dt>Planning case NPV</dt><dd>₦5.78 billion at 18% (Regular first, non-glut, 5-year, no TV)</dd>
     <dt>Opening capital</dt><dd>₦8.0 million (₦3.0m CapEx + ₦5.0m Cycle 1 working capital)</dd>

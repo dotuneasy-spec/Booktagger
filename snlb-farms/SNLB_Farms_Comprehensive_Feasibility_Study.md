@@ -8,14 +8,14 @@ A self-funding expansion from 1 hectare to 100 hectares, driven by two-cycle ann
 
 | Field | Detail |
 | --- | --- |
-| Entity | **SNLB ENTERPRISE** (CAC business name **BN 6922259**, 31 March 2023) trading as SNLB Farms |
+| Entity | **SNLB ENTERPRISE** (CAC BN **6922259**, 31 March 2023) trading as SNLB Farms — convert to **SNLB Farms Limited** (§2.1) |
 | Prepared | August 2026 |
 | Horizon | Year 1–Year 5 (build-out in six cycles / three years; steady state Years 4–5) |
 | Currency | Nigerian naira (₦), nominal |
 | Planning case | Regular first at non-glut Mile 12 prices — 20/18 t/ha, ₦33,000 / ₦145,000 baskets, full stack, NTA 2025 tax |
 | Classification | Confidential planning document |
 
-**Purpose.** This study assesses the commercial viability of phased hybrid tomato production on a contiguous 100-hectare master block in Ogun State, with produce sold into Mile 12 International Market (≈1.5 hours). It sets out the operating model, market, agronomy, Cycle 1 calendar and cash waterfall, the ₦8 million opening uses at current shop tickets, quality spec, power and security, procurement lead times, offtake heads of terms, buffer use, expansion path, three financial scenarios, charts, discounted cash flow, optional facility terms, risk, ESG, and the conditions for first planting.
+**Purpose.** This study assesses the commercial viability of phased hybrid tomato production on a contiguous 100-hectare master block in Ogun State, with produce sold into Mile 12 International Market (≈1.5 hours). It sets out the legal vehicle (SNLB ENTERPRISE BN 6922259 and conversion to SNLB Farms Limited), the operating model, market, agronomy, Cycle 1 calendar and cash waterfall, the ₦8 million opening uses at current shop tickets, quality spec, power and security, procurement lead times, offtake heads of terms, buffer use, expansion path, three financial scenarios, charts, discounted cash flow, optional facility terms, risk, ESG, and the conditions for first planting.
 
 **Disclaimer.** Figures are illustrative projections on stated assumptions. They are not guarantees. This document is not financial, legal, tax or investment advice. Independent professional advice is required before capital is committed.
 
@@ -24,7 +24,7 @@ A self-funding expansion from 1 hectare to 100 hectares, driven by two-cycle ann
 ## Contents
 
 1. [Executive Summary](#1-executive-summary)
-2. [Business Overview & Strategic Model](#2-business-overview--strategic-model)
+2. [Business Overview & Strategic Model](#2-business-overview--strategic-model) — including **§2.1** legal entity (BN 6922259 → SNLB Farms Limited)
 3. [Market Analysis](#3-market-analysis)
 4. [Site, Agronomy & Operations](#4-site-agronomy--operations)
 5. [Growth & Expansion Roadmap](#5-growth--expansion-roadmap)
@@ -40,7 +40,7 @@ Intended farm-management partner: **FarmPark** (King’s Deck, Chevron Drive, Le
 
 ## 1. Executive Summary
 
-This study assesses a phased tomato farming venture established on a single leased hectare within a contiguous **100-hectare master block** in Ogun State, Nigeria. Produce is transported roughly **1.5 hours** to Mile 12 International Market in Lagos — West Africa’s largest fresh-produce terminal.
+This study assesses a phased tomato farming venture established on a single leased hectare within a contiguous **100-hectare master block** in Ogun State, Nigeria. The vehicle on file is **SNLB ENTERPRISE** (CAC BN **6922259**). The plan incorporates **SNLB Farms Limited** for the lease, FarmPark letter and any credit file (§2.1). Produce is transported roughly **1.5 hours** to Mile 12 International Market in Lagos — West Africa’s largest fresh-produce terminal.
 
 The operating model runs **two production cycles per year** on every hectare under cultivation:
 
@@ -65,6 +65,7 @@ Opening capitalization is **₦8.0 million**: ₦3.0 million of irrigation infra
 | Expansion path | 1 → 3 → 15 → 27 → 72 → 100 ha, capped at +45 ha/cycle |
 | Time to full 100 ha | 6 cycles — 3 years |
 | Opening capital | ₦8,000,000 (₦3.0m CapEx + ₦5.0m Cycle 1 WC) |
+| Legal vehicle | SNLB ENTERPRISE BN 6922259; **SNLB Farms Limited** for lease, FarmPark and any credit file (§2.1) |
 | Year 1 NPAT / net margin | ₦97.4m / 57.4% |
 | Year 3 NPAT / net margin | ₦3.24bn / 56.4% (first year the block is full) |
 | Cycle 1 break-even | ₦15,810 / basket vs ₦33,000 Regular (52.1% margin of safety) |
@@ -86,7 +87,46 @@ The venture is **feasible**. It combines (a) a structural national supply defici
 
 ## 2. Business Overview & Strategic Model
 
-### 2.1 Concept & business model
+### 2.1 Legal entity and incorporation
+
+The farm trades as **SNLB Farms**. The vehicle on file at the Corporate Affairs Commission is the business name **SNLB ENTERPRISE**.
+
+| Field | On the CAC certificate |
+| --- | --- |
+| Registered name | **SNLB ENTERPRISE** |
+| Registration type | Business name under CAMA 2020 (not a company) |
+| Registration no. | **BN 6922259** |
+| Date | 31 March 2023 |
+| Issued at | Abuja (Registrar-General Hussaini Ishaq Magaji, SAN) |
+| Nature of business | Agricultural services, general trading and merchandise |
+| Principal place of business | 17 Ugochukwu Orji Street, Westgate Estate, Igbo Efon, Lekki, Lagos State |
+| Certificate in data room | `legal/SNLB_ENTERPRISE_CAC_BN_6922259.pdf` |
+
+A business name is a trading style of the proprietor. It has **no separate legal personality**, **unlimited personal liability**, and is a weak party for a master lease, a FarmPark SLA, NAIC loss-payee language, or a later BOA/NIRSAL file. Cycle 1 can legally run on the BN. This study’s credit path, FarmPark contract and lease assignment assume a **private company limited by shares**.
+
+**Conversion used in this plan (counsel files; RC number is not invented here).**
+
+| Item | Planning position |
+| --- | --- |
+| Proposed company | **SNLB Farms Limited** (or a counsel-cleared close variant) |
+| Trading style | SNLB Farms; BN 6922259 retired or kept only if counsel so advises |
+| Law | CAMA 2020 private company limited by shares |
+| Objects | Commercial crop production (tomato and allied vegetables); irrigation and farm-input procurement; packing, haulage and sale of fresh produce; power to lease, option and own farmland; power to borrow and to grant security |
+| Authorised share capital (illustration) | ₦10,000,000 ordinary shares of ₦1 each |
+| Paid-up at first planting | **₦8,000,000** — the opening pack, allotted as share capital into the company account (not an undocumented director loan) |
+| Unissued | ₦2,000,000 (headroom for a later allotment; not a second 100 ha) |
+| Registered office (until changed) | 17 Ugochukwu Orji Street, Westgate Estate, Igbo Efon, Lekki — same as the BN |
+| Farm / operating site | Ogun State master block (lease/option address on the land papers) |
+| Directors | Promoter at incorporation; one independent with agribusiness or audit experience from Cycle 3 (§8.3) |
+| Bank | Dedicated naira operating account **in the company’s name**; ₦8 million paid in before transplant |
+| Tax | TIN from Cycle 1; planning case is fully taxed at 34%; NTA 2025 agri holiday is upside only, on a tax opinion |
+| Counterparties | Master option/lease, FarmPark advisory letter, NAIC/GIT and seed/drip deposits are signed by **SNLB Farms Limited** once the RC issues. Until then, the BN may sign Cycle 1 papers only with counsel’s note that they will be novated. |
+
+**Corporate pack (data room).** CAC BN certificate; CAC status report (proprietor name as on the register — not printed on the face of the certificate held here); after conversion: certificate of incorporation, MEMART, Form CAC 1.1 / status report, share register, board minutes allotting ₦8 million, TIN, account-opening pack, promoter KYC (NIN, BVN, ID, PEP). Proprietor/shareholder identity is taken from the CAC status report, not guessed in this study.
+
+Pre-ops weeks −16 to −14: counsel on the option/lease **and** the Ltd conversion; open the company account; pay in ₦8 million as paid-up capital.
+
+### 2.2 Concept & business model
 
 The venture leases (and options) the full contiguous 100-hectare block in Ogun State before operations begin, then brings parcels into cultivation as retained profit allows. Because the block is already secured, each expansion step is operational — drip, land prep, staffing — rather than a new land negotiation.
 
@@ -96,7 +136,7 @@ The venture leases (and options) the full contiguous 100-hectare block in Ogun S
 
 The land structure used in the model is the one a lender or careful promoter would want: **₦200,000/ha/year** on cultivated hectares plus a **₦25,000/ha/year holding fee** on unused option land, with the lease/option assignable. Lease-to-own conversion from Year 2, funded from the buffer, builds collateral.
 
-### 2.2 Capital allocation — the 50/50 rule
+### 2.3 Capital allocation — the 50/50 rule
 
 At the close of **every cycle**:
 
@@ -105,7 +145,7 @@ At the close of **every cycle**:
 
 Hectares are added only up to what the reinvestment pool can fund, and never more than **+45 ha** in one cycle. From Cycle 4 the operating ceiling, not cash, binds.
 
-### 2.3 Mechanization roadmap
+### 2.4 Mechanization roadmap
 
 The venture is asset-light. Machinery is rented per cycle from a farm-management company as acreage crosses defined thresholds. Discounts apply to **base production cost only**.
 
@@ -120,21 +160,21 @@ The venture is asset-light. Machinery is rented per cycle from a farm-management
 
 *Figure: Mechanization stages and approximate per-hectare cost reduction. Applied as a discount to base production cost in the financial model.*
 
-### 2.4 Value proposition
+### 2.5 Value proposition
 
 - **Strategic market access.** 1.5-hour transit to Mile 12 versus 36–48 hours from the north, cutting post-harvest spoilage to under 5% against 40%+ for long-haul competitors.
 - **Countercyclical supply.** Reliable volume in the months when the broader market is scarcity-constrained.
 - **Scalable, capital-light growth.** Self-funded path from 1 to 100 ha in three years, without owning a tractor fleet.
 - **Self-funding resilience.** The 50/50 policy funds growth and insulates against a single bad cycle.
 
-### 2.5 Competitive advantages
+### 2.6 Competitive advantages
 
 - **Capital wall.** All-in production of roughly ₦3.4m–₦3.8m per hectare (planning case, before scale discounts) keeps casual entrants out.
 - **Know-how.** Two-cycle timing, hybrid seed, drip and mechanization coordination.
 - **Geographic insulation.** Ogun is structurally less exposed to northern *Tuta absoluta* (“tomato Ebola”) outbreaks that drive the price spikes Peak cycles are timed to meet.
 - **Auditable track record.** Cycle-level books from harvest one make the venture financeable if external capital is later sought.
 
-### 2.6 SWOT analysis
+### 2.7 SWOT analysis
 
 | | Helpful | Harmful |
 | --- | --- | --- |
@@ -365,7 +405,7 @@ Missed Peak timing is a farm-manager miss, not a market miss.
 
 The promoters intend to engage **FarmPark**, office at Suite 2, 3rd Floor, King’s Deck, Alternative Route off Chevron Drive, Lekki, as the farm-management company. Public identity: trading name FarmPark / farmpark.ng; LinkedIn and 2022 job ads state that **Farm Park is a trademark of FarmAgro Projects Limited**; job boards also use **FarmPark Limited**. Founding Executive Director named in public profiles: **David Omaghomi**. Contacts they publish: 0708 062 9726, care@farmpark.ng.
 
-The SNLB contracting party is **SNLB ENTERPRISE** (CAC BN 6922259). Convert to a limited company before a long SLA or a credit file.
+The SNLB contracting party is **SNLB ENTERPRISE** (BN 6922259) until **SNLB Farms Limited** is incorporated (§2.1). The Cycle 1 advisory letter is novated to the Ltd when the RC issues.
 
 #### How FarmPark operates (their public model)
 
@@ -440,7 +480,7 @@ From Year 2, selected parcels convert to owned land where the lease allows, usin
 
 | Week | Gate |
 | --- | --- |
-| −16 to −14 | Counsel on master option/lease; BN 6922259 on file / Ltd conversion; open farm account; ₦8m paid in |
+| −16 to −14 | Counsel on master option/lease; **§2.1** Ltd conversion (SNLB Farms Limited); open company account; ₦8m paid in as share capital |
 | −14 to −12 | Soil lab + borehole yield/quality on first 10 ha; survey |
 | −12 to −10 | Seed and drip quotations; **FarmPark** Cycle 1 advisory letter; farm-manager hire |
 | −10 to −8 | NAIC/GIT bind; crate and input orders; genset/pump confirmed |
@@ -643,7 +683,7 @@ The public model is **Veggie Concept / Veggie Grow**, *Tomato Farming: Business 
 | Farm set-up | Drip, soil/water test, staff training | §4.4–4.12 and this pack |
 | Business description | Plant → manage → harvest → sell | §2 |
 | Market analysis | Mile 12, April–August scarcity, agents 5–10% | §3; SNLB sells itself, cash T+0 |
-| Competitive analysis | Most farmers skip drip and get 4–10 t/ha | §2.5–2.6 |
+| Competitive analysis | Most farmers skip drip and get 4–10 t/ha | §2.6–2.7 |
 | Sales strategy | Open market vs retail/hotels | §4.5 Mile 12 SOP; bulk from Cycle 5 |
 | Cost / revenue / profit | Three price scenarios | Planning ₦33k / stress ₦15k / caution ₦22k |
 | Notes and assumptions | Yield, seed type, labour, drip | §4.8–4.9 and the financial model |
@@ -845,7 +885,7 @@ Inflation 17% versus flat prices through Year 5 is the stress-case Year 5 5% EBI
 
 ### 7.4 Regulatory and legal
 
-CAC: **SNLB ENTERPRISE** is already registered as a business name (**BN 6922259**, 31 March 2023; agricultural services, general trading and merchandise; 17 Ugochukwu Orji Street, Westgate Estate, Igbo Efon, Lekki). Convert to a **limited company** before transplant if a lease assignment or a credit file is in view — a BN has unlimited personal liability and is a weaker contracting party for FarmPark. TIN from Cycle 1. Pension Reform Act once management is employed. Master lease reviewed for renewal, sub-lease, lease-to-own and lender assignment. OGEPA screening on land use; escalate before packhouse.
+Legal vehicle, CAC and conversion to **SNLB Farms Limited** are in **§2.1**. A business name has unlimited personal liability. The master option/lease, FarmPark letter and any facility are signed by the limited company once the RC issues, or novated from the BN. TIN from Cycle 1. Pension Reform Act once management is employed. Master lease reviewed for renewal, sub-lease, lease-to-own and lender assignment. OGEPA screening on land use; escalate before packhouse.
 
 ### 7.5 Insurance (costed)
 
@@ -878,7 +918,7 @@ Seasonal harvest employment scales with hectares; permanent staff follow the org
 
 ### 8.3 Governance
 
-Cycle-level close, 50/50 rule, audit from Year 1, related-party lease disclosure, and a collection account if any facility is live. Board: promoter plus one independent with agribusiness or audit experience from Cycle 3. Reserved matters: new debt above ₦10 million; related-party leases; change of 50/50; sale of the leasehold interest; offtake above 40% with a single counterparty.
+Cycle-level close, 50/50 rule, audit from Year 1, related-party lease disclosure, and a collection account if any facility is live. The board sits in **SNLB Farms Limited**: promoter plus one independent with agribusiness or audit experience from Cycle 3. Reserved matters: new debt above ₦10 million; related-party leases; change of 50/50; sale of the leasehold interest; offtake above 40% with a single counterparty.
 
 ---
 
@@ -908,6 +948,8 @@ The opportunity is a structural tomato deficit, a 1.5-hour corridor to the price
 | Peak / scarcity season | Jul–Nov cycle aligned with northern supply collapse |
 | 50/50 rule | NPAT split: 50% cash buffer, 50% reinvestment |
 | Master block | Contiguous 100 ha under option/lease |
+| BN | CAC business name — **SNLB ENTERPRISE**, no. **6922259** |
+| Ltd | Private company limited by shares — **SNLB Farms Limited** (proposed; RC after filing) |
 | Planning case | Regular first at non-glut ₦33,000 / Peak ₦145,000, agronomic yields, full tax |
 | Upside case | Agronomic yields, observed Peak prints, agri tax holiday |
 | Stress case | Glut Regular, weaker Peak, lower yield, faster inflation |
@@ -919,22 +961,21 @@ The opportunity is a structural tomato deficit, a 1.5-hour corridor to the price
 
 ### B. Conditions of first planting
 
-1. **SNLB ENTERPRISE** BN 6922259 on file; convert to Ltd (agriculture objects, borrowing power) before a credit application; TIN; farm account.
-2. ₦8,000,000 paid into the farm account, with the share register and board minutes.
-3. Executed master option/lease with lender-assignment language.
-4. Independent soil test and borehole yield/quality on the first 10 ha.
-5. Named farm manager (CV) and **FarmPark** (or successor FMC) **advisory letter for Cycle 1** — contracting company matched to CAC; no co-investment; no NPAT share (Appendix F).
-6. NAIC and GIT bound for Cycle 1.
-7. Seed and drip quotations.
-8. Promoter KYC (NIN, BVN, ID, PEP).
-9. Tax engagement letter (holiday versus 34%).
-10. Cycle 1 budget signed against ≈₦6.3 million planning-case cash opex (Regular, 1 ha).
+1. **SNLB Farms Limited** incorporated (§2.1) — or BN 6922259 with a counsel novation note; TIN; company account; ₦8,000,000 paid in as share capital; share register and board minutes.
+2. Executed master option/lease with lender-assignment language.
+3. Independent soil test and borehole yield/quality on the first 10 ha.
+4. Named farm manager (CV) and **FarmPark** (or successor FMC) **advisory letter for Cycle 1** — contracting company matched to CAC; no co-investment; no NPAT share (Appendix F).
+5. NAIC and GIT bound for Cycle 1.
+6. Seed and drip quotations.
+7. Promoter KYC (NIN, BVN, ID, PEP).
+8. Tax engagement letter (holiday versus 34%).
+9. Cycle 1 budget signed against ≈₦6.3 million planning-case cash opex (Regular, 1 ha).
 
 **Subsequent gates:** Cycle 1 Regular management accounts; Peak IPM before Cycle 2; two offtake LOIs before Cycle 3; mechanization SLA and 100 ha water note before Cycle 4; bulk term sheet before Cycle 5 (or delay +45 ha); Year 1 audit within 120 days.
 
 ### C. Data-room index
 
-Corporate (CAC BN 6922259 / successor Ltd, MEMART, TIN) · Land (lease/option, survey, counsel) · Technical (soil, water, drip, seed, IPM, calendar) · Market (price log, LOIs) · Financial (statements, cycle packs, tax, insurance) · ESG (OGEPA, labour) · Security (asset register) · Quotations · FMC (FarmPark CAC, advisory letter matching the tomato RACI, reference farms, fee quote).
+Corporate (BN 6922259 certificate, Ltd RC/MEMART/share register, TIN) · Land (lease/option, survey, counsel) · Technical (soil, water, drip, seed, IPM, calendar) · Market (price log, LOIs) · Financial (statements, cycle packs, tax, insurance) · ESG (OGEPA, labour) · Security (asset register) · Quotations · FMC (FarmPark CAC, advisory letter matching the tomato RACI, reference farms, fee quote).
 
 ### D. Model files
 
@@ -958,7 +999,7 @@ NIHORT production guidance and HortiTom4/5 notes. Olam-Caraway public yields. Mi
 | Website claims (500 acres, 85% yield, $12.99 plans, foreign staff names) | Treat as **template / unverified**. Do not use in the model. |
 | Headcount | Public scrapes 1–11 people. Insufficient on its face for 72–100 ha without named subcontractors. |
 | Related party signal | 2022 jobs directed CVs to a **Revelation Properties** Gmail. |
-| SNLB counterparty | **SNLB ENTERPRISE** BN 6922259 on file (`legal/SNLB_ENTERPRISE_CAC_BN_6922259.pdf`). Ltd conversion still open. |
+| SNLB counterparty | **SNLB ENTERPRISE** BN 6922259 on file; **SNLB Farms Limited** is the contracting party once the RC issues (§2.1) |
 
 **Gaps the promoters must close before paying a retainer or treating the FMC CP as met**
 
@@ -989,6 +1030,6 @@ Walk away if they will only transact as an unnamed “FarmPark,” insist on co-
 
 | Version | Date | Notes |
 | --- | --- | --- |
-| Comprehensive Feasibility Study | August 2026 | Regular-first; FarmPark tomato RACI; SNLB ENTERPRISE BN 6922259; Cycle 1 ₦8m uses in §6.11; end-list recommendations folded into the plan and Appendix B gates |
+| Comprehensive Feasibility Study | August 2026 | §2.1 incorporated vehicle: SNLB ENTERPRISE BN 6922259 and proposed SNLB Farms Limited; Cycle 1 ₦8m uses; FarmPark advisory |
 
 Prepared for SNLB Farms. Not for general circulation. Replace planning tables with live quotations and the site report before any binding credit application.
