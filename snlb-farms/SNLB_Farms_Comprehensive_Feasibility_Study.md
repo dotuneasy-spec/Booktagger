@@ -31,7 +31,7 @@ A self-funding expansion from 1 hectare to 100 hectares, driven by two-cycle ann
 6. [Financial Plan](#6-financial-plan)
 7. [Risk Assessment](#7-risk-assessment)
 8. [Environmental, Social & Governance](#8-environmental-social--governance)
-9. [Conclusion & Recommendations](#9-conclusion--recommendations)
+9. [Conclusion](#9-conclusion)
 10. [Appendices](#10-appendices)
 
 Intended farm-management partner: **FarmPark** (King’s Deck, Chevron Drive, Lekki) — public file and remaining gaps in Appendix F. Engagement is advisory on SNLB’s land; this is not a FarmPark co-investment. Cycle 1 opening uses (₦8.0 million at August 2026 shop tickets) are in §6.11.
@@ -771,7 +771,7 @@ August 2026 shop checks used above: HTS Farms NPK 15-15-15 50 kg ~₦70,000; KNO
 
 ### 6.12 Optional ₦80 million facility
 
-The plan does not need debt to reach 100 ha. The optional facility exists so that a BOA / NIRSAL / ACGSF file is fully specified if promoters later want to protect the buffer through Year 2 expansion.
+The plan does not need debt to reach 100 ha. The optional facility exists so that a BOA / NIRSAL / ACGSF file is fully specified if, after the Cycle 2 audit pack, promoters want it to **accelerate packhouse quality** — not because the model needs it, and not to fund a second 100 ha or a paste plant.
 
 | Term | Illustration |
 | --- | --- |
@@ -882,42 +882,17 @@ Cycle-level close, 50/50 rule, audit from Year 1, related-party lease disclosure
 
 ---
 
-## 9. Conclusion & Recommendations
+## 9. Conclusion
 
 ### 9.1 Feasibility verdict
 
 This study finds the venture **feasible**. Starting from one hectare and ₦8 million of paid-in capital, the Regular-first planning case reaches the full 100-hectare master block in six cycles — three years — without required external financing. It is underpinned by a structural tomato supply deficit, Ogun’s geographic advantage, a first harvest at a non-glut Regular Mile 12 price, Peak capture from Cycle 2, and a capital-allocation policy that funds growth from retained profit while holding a cash buffer.
 
-The planning-case NPV at 18% is **₦5.78 billion** (five years, no terminal value). The stress case remains value-accretive at 18% (₦429 million). The upside case, if the agri tax holiday holds on the same crop path, is ₦8.79 billion at the same discount.
+The planning-case NPV at 18% is **₦5.78 billion** (five years, no terminal value). The stress case remains value-accretive at 18% (₦429 million). The upside case, if the agri tax holiday holds on the same crop path, is ₦8.79 billion at the same discount. Processing, export and a second 100 ha are outside this NPV.
 
-### 9.2 Critical success factors
+What the plan depends on is already in the body: Peak into July–November; Cycle 1 harvest **February–April**; ₦8 million paid in before transplant; a bankable option/lease with Cycle 1 rent on the cultivated hectare only; 50/50 and the 45 ha/cycle ceiling; bulk offtake before the +45 ha Regular step; cycle-level books from harvest one; drip integrity. Those items are conditions of first planting and subsequent gates (Appendix B), not a separate to-do list.
 
-1. Peak harvest timed into the July–November scarcity window.
-2. Cycle 1 Regular harvest timed to **February–April**, not into the January crash.
-3. ₦8 million paid-in before Cycle 1 transplant.
-4. A bankable lease/option with assignment rights; Cycle 1 rent on cultivated land, unused block on option.
-5. Uncompromising 50/50 allocation and the 45 ha/cycle ceiling.
-6. Bulk offtake signed before the +45 ha Regular step.
-7. Cycle-level books from harvest one.
-8. Irrigation integrity — modelled yields are drip-dependent.
-
-### 9.3 Recommendations
-
-- Convert **SNLB ENTERPRISE** (BN 6922259) to a limited company before a credit file or a long FMC SLA; open a dedicated operating account; pay in ₦8 million.
-- Instruct counsel on the master option/lease before drip deposits.
-- Commission soil and borehole tests on the first 10 ha.
-- Bind NAIC and GIT; hire the farm manager; engage **FarmPark** on **advisory** terms only after the Appendix F ticks (CAC entity, no co-investment, Cycle 1 letter, reference-farm visit).
-- Run Cycle 1 as a Regular proof cycle at the non-glut ₦33,000 ticket, harvested February–April. Use Cycle 2 Peak to fill the buffer.
-- Apply the Cycle 1 go/no-go before spending drip on the extra 2 ha.
-- Order seed 8–12 weeks before nursery; do not compress into a January harvest.
-- Begin bulk-contract conversations in Cycles 3–4; sign heads of terms before Cycle 5 planting.
-- Hold the buffer for operations, lease-to-own and a missed cycle — not for processing or a second 100 ha.
-- Confirm with the farm-management company, before Cycle 4, that +45 ha can actually be mobilised — revise the ceiling down if not.
-- Obtain a tax opinion on the NTA 2025 agri holiday; the planning case does not spend that cash.
-- After the Cycle 2 audit pack, raise the optional ₦80 million facility only if it accelerates packhouse quality — not because the model needs it.
-- Do not mix processing, export or a second 100 ha into this NPV.
-
-### 9.4 Final statement
+### 9.2 Closing
 
 The opportunity is a structural tomato deficit, a 1.5-hour corridor to the price-setting market, and a two-cycle calendar that turns national volatility into a P&L feature. The plan is a thoroughly costed path from one hectare to one hundred — provided the pace of land expansion is matched, cycle for cycle, by staffing, drip and offtake, which the numbers show will be the true limiting factor almost from the outset.
 
@@ -1014,6 +989,6 @@ Walk away if they will only transact as an unnamed “FarmPark,” insist on co-
 
 | Version | Date | Notes |
 | --- | --- | --- |
-| Comprehensive Feasibility Study | August 2026 | Regular-first; FarmPark tomato RACI and cycle map; SNLB ENTERPRISE BN 6922259; full Cycle 1 ₦8m uses, model 1-ha plan, 2022 vs 2026, buy list in §6.11 |
+| Comprehensive Feasibility Study | August 2026 | Regular-first; FarmPark tomato RACI; SNLB ENTERPRISE BN 6922259; Cycle 1 ₦8m uses in §6.11; end-list recommendations folded into the plan and Appendix B gates |
 
 Prepared for SNLB Farms. Not for general circulation. Replace planning tables with live quotations and the site report before any binding credit application.

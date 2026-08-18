@@ -299,7 +299,7 @@ COVER = """
     <dt>Horizon</dt><dd>5 years / 10 cycles  ·  1 ha → 100 ha in six cycles (3 years)</dd>
     <dt>Planning case NPV</dt><dd>₦5.78 billion at 18% (Regular first, non-glut, 5-year, no TV)</dd>
     <dt>Opening capital</dt><dd>₦8.0 million (₦3.0m CapEx + ₦5.0m Cycle 1 working capital)</dd>
-    <dt>Includes</dt><dd>SWOT · ESG · charts · NPV/IRR · three scenarios · optional ₦80m facility</dd>
+    <dt>Includes</dt><dd>SWOT · ESG · charts · NPV/IRR · three scenarios · Cycle 1 ₦8m uses · optional ₦80m facility</dd>
     <dt>Classification</dt><dd>Planning document — not financial, legal, tax or investment advice</dd>
   </dl>
   <div class="foot">
