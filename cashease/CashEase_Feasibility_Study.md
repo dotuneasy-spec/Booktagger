@@ -17,7 +17,7 @@ A study of the progressed plan: own the machines, do not sell them to banks or t
 | Planning case | 180 tx/day, 92% uptime, ₦100 blended fee, bank cash from Year 2 |
 | Classification | Confidential planning document |
 
-**Purpose.** This study extracts the change-machine business from the source conversation, states the **progressed final plan** (what survived after the model was challenged), and tests whether that plan is feasible. It covers the operating model, ownership, market, technology, locations, cash supply, regulation, a three-case six-year financial model, the ₦90 billion development-bank question, risk, and the only scale that should be committed now.
+**Purpose.** This study extracts the change-machine business from the source conversation, states the **progressed final plan** (what survived after the model was challenged), and tests whether that plan is feasible. It covers the operating model, ownership, market, technology, locations (including chain leases, one-box-per-pad, hotels as amenity), cash supply, regulation, franchise, a three-case six-year financial model, cost–benefit, what “₦90 billion” can and cannot mean, nationwide versus density, risk, and the only scale that should be committed now.
 
 **Disclaimer.** Figures are illustrative projections on stated assumptions. They are not guarantees. Desktop estimates from the source conversation have been haircut and stress-tested; they are not audited market research. This document is not financial, legal, tax or investment advice. Independent professional advice is required before capital is committed.
 
@@ -35,10 +35,11 @@ A study of the progressed plan: own the machines, do not sell them to banks or t
 8. [Growth Roadmap](#8-growth-roadmap)
 9. [Financial Plan](#9-financial-plan)
 10. [The ₦90 Billion Question](#10-the-90-billion-question)
-11. [Risk Assessment](#11-risk-assessment)
-12. [Environmental, Social & Governance](#12-environmental-social--governance)
-13. [Conclusion & Recommendations](#13-conclusion--recommendations)
-14. [Appendices](#14-appendices)
+11. [Cost–Benefit of the Whole Plan](#11-costbenefit-of-the-whole-plan)
+12. [Risk Assessment](#12-risk-assessment)
+13. [Environmental, Social & Governance](#13-environmental-social--governance)
+14. [Conclusion & Recommendations](#14-conclusion--recommendations)
+15. [Appendices](#15-appendices)
 
 ---
 
@@ -88,6 +89,17 @@ That model is the right one for Nigeria’s cash-plus-agent economy. The **numbe
 | Is the stress case feasible? | **No.** At 110 tx/day and ₦70 fees the kiosk never covers rent, logistics and bank share (break-even 286 tx/day). Weak locations kill the firm. |
 
 **Go / no-go for capital today:** go **only** on Phase 1. Do not order 2,000 machines, do not submit a ₦90 billion BOI file, and do not frame the product as a CBN circulation programme until 6–12 months of kiosk-level data exist.
+
+**What “₦90 billion” can mean (planning case)**
+
+| Meaning | Feasible on this model? |
+| --- | --- |
+| One BOI / bank cheque | **No** — cash flow cannot service it (min DSCR ~0.46× on a 20,000 sprint) |
+| Annual **profit** | **No** — ~₦10bn NPAT at 20,000 good machines; ~₦1.2bn at a held 2,000 |
+| Annual **revenue** | **If earned** — ~₦106bn gross at 20,000 × 180 tx/day; not a Year-1 number |
+| Company value | Only much later, if profits stick — not a plan |
+
+The bottleneck on ₦90bn **profit** or a **₦90bn loan** is **model capacity** (thin fees × one queue per pitch), not a claim that Nigeria lacks 20,000 busy places. Busy ≠ a 180 tx/day CashEase door.
 
 ---
 
@@ -281,6 +293,8 @@ The source plan is correct: **location quality dominates software quality.** The
 
 Budget **₦100k–₦300k** per prime site for deposit and first fit-out beyond the ₦0.35m unit setup. Phase 1 should not open the 50th site until the first 10 have four weeks of data.
 
+You **rent space like any other business** — a lease with a landlord or stall owner, 12–36 months, ₦50k–₦200k/month on a prime pitch, optional 5–10% of that site’s net. You do **not** need a bank vestibule or a government allocation. You do **not** rent “anywhere”: a quiet shop fails the same 89 tx/day break-even as a weak hotel lobby.
+
 ![Planning-case unit waterfall](charts/fig_unit_waterfall.png)
 
 *Figure: On planning fees, a mature kiosk still has a thick logistics and rent stack. There is no 50% net margin after that stack.*
@@ -319,6 +333,61 @@ Cash machines in Nigeria are stolen, burned and skimmed. The planning case puts 
 - CIT, not staff cars, above a set threshold;
 - insurance that actually pays on theft in markets (read the exclusions);
 - the right to **pull a site in 72 hours** if the host cannot keep the approach safe.
+
+### 6.5 One queue, many doors — not four boxes on one slab
+
+Measured rollout means **many machines in one corridor**, each on its **own** pitch. It does **not** mean “only one machine in Lagos,” and it does **not** mean four machines side by side as the national template.
+
+| Setup | Feasible? | Why |
+| --- | --- | --- |
+| 40 boxes across Mile 12, Oshodi, parks, petrol on the same roads | **Yes — that is Phase 1–2** | Different doors, different crowds |
+| 2 boxes at opposite ends of a huge market | **Often yes** | Two gates, two queues |
+| 2nd box on the same pad after the first is maxed (~250+ tx/day, real queues) | **Yes, earned** | Overflow, not a duplicate |
+| 4 side by side at one station, hotel or mall door | **Usually no** | Same people, split four ways → each can fall below 89 tx/day |
+
+A 180 tx/day pitch with four machines is ~45 tx each — all four below break-even. Four boxes also put ~₦15.4m of hardware and ~₦4.8m of cash on one pad (fatter robbery, messier geotag/cash-out caps). Shared rent helps a little; it does not create 4× customers.
+
+**Default: one machine per site. Two is a promotion. Four is a named mega-node only.**
+
+### 6.6 Chain landlords (petrol, hubs, malls)
+
+A **master lease with a fuel-retail or hub chain** (Total, MRS, Ardova, a bus-terminal operator, a market company) is a Phase 2 **location channel**, not a CashEase franchise:
+
+- Standard contracts; less one-off “area” chaos.
+- Fuel stations on market/park roads were already on the good-site list.
+- One CIT stop and one pad per station — still **one box first**.
+- Nationwide chain rollout is how you *house* 2,000 sites after proof, not how you skip the 350.
+
+| Place | Use | Don’t |
+| --- | --- | --- |
+| Petrol stations on market / park roads | **Yes — 1 machine** first | 4 at a normal filling station |
+| Commercial hubs (parks, wholesale gates, junctions) | **Yes — 1, then 2** if there is a queue | 4 from day one |
+| Malls | **Maybe 1** at taxi rank / food-court cash line | ATM lobby; card-heavy malls; 4-pack |
+
+Malls look national and rent like a real shop. They are often **weak for change**: ATMs and cards already sit there.
+
+### 6.7 Hotels and service amenities
+
+Hotels, salons, cinemas and similar **want a USP**. CashEase needs **180 cash transactions a day**. Those are different jobs.
+
+| | Volume site (core) | Amenity site (optional extra) |
+| --- | --- | --- |
+| Who | Markets, parks, petrol on busy roads | Hotels, salons, cinemas, offices |
+| Why they say yes | Rent / small share | Convenience for their customers |
+| Why you say yes | Queue all day | **They pay you**, or a two-week count is exceptionally strong |
+
+A lobby that does 30–60 hits a day is a loss-making kiosk on planning costs unless the host **pays placement**. Treat amenity sites as a small overlay **after** the volume estate works. Never let them pull fleet-average traffic under 150 tx/day. Never put four machines in a lobby.
+
+### 6.8 Franchise is not the path to 2,000
+
+Classic franchise (someone else buys the box, pays a royalty, runs the site) fights cash, small notes and the bank.
+
+- Banks want **one** licensed operator, not 200 small franchisees loading ₦1.2m each.
+- Franchisees will stock easy ₦500s; the change product dies.
+- BOI wants **your** machines as collateral.
+- Hosts already get rent ± 5–10% — that is the local partner, not a franchisee.
+
+**Now–Year 2:** own and operate. **After a working 2,000:** hired operators or, later, one **city operator** on your licence (you still own the boxes; float stays bank → you → cassette). That can help 20,000 later. It does not replace Phase 1 equity or the ₦8–12bn step to 2,000.
 
 ---
 
@@ -363,6 +432,19 @@ The last question in the source thread was whether CBN backing is “enough” f
 
 Pitching the product as “putting money in circulation” is a **policy narrative for banks and BOI**, not a revenue line.
 
+**Government endorsement is not the deal.** CBN does not buy machines, load cassettes, or write the ₦8bn (or ₦90bn) cheque. A letter can make banks and BOI more comfortable. The contracts that run the business are: site host (rent), partner bank (float and settlement), then investors/BOI (equity then a right-sized facility).
+
+### 7.4 Signing a bank is premature on Day 1, not impossible
+
+| Ask | Verdict |
+| --- | --- |
+| Bank loads small notes and settles POS **after** 300–500 working kiosks | **Doable.** Standard IAD/PTSP pattern. They take ~25–40% of eligible fees. This is the deal to sign. |
+| Same ask **before** live machines | **Too early.** They will say come back with volumes. |
+| Bank **buys** machines or lets you live on a commission **next to their ATMs** | **Too ambitious as the core plan.** They often want control plus a cut, or they say no. Do not build the company on vestibule space. |
+| CBN signs as buyer, cash supplier, or ₦90bn lender | **Not a path.** Regulator, not a customer. |
+
+If a bank later offers a vestibule, treat it as an extra site with a hard revenue-share cap — not as the estate.
+
 ---
 
 ## 8. Growth Roadmap
@@ -399,6 +481,34 @@ The conversation’s Phase 3 (10,000 → 20,000, possible NGX listing, “₦120
 - Signing 200 site “promises” without two-week counts.
 - Submitting a ₦90bn BOI application from a spreadsheet and a Grok link.
 - Expanding to Ghana/Kenya to make the story larger.
+
+### 8.4 Nationwide versus density
+
+**Measured rollout is the idea.** Nationwide **matters for scale** (you cannot put 20,000 good machines only in Lagos). It does **not** raise profit per box. It often lowers it.
+
+Nigeria has far more than 20,000 busy places. That is not the same as 20,000 **CashEase pitches**. Busy mall, hotel or station traffic is often card/ATM traffic, or 80 cash-outs rather than 180. Agents already sit in the best doors. **20,000 machines means ~20,000 separate good doors**, not 5,000 areas × 4 boxes.
+
+| | Dense first (Lagos / Ogun / Ibadan) | Nationwide too early |
+| --- | --- | --- |
+| Traffic | You can pick 180 tx/day pitches | Many state capitals will not hit 89 tx break-even |
+| Cash / small notes | One bank, one CIT loop | Second bank, thin depots, empty ₦100 cassettes |
+| Path to ₦90bn *revenue* | Caps out (not enough mega-pitches in one city) | **Required** if you ever want ~20,000 boxes |
+| Path to ₦90bn *profit* | Still no | Still no |
+
+**Win one corridor, then copy hubs** (Kano, PH, Onitsha, Abuja). Covering 36 states in Year 1 is coverage, not gain. A second bank or national CIT is signed **before** the vans leave Lagos.
+
+### 8.5 Path to 20,000 (earned option)
+
+20,000 is not viable as a first raise or a CBN play. It is viable only as:
+
+| Stage | Fleet | Money | Gate |
+| --- | --- | --- | --- |
+| 1 | 350 | ₦1.85bn equity | 60-day OEM trial; site counts |
+| 2 | 2,000 | ₦8–12bn BOI/club | Median ≥ 150 tx/day; bank cash SLA |
+| 3 | 5,000 | Next ₦15–25bn | Four clean quarters at 2,000; DSCR ≥ 1.25× |
+| 4–5 | 10,000 → 20,000 | Further tranches + retained profit | Two banks or bank + CIT; **new** cities still at ~180 tx/day |
+
+Hardware on the planning case is on the order of **₦3.85m × 20,000 ≈ ₦77bn**, spent over six years. Float at 20,000 is ~**₦24bn** in the field — mostly **the bank’s**. If Stage 1 or 2 misses, you stop. That is the correct outcome.
 
 ---
 
@@ -538,9 +648,51 @@ Facilities are modelled at 9% interest, drawings as shown, amortisation from Yea
 
 This is the same sequence the source plan eventually recommended (“₦20–30 billion first, then scale”) — tightened, because ₦25bn already strains a 5,000-kiosk planning P&L.
 
+### 10.4 ₦90 billion of what?
+
+The limit on ₦90bn **profit** or a **₦90bn loan** is the **capacity of the model**: thin fees, one queue per pitch, rent, CIT and the bank’s cut. It is not a claim that Nigeria lacks 20,000 high-traffic *areas*.
+
+| If ₦90bn means… | On this strategy | When, if ever |
+| --- | --- | --- |
+| A single loan / BOI cheque | **No** | Never as one ticket. ₦8–12bn after 350, then more tranches. |
+| Yearly profit (NPAT) | **Not on planning** | ~₦10bn at 20,000 good machines; ~₦1.2bn at a held 2,000. Promoter upside ~₦39bn. Grok’s ₦120–250bn net is not used. |
+| Yearly revenue (gross fees) | **Yes, if 20,000 busy sites are earned** | Planning Y6 gross ~₦106bn. That is turnover, not money in the pocket. |
+| Company value | Only much later | A hopeful multiple on ₦10bn profit can *talk* like ₦90bn. Not a plan. |
+| At 2,000 machines (the real target) | **No** | ~₦12bn gross and ~₦1.2bn profit. A real company. Not a ₦90bn company. |
+
+Nationwide deployment is how you **house** enough doors for ₦90bn+ *sales*. It does not mint ₦90bn of *earnings*.
+
 ---
 
-## 11. Risk Assessment
+## 11. Cost–Benefit of the Whole Plan
+
+Costs are front-loaded (boxes and cash). Benefits show up at **2,000 good sites**, not from government or ATM-adjacent bank charity.
+
+| Stage | Cost (you / lenders) | Benefit if it works | Benefit if it fails |
+| --- | --- | --- | --- |
+| **350 kiosks** | **₦1.85bn** equity | Proof; ~₦0.5m gross / box / month; bank will talk; you own the assets | Capped loss of ₦1.85bn, not ₦90bn |
+| **→ 2,000** | **₦8–12bn** facility + leftover equity | ~**₦1.2bn NPAT / year**; ₦8bn loan at **~2× DSCR** | Bounded if you do **not** order 18,000 more |
+| **→ 5,000** | Next **₦15–25bn** | National core only if **180 tx/day still holds** | ₦25bn is already tight (DSCR ~0.8×) if traffic is only “okay” |
+| **→ 20,000** | ~**₦77bn** hardware over years + ~**₦24bn** cassette cash (mostly bank) | Option on ~₦106bn *revenue* / ~₦10bn NPAT | Unlevered sprint NPV ~**−₦12bn**; ₦90bn in one go does not pay |
+
+**Who keeps the benefit:** you (change fees + ~60–75% of POS; own the boxes); bank (~25–40% of POS and the float); host (rent ± 5–10%); CBN (no cheque).
+
+**Net:** yes to 350 as a test; yes to 2,000 after data (**best risk-adjusted CBA**); no to buying 20,000 until 2,000 has paid and proved it.
+
+### 11.1 How to maximize gain
+
+1. **Location, not OEM volume.** 180 tx/day vs 110 is profit vs death. Kill the worst 10% of sites monthly.
+2. **Bundle.** Change is the hook; POS and bills are the wallet.
+3. **Own the box, rent the cash.** Negotiate 70%+ of POS. Do not lock ₦2.4bn of your notes at 2,000 units.
+4. **Grow only when the last 50 boxes are above 150 tx/day.**
+5. **Cut leaks:** uptime ≥ 92%, theft < 2%, ₦100–₦500 in the hopper, rent in the ₦50–80k band unless the count is exceptional.
+6. **Cheap debt only when the box already prints** — ₦8–12bn on a 2,000 hold raises equity value; ₦90bn lowers it.
+
+That beats 20,000 average sites and a ₦90bn story.
+
+---
+
+## 12. Risk Assessment
 
 | Risk | Likelihood | Impact | Mitigation |
 | --- | --- | --- | --- |
@@ -559,22 +711,22 @@ This is the same sequence the source plan eventually recommended (“₦20–30 
 
 ---
 
-## 12. Environmental, Social & Governance
+## 13. Environmental, Social & Governance
 
-### 12.1 Environmental
+### 13.1 Environmental
 
 - Solar-first kiosks cut diesel at the site; CIT vans are the larger footprint — route density in Lagos/Ogun first.
 - End-of-life validators and batteries need an OEM take-back clause (e-waste).
 - No claim is made that this is a green project for DFI “climate” windows; do not dress it as one.
 
-### 12.2 Social
+### 13.2 Social
 
 - Genuine inclusion story: small-note access in markets that banks underserve.
 - Jobs: technicians, monitors, CIT escorts, HQ — material at 2,000 units, not at 10 prototypes.
 - Site-host income (rent) is part of the licence to operate in markets.
 - AML/CFT on POS and any cash-in must be real: thresholds, device geotag, watchlist screening via the acquirer.
 
-### 12.3 Governance
+### 13.3 Governance
 
 - Single-purpose Ltd; reserved matters on debt above ₦2bn, OEM POs above 50 units, and any CBN/IAD classification change.
 - Monthly kiosk P&L to the board; related-party CIT or site leases disclosed.
@@ -583,9 +735,9 @@ This is the same sequence the source plan eventually recommended (“₦20–30 
 
 ---
 
-## 13. Conclusion & Recommendations
+## 14. Conclusion & Recommendations
 
-### 13.1 Feasibility verdict
+### 14.1 Feasibility verdict
 
 The **progressed final plan is a feasible business model** and an **infeasible instant empire**.
 
@@ -593,7 +745,7 @@ Owning multi-service kiosks, placing them in cash-heavy non-bank sites, and usin
 
 A **20,000-kiosk, ₦90 billion, CBN-backed national grid** is not feasible on the information in the source conversation, and it is not feasible on the planning case in this study. CBN backing is not a substitute for DSCR. The conversation’s ₦12–24 billion net at 2,000 machines should not appear in any lender file.
 
-### 13.2 Critical success factors
+### 14.2 Critical success factors
 
 1. Site counts before leases.
 2. 5–10 OEM units before 350.
@@ -602,7 +754,7 @@ A **20,000-kiosk, ₦90 billion, CBN-backed national grid** is not feasible on t
 5. Facility size tied to next-two-year capex and 1.25× DSCR, not to a ₦90bn story.
 6. Monthly willingness to close bad sites.
 
-### 13.3 Recommendations
+### 14.3 Recommendations
 
 | # | Action | Owner | Timing |
 | --- | --- | --- | --- |
@@ -615,15 +767,17 @@ A **20,000-kiosk, ₦90 billion, CBN-backed national grid** is not feasible on t
 | 7 | Bank partnership process using **live** volumes (Appendix B) | Promoter | Month 9–15 |
 | 8 | BOI/club file for **₦8–12bn**, 2,000-kiosk hold, machines as collateral — not ₦90bn | Finance | After 6–12 months of audited Phase 1 |
 | 9 | Revisit 5,000 and any ₦20–30bn second tranche only after four quarters at plan | Board | Year 3 |
-| 10 | Park Africa, textiles, cargo-airline and “sell software to CBN” as separate memos | Promoter | Now |
+| 10 | Park Africa, textiles, cargo-airline, kiosk franchise, hotel-first rollout and “sell software to CBN” as separate memos | Promoter | Now |
 
-### 13.4 Final statement
+### 14.4 Final statement
 
-CashEase is feasible as a **Nigerian multi-service cash-kiosk operator that owns its boxes and rents its float from banks**. It is not feasible as a CBN circulation franchise or as a 20,000-unit raise on a conversation draft. Build 350, measure, then borrow for 2,000. Everything after that has to be earned.
+CashEase is feasible as a **Nigerian multi-service cash-kiosk operator that owns its boxes and rents its float from banks**. You rent pitches like a shop — many doors in one busy belt, **one machine per pad** unless a count earns a second. It is not feasible as a CBN circulation franchise, a four-pack-per-station national grid, or a 20,000-unit / ₦90 billion raise on a conversation draft.
+
+Build 350, measure, then borrow for 2,000. Nationwide hubs and any ₦90bn *turnover* story are earned after that. ₦90bn of **profit** or a **₦90bn cheque** is outside this model’s capacity.
 
 ---
 
-## 14. Appendices
+## 15. Appendices
 
 ### A. Glossary
 
@@ -715,5 +869,6 @@ Conversation id `a565b656-f2ff-4d66-8b0b-e1cedc5a6505`.
 | Version | Date | Notes |
 | --- | --- | --- |
 | 1.0 | 17 Aug 2026 | First feasibility study from the progressed Grok plan; three-case model and BOI DSCR |
+| 1.1 | 18 Aug 2026 | Site rules (one per pad, chains, hotels as amenity); franchise; bank signing; nationwide vs density; cost–benefit; ₦90bn meanings |
 
 **Next refresh triggers:** counsel memo received; 60-day OEM trial closed; first 15-site counts complete; any CBN circular on IADs, agent cash caps or POS geotagging.
