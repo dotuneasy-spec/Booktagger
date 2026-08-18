@@ -4,7 +4,7 @@
 **Entity:** SNLB ENTERPRISE (BN 6922259) trading as SNLB Farms  
 **Pack:** ₦8,000,000 promoter equity — **₦3.0 million CapEx + ₦5.0 million Cycle 1 working capital**  
 **Crop:** Hybrid tomato, drip + fertigation, 20 t/ha plan, harvest February–April, sold at Mile 12  
-**Status:** Indicative uses against **August 2026 retail**. Quotations replace every line before a drip deposit. Totals are locked to the original ₦8 million pack; mix inside the pack can move when quotes land.
+**Canonical copy:** this pack is printed in full in the circulating study, §6.11. Keep both files in step if either is edited.
 
 This note does two jobs: (1) it uses a public Nigerian **1-hectare tomato business plan** as the structural model; (2) it retimes that model to **Ogun, 2026 money**, which is what ₦8 million actually buys today.
 

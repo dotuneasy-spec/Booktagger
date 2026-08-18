@@ -34,7 +34,7 @@ A self-funding expansion from 1 hectare to 100 hectares, driven by two-cycle ann
 9. [Conclusion & Recommendations](#9-conclusion--recommendations)
 10. [Appendices](#10-appendices)
 
-Intended farm-management partner: **FarmPark** (King’s Deck, Chevron Drive, Lekki) — public file and remaining gaps in Appendix F. Engagement is advisory on SNLB’s land; this is not a FarmPark co-investment.
+Intended farm-management partner: **FarmPark** (King’s Deck, Chevron Drive, Lekki) — public file and remaining gaps in Appendix F. Engagement is advisory on SNLB’s land; this is not a FarmPark co-investment. Cycle 1 opening uses (₦8.0 million at August 2026 shop tickets) are in §6.11.
 
 ---
 
@@ -53,7 +53,7 @@ Agronomic targets sit at the conservative end of NIHORT’s intensive range (20�
 
 Capital allocation follows a **50/50 rule** at every cycle close: half of net profit is a cash buffer; half is reinvested into adjacent hectares, drip extension and, later, packhouse infrastructure. Land added per cycle is capped at **+45 ha**, the practical ceiling on preparation, irrigation and staffing in a single six-month window. Under that combination the venture reaches the full 100-hectare block in **six cycles — three years**.
 
-Opening capitalization is **₦8.0 million**: ₦3.0 million of irrigation infrastructure and basic equipment, and ₦5.0 million of Cycle 1 working capital. Growth after Cycle 1 is funded from retained earnings. External debt is not required to reach 100 ha. An optional ₦80 million production facility from Year 2 is specified so that a BOA or NIRSAL-wrapped bank file is ready if the promoters later choose it.
+Opening capitalization is **₦8.0 million**: ₦3.0 million of irrigation infrastructure and basic equipment, and ₦5.0 million of Cycle 1 working capital. That pack is itemised in §6.11 against **August 2026** Ogun/Lagos shop tickets (borehole, drip, hybrid seed, solubles, crates, labour). It follows the public Nigerian 1-ha tomato business-plan skeleton (Veggie Concept / Veggie Grow) for structure only — not that template’s 2022 ₦720,000 opex. Growth after Cycle 1 is funded from retained earnings. External debt is not required to reach 100 ha. An optional ₦80 million production facility from Year 2 is specified so that a BOA or NIRSAL-wrapped bank file is ready if the promoters later choose it.
 
 ### Key figures at a glance — planning case (Regular first, non-glut)
 
@@ -306,7 +306,7 @@ The 20 t/ha Regular yield is not a later-cycle prize. It is the intensive drip s
 | Harvest | Breaker/turning stage; 2–3 picks/week; plastic crates |
 | Output | 20 t = 400 × 50 kg baskets, net of a small field loss |
 
-Indicative bill against the ₦3.4 million Regular production line is itemised in §6.11 and in `Cycle1_8m_Spend_Rundown.md`. Opening CapEx (₦3.0 million) is borehole, 1 ha drip, small genset, 40 crates and tools — the kit that makes this stand possible.
+Indicative bill against the ₦3.4 million Regular production line is itemised in §6.11 (August 2026 shop tickets). Opening CapEx (₦3.0 million) is borehole, 1 ha drip, small genset, 40 crates and tools — the kit that makes this stand possible.
 
 ### 4.10 Quality specification — how ₦33,000 is earned
 
@@ -388,7 +388,7 @@ SNLB’s crop, calendar, land and P&L are already locked. FarmPark is useful onl
 
 e-Farming is a weekly photo pack, not the operator. If they cannot show a tomato or intensive-vegetable farm you can walk, keep them as land/admin advisor and hire the agronomist separately.
 
-**Engagement shape.** Cycles 1–2 remain Stage 0: FarmPark on **advisory** terms; a named farm manager on the Ogun site. A mechanization SLA is still required before Cycle 4. The full operating file, RACI and gap list sit in **Appendix F** and in `FarmPark_Partner_File.md`. Until CAC papers, a Cycle 1 advisory letter and a reference-farm visit are in the data room, FarmPark is a **named intention**, not a closed CP.
+**Engagement shape.** Cycles 1–2 remain Stage 0: FarmPark on **advisory** terms; a named farm manager on the Ogun site. A mechanization SLA is still required before Cycle 4. The full operating file, RACI and gap list sit in **Appendix F**. Until CAC papers, a Cycle 1 advisory letter and a reference-farm visit are in the data room, FarmPark is a **named intention**, not a closed CP.
 
 ---
 
@@ -622,9 +622,9 @@ Project IRR on this path is very high because opening equity is small relative t
 
 Tonnes sold, average realised ₦/basket, spoilage %, cash / next-cycle opex, buffer balance, 50/50 split, next-cycle planting plan. Target spoilage <5%. Peak blended realisation at least ₦55,000 in the stress floor; Regular at least ₦15,000.
 
-### 6.11 Sources & uses and working capital
+### 6.11 Sources & uses — what the ₦8 million is spent on
 
-**Opening pack — ₦8,000,000**
+Indicative uses against **August 2026 retail**. Quotations replace every line before a drip deposit. Totals are locked to the original **₦8,000,000** pack (₦3.0 million CapEx + ₦5.0 million Cycle 1 working capital). Mix inside the pack can move when quotes land. Lease in this pack is **₦100,000 for the cultivated hectare only**; unused 99 ha sits on option/ROFR.
 
 | Use | ₦ | Source | ₦ |
 | --- | --- | --- | --- |
@@ -632,51 +632,142 @@ Tonnes sold, average realised ₦/basket, spoilage %, cash / next-cycle opex, bu
 | Cycle 1 working capital (inputs, labour, lease, logistics, tests, advisory) | 5,000,000 | Bank / DFI | — |
 | **Total** | **8,000,000** | **Total** | **8,000,000** |
 
-This is the original opening pack. No bank or DFI facility is required to start. After Cycle 2 Peak, working-capital demand is met from internally generated cash. Cycle 5 (₦337 million opex + ₦85 million CapEx) proceeds only with Cycle 4 cash in the bank.
+No bank or DFI facility is required to start. After Cycle 2 Peak, working-capital demand is met from internally generated cash. Cycle 5 (₦337 million opex + ₦85 million CapEx) proceeds only with Cycle 4 cash in the bank.
 
-The public 1-ha template this budget follows is Veggie Concept / Veggie Grow’s tomato business plan (farm set-up, market, three price scenarios). **Do not use that template’s 2022 naira** (₦720k opex, ₦625k drip). August 2026 shop tickets for the same intensive stand are what the ₦8 million pack is built from. Line-by-line uses, model-plan map and buy list: `Cycle1_8m_Spend_Rundown.md`.
+#### 6.11.1 Model 1-hectare tomato business plan (structure)
 
-**CapEx — ₦3,000,000 (August 2026 Ogun tickets, quotations replace)**
+The public model is **Veggie Concept / Veggie Grow**, *Tomato Farming: Business Plan, Cost, Revenue and Profit* (2022 template, still republished). Copy the **shape**. Do not plant its **naira**.
 
-| Item | Pack ₦ |
+| Model plan section | What it covers | This study |
+| --- | --- | --- |
+| Farm set-up | Drip, soil/water test, staff training | §4.4–4.12 and this pack |
+| Business description | Plant → manage → harvest → sell | §2 |
+| Market analysis | Mile 12, April–August scarcity, agents 5–10% | §3; SNLB sells itself, cash T+0 |
+| Competitive analysis | Most farmers skip drip and get 4–10 t/ha | §2.5–2.6 |
+| Sales strategy | Open market vs retail/hotels | §4.5 Mile 12 SOP; bulk from Cycle 5 |
+| Cost / revenue / profit | Three price scenarios | Planning ₦33k / stress ₦15k / caution ₦22k |
+| Notes and assumptions | Yield, seed type, labour, drip | §4.8–4.9 and the financial model |
+
+Their 1 ha opex was **₦720,000** (seed ₦120k, labour ₦240k, fertilizer ₦200k, drip CapEx ₦625k). SNLB’s planning production cost is **₦3.4 million/ha Regular** plus CapEx, insurance, payroll and logistics — the intensive drip stand, not a 2022 backyard budget.
+
+Other public references used for **structure and shop bands**, not as SNLB’s P&L:
+
+- dripirrigation.com.ng — tomato drip steps: land prep → kit → water → layout → install → test. 1 ha laterals **₦500,000–₦1,250,000** (not borehole + genset).
+- Farmsquare — 1-acre vegetable drip kit **₦450,000–₦600,000** (≈ ₦1.1–₦1.5 million per hectare of laterals).
+- HTS Farms / FarmPays — August 2026 hybrid seed and soluble tickets (below).
+- NIHORT intensive range 20–40 t/ha — this plan uses the **floor** (20 t Regular / 18 t Peak).
+
+#### 6.11.2 CapEx — ₦3,000,000 (the kit)
+
+Priced for **Ogun** (generally cheaper drilling than Lagos rock; still quote by the metre). A 9 kVA Mikano does **not** fit. Cycle 1 uses a small farm genset and a 2–4 m³/hour borehole.
+
+| # | Item | 2026 shop band | Pack ₦ | Why this number |
+| --- | --- | --- | ---: | --- |
+| A1 | Borehole + casing (Ogun, farm depth) | ₦600,000–₦1,500,000 SW drill | 850,000 | Mid-low Ogun hole |
+| A2 | Submersible pump, 2,000 L tank, fittings | Pump ₦300,000–₦900,000 | 300,000 | ~55 m³/day on 1 ha drip |
+| A3 | 1 ha drip + filter + fertigation tank + install | ₦500,000–₦1,250,000/ha laterals | 950,000 | Inside the ₦1.0m/ha drip unit |
+| A4 | Small diesel/petrol genset (≈2.5–3.5 kVA) | ~₦280,000–₦470,000 | 300,000 | Not a 9 kVA estate set |
+| A5 | Spare pump + drip-repair kit | — | 50,000 | Irrigation failure is a yield event |
+| A6 | Plastic crates (40 units) | ₦7,500–₦11,600 each | 320,000 | 40 × ₦8,000; turn ~10× over harvest (400 baskets) |
+| A7 | Nursery shade, trays, knapsack, hoes, trellis, posts | — | 130,000 | Hardware that is not seed |
+| A8 | Land prep 1 ha (plough/harrow/ridge) | ₦80,000–₦150,000 | 100,000 | Tractor hire; Stage 0 |
+| | **CapEx** | | **3,000,000** | |
+
+If the borehole bid exceeds ₦850,000: cut crates to 30, or a cheaper genset — **not drip**. If a working borehole already exists, keep A1–A2 (~₦1.15 million) inside CapEx (better fertigation, more crates, or a solar-assist pump). Do not treat that as spare profit.
+
+#### 6.11.3 Working capital — ₦5,000,000 (the cycle)
+
+Regular production **₦3.4 million** plus cash that still leaves the account before Mile 12 pays.
+
+| Line | Pack ₦ | 2026 build |
+| --- | ---: | --- |
+| Hybrid seed + nursery (30%) | 1,020,000 | ~27,500–30,000 seeds (22–25k plants + 10% gaps). Platinum 701 ~₦24,750 / 5g; Ansal F1 ~₦23,600 / 1,000 seeds; Zarah F1 ₦53,000 / 1,000; Eva F1 25g ₦70,500. Mid hybrid seed **₦600,000–₦900,000** plus **₦120,000–₦220,000** trays, compost, nursery labour. Pack is ₦1.02m all-in. |
+| Fertilizer & fertigation (20%) | 680,000 | NPK 15-15-15 50 kg **₦70,000**; KNO₃ 25 kg **₦84,500–₦87,000**; CaNO₃ 25 kg **₦73,500–₦75,500**. Example: 4 bags NPK (₦280k) + 3 KNO₃ (₦261k) + 2 CaNO₃ (₦147k) + manure (₦80k) ≈ **₦768,000**. The ₦680k line is **tight** — soil test may cut NPK; do not cut fruiting K/Ca. |
+| IPM / crop protection (12%) | 408,000 | Insecticide, fungicide, nematicide, traps, PPE. The 2022 model used ₦70,000; Ogun humidity needs a Peak-ready kit even in Regular. |
+| Seasonal labour (18%) | 612,000 | Nursery, transplant, weeding, staking, 8–12 pickers × 2–3 picks/week × 5–6 weeks. ~₦100,000/month field gang for six months, not the 2022 ₦240,000 line. |
+| Irrigation operating (8%) | 272,000 | Diesel/petrol, 72-hour fuel buffer, filters. |
+| Staking, twine, mulch (7%) | 238,000 | Bamboo/wood stakes, twine, plastic mulch on drip beds. |
+| Nursery & miscellaneous (5%) | 170,000 | Gap-fill, Lagos/Abeokuta input haul, small tools. |
+| **Production subtotal** | **3,400,000** | |
+| Mile 12 logistics (400 × ₦900) | 360,000 | Fuel, driver, GIT-related haul |
+| Lease — cultivated 1 ha only | 100,000 | Unused 99 ha on option |
+| NAIC arable 2% of production | 68,000 | Bind before transplant |
+| Public / product / key-person | 188,000 | ₦180,000 + ₦8,000/ha |
+| 5% production contingency | 170,000 | Seed and soluble shocks |
+| Farm manager (₦70,000 × 6) | 420,000 | On-site; FarmPark does not replace this |
+| Soil lab + borehole water test (first 10 ha) | 80,000 | Condition of first planting |
+| FarmPark Cycle 1 advisory retainer | 150,000 | Naira fee, not a profit share. If they quote more, cut contingency, not drip |
+| Pre-ops (bank, counsel memo on option) | 64,000 | BN 6922259 on file; Ltd conversion is extra |
+| **Working capital** | **5,000,000** | |
+
+FarmPark’s ₦150,000 is a **naira retainer**, not a slice of NPAT.
+
+#### 6.11.4 One-page uses (sums to ₦8,000,000)
+
+| Use | ₦ |
 | --- | ---: |
-| Borehole + casing (Ogun farm depth) | 850,000 |
-| Submersible pump, 2,000 L tank, fittings | 300,000 |
-| 1 ha drip + filter + fertigation tank + install | 950,000 |
-| Genset ≈2.5–3.5 kVA | 300,000 |
-| Spare pump + drip-repair kit | 50,000 |
-| 40 plastic crates @ ~₦8,000 | 320,000 |
-| Nursery shade, trays, knapsack, trellis, tools | 130,000 |
-| Land prep 1 ha (plough / harrow / ridge) | 100,000 |
+| Borehole + pump + tank | 1,150,000 |
+| 1 ha drip + fertigation + install | 950,000 |
+| Genset + spare pump/kit | 350,000 |
+| 40 plastic crates | 320,000 |
+| Nursery hardware, tools, land prep | 230,000 |
 | **CapEx** | **3,000,000** |
-
-A 9 kVA estate generator does not fit. If the borehole bid exceeds ₦850,000, cut crates or the genset — not drip. If a working borehole already exists, keep A1–A2 inside CapEx (better fertigation or crates).
-
-**Working capital — ₦5,000,000**
-
-| Item | Pack ₦ |
-| --- | ---: |
-| Hybrid seed + nursery (~28k seeds, 22–25k plants + gaps) | 1,020,000 |
-| Fertilizer & fertigation (NPK, KNO₃, CaNO₃, manure) | 680,000 |
-| IPM / crop protection | 408,000 |
-| Seasonal labour (6 months, 8–12 pickers at harvest) | 612,000 |
-| Irrigation fuel (genset/pump, 72-hour diesel) | 272,000 |
-| Staking, twine, mulch | 238,000 |
+| Hybrid seed + nursery | 1,020,000 |
+| Fertilizer & fertigation | 680,000 |
+| IPM | 408,000 |
+| Seasonal labour | 612,000 |
+| Irrigation fuel | 272,000 |
+| Staking / mulch | 238,000 |
 | Nursery & miscellaneous | 170,000 |
-| **Production (Regular 1 ha)** | **3,400,000** |
-| Mile 12 logistics (400 × ₦900) | 360,000 |
-| Lease — cultivated 1 ha only | 100,000 |
-| NAIC 2% + other insurance | 256,000 |
-| 5% production contingency | 170,000 |
-| Farm manager (₦70,000 × 6) | 420,000 |
-| Soil lab + borehole water test (first 10 ha) | 80,000 |
-| FarmPark Cycle 1 advisory retainer | 150,000 |
-| Pre-ops / counsel on the option | 64,000 |
+| Logistics | 360,000 |
+| Lease (1 ha) | 100,000 |
+| Insurance (NAIC + other) | 256,000 |
+| Contingency | 170,000 |
+| Farm manager | 420,000 |
+| Soil/water tests | 80,000 |
+| FarmPark advisory | 150,000 |
+| Pre-ops / counsel | 64,000 |
 | **Working capital** | **5,000,000** |
+| **Opening pack** | **8,000,000** |
 
-Shop checks used for the mix (August 2026): NPK 15-15-15 50 kg ~₦70,000; KNO₃ 25 kg ~₦85,000–₦87,000; CaNO₃ 25 kg ~₦74,000; Platinum 701 5g ~₦24,750; Eva F1 25g ~₦70,500; Ansal F1 1,000 seeds ~₦23,600; farm crates ~₦7,500–₦11,600; SW borehole often ₦600,000–₦1,500,000; 1 ha drip laterals ₦500,000–₦1,250,000. The fertilizer line is **tight** if the soil test wants a full Veggie-style bag count — cut bulk NPK, not fruiting K/Ca.
+#### 6.11.5 What ₦8 million does not buy
 
-FarmPark’s ₦150,000 is a **naira retainer**, not a profit share. If they quote more, it comes from contingency, not from drip or seed.
+- The other **99 hectares** of drip, a second borehole, packing shed, packhouse, or a 9 kVA genset.
+- A FarmPark **co-investment** or profit share.
+- Cycle 2’s extra **2 ha drip (₦2.0 million)** — that is Cycle 1 retained profit, after the go/no-go in §6.14.
+- Holding-fee rent on unused land (option/ROFR instead).
+- A paste plant, cold chain, or a second 100 ha.
+
+#### 6.11.6 Why the 2022 1-ha template understates (do not plant it)
+
+| Item (1 ha) | Veggie Concept 2022 | This pack, August 2026 |
+| --- | ---: | ---: |
+| Drip CapEx | 625,000 | 950,000 laterals + 1,150,000 water/power around it |
+| Hybrid seed | 120,000 | 1,020,000 (seed + nursery) |
+| Fertilizer | 200,000 | 680,000 (shop tickets can print ~₦770k) |
+| Pesticides | 70,000 | 408,000 |
+| Labour (6 months) | 240,000 | 612,000 field + 420,000 manager |
+| Farm rent | 25,000 | 100,000 cultivated |
+| Tools / sprayer | 15,000 | inside ₦230k hardware + land prep |
+| **Cash to plant one intensive hectare** | **~₦1.3m including drip** | **₦8.0m** |
+
+The model plan’s **shape** is right. Its **naira is not**. Planting on ₦720k opex in Ogun in 2026 is a Roma-and-rain farm, not a 20 t/ha drip farm.
+
+#### 6.11.7 Buy list (quotes before November nursery)
+
+Examples, not endorsements. Lead times in §4.12. If seed or drip misses the November nursery, **slip transplant**. Do not squeeze into a January harvest.
+
+| Need | Where to quote |
+| --- | --- |
+| Hybrid seed (Platinum 701, Eva F1, Ansal, Amiral) | HTS Farms, Farmsquare, authorised East-West / Sakata dealers — **8–12 weeks** |
+| Drip + fertigation | Farmsquare; dripirrigation.com.ng installers; Ogun irrigation contractors |
+| Borehole | Ogun rotary contractor — metre rate + pump as one bid |
+| NPK / KNO₃ / CaNO₃ | HTS Farms, FarmPays, Abeokuta agro-dealers |
+| Crates | Plastic Store NG, CK Plast / Vannis — buy before harvest, not in week one |
+| Genset / pump | Lagos/Abeokuta dealers; keep it 2.5–3.5 kVA |
+| Soil / water lab | NIHORT or a NAMLS-linked lab; first **10 ha** |
+
+August 2026 shop checks used above: HTS Farms NPK 15-15-15 50 kg ~₦70,000; KNO₃ 25 kg ~₦87,000; CaNO₃ 25 kg ~₦73,500–₦75,500; Platinum 701 5g ~₦24,750; Eva F1 25g ~₦70,500; Zarah F1 1,000 seeds ~₦53,000; Ansal F1 1,000 seeds ~₦23,599; FarmPays KNO₃ 25 kg ~₦84,500; SW borehole often ₦600,000–₦1,500,000; complete water system ₦900,000–₦2,500,000; farm crates ₦7,500–₦11,600; 3.5 kVA genset class ~₦450,000. Replace every line with a named quotation before money leaves the farm account.
 
 ### 6.12 Optional ₦80 million facility
 
@@ -872,7 +963,7 @@ Corporate (CAC BN 6922259 / successor Ltd, MEMART, TIN) · Land (lease/option, s
 
 ### D. Model files
 
-`snlb-farms/model/financial_model.py` · `outputs/model_results.json` · `credit_cycle_pnl.csv` · `credit_annual.csv` · `credit_debt_dscr.csv` · charts in `snlb-farms/charts/` · Cycle 1 uses `snlb-farms/Cycle1_8m_Spend_Rundown.md`.
+`snlb-farms/model/financial_model.py` · `outputs/model_results.json` · `credit_cycle_pnl.csv` · `credit_annual.csv` · `credit_debt_dscr.csv` · charts in `snlb-farms/charts/`. Cycle 1 opening uses are in §6.11 of this study.
 
 ### E. Primary sources & benchmarks
 
@@ -880,7 +971,7 @@ NIHORT production guidance and HortiTom4/5 notes. Olam-Caraway public yields. Mi
 
 ### F. FarmPark partner file — public facts and gaps
 
-**Intended FMC:** FarmPark, King’s Deck, Alternative Route off Chevron Drive, Lekki. Full desk file: `snlb-farms/FarmPark_Partner_File.md`.
+**Intended FMC:** FarmPark, King’s Deck, Alternative Route off Chevron Drive, Lekki.
 
 | Public fact | Status |
 | --- | --- |
@@ -907,10 +998,22 @@ NIHORT production guidance and HortiTom4/5 notes. Olam-Caraway public yields. Mi
 
 Walk away if they will only transact as an unnamed “FarmPark,” insist on co-investment or a profit share, or cannot show a farm you can walk.
 
+**Cycle map (if they pass DD)**
+
+| Cycle | SNLB tomato job | FarmPark role |
+| --- | --- | --- |
+| Pre-ops | Lease, soil, water, ₦8m, seed/drip | Advisory letter; drip/nursery spec; not the land vendor |
+| C1 Regular, 1 ha | 20 t/ha; Feb–Apr; Mile 12 | Advise calendar, fertigation, labour gang; ₦150k retainer |
+| C2 Peak, 3 ha | 18 t/ha; Jul–Nov | Peak IPM; +2 ha drip supervise; go/no-go after C1 |
+| C3–C4 | 15 → 27 ha; mechanization | Optional SLA; tractor coordination |
+| C5–C6 | 72 → 100 ha | Master service only if C4 mobilisation was real |
+
+**First-meeting ask:** CAC entity and who signs; Ogun farm-manager CV; three reference farms plus a visit; Cycle 1 advisory letter (no equity farm-out); naira fee; no co-investment / no land / no NPAT share / no livestock on the block; related-party disclosure (Revelation Properties).
+
 ### G. Document control
 
 | Version | Date | Notes |
 | --- | --- | --- |
-| Comprehensive Feasibility Study | August 2026 | Regular-first; FarmPark tomato RACI; SNLB ENTERPRISE BN 6922259; Cycle 1 ₦8m line-item uses at August 2026 shop tickets |
+| Comprehensive Feasibility Study | August 2026 | Regular-first; FarmPark tomato RACI and cycle map; SNLB ENTERPRISE BN 6922259; full Cycle 1 ₦8m uses, model 1-ha plan, 2022 vs 2026, buy list in §6.11 |
 
 Prepared for SNLB Farms. Not for general circulation. Replace planning tables with live quotations and the site report before any binding credit application.
