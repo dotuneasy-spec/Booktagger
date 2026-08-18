@@ -61,7 +61,7 @@ def fig_fleet() -> None:
     fig, ax = plt.subplots(figsize=(8.4, 4.0))
     ax.plot(x, [y["closing_fleet"] for y in ST["years"]], "o-", color=RUST, label="Stress", lw=2)
     ax.plot(x, [y["closing_fleet"] for y in PL["years"]], "o-", color=TEAL, label="Planning", lw=2.2)
-    ax.plot(x, [y["closing_fleet"] for y in PR["years"]], "o-", color=GOLD, label="Promoter plan", lw=2)
+    ax.plot(x, [y["closing_fleet"] for y in PR["years"]], "o-", color=GOLD, label="Upside", lw=2)
     ax.set_xticks(x, LABELS)
     ax.set_ylabel("Kiosks at year-end")
     ax.set_title("Fleet path — three cases")
@@ -78,7 +78,7 @@ def fig_npat() -> None:
     fig, ax = plt.subplots(figsize=(8.6, 4.2))
     ax.bar(x - w, [bn(y["npat"]) for y in ST["years"]], w, color=RUST, label="Stress")
     ax.bar(x, [bn(y["npat"]) for y in PL["years"]], w, color=TEAL, label="Planning")
-    ax.bar(x + w, [bn(y["npat"]) for y in PR["years"]], w, color=GOLD, label="Promoter plan")
+    ax.bar(x + w, [bn(y["npat"]) for y in PR["years"]], w, color=GOLD, label="Upside")
     ax.axhline(0, color="#888", lw=0.7)
     ax.set_xticks(x, LABELS)
     ax.set_ylabel("NPAT (₦ billion)")
@@ -93,7 +93,7 @@ def fig_npv() -> None:
         "Planning\n20k path",
         "Planning\nhold 2,000",
         "Planning\nhold 5,000",
-        "Promoter\n20k path",
+        "Upside\n20k path",
         "₦8bn BOI\non 2,000",
         "₦90bn BOI\non 20k plan",
     ]
@@ -126,7 +126,7 @@ def fig_npv() -> None:
 
 
 def fig_breakeven() -> None:
-    names = ["Stress", "Planning", "Promoter"]
+    names = ["Stress", "Planning", "Upside"]
     be = [R["breakeven"]["stress"]["tx_per_day_be"], R["breakeven"]["planning"]["tx_per_day_be"], R["breakeven"]["promoter"]["tx_per_day_be"]]
     plan = [110, 180, 225]
     x = np.arange(3)

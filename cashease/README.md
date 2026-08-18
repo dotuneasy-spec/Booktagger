@@ -5,23 +5,21 @@
 
 If that asks you to log in, open the same file from the pull request: [PR #3](https://github.com/dotuneasy-spec/Booktagger/pull/3) → Files changed → `cashease/CashEase_Feasibility_Study.pdf`.
 
-Independent multi-service cash kiosks (note-breaking, POS cash-out, airtime and bills) in Nigeria.
-
-This folder is the **feasibility study document** for CashEase: own the machines, do not sell them to banks or the CBN, partner with banks only for cash and settlement, one machine per counted pitch, density before nationwide, and treat 20,000 kiosks / ₦90 billion as an earned option (revenue possible; profit and a single ₦90bn loan are outside the model).
+Owned multi-service cash kiosks on livelihood paths in Nigeria: note-breaking, POS cash-out, airtime and bills. The company owns the machines; a bank supplies float. One machine per counted pitch. Opening plan: **350 kiosks, ₦1.85 billion**, then **2,000** with an ₦8–12 billion facility.
 
 | Document | Description |
 | --- | --- |
 | [CashEase_Feasibility_Study.pdf](./CashEase_Feasibility_Study.pdf) | Print-ready A4 study — the document to circulate |
 | [CashEase_Feasibility_Study.md](./CashEase_Feasibility_Study.md) | Source memorandum |
 | [charts/](./charts/) | Figures used in the study |
-| [model/financial_model.py](./model/financial_model.py) | Six-year model (stress / planning / promoter, hold cases, BOI overlays) |
+| [model/financial_model.py](./model/financial_model.py) | Six-year model |
 | [model/generate_charts.py](./model/generate_charts.py) | Rebuild figures |
 | [model/build_pdf.py](./model/build_pdf.py) | Rebuild the PDF |
 | [model/outputs/](./model/outputs/) | JSON and CSV extracts |
 
-**Prepared:** August 2026 (v1.2)  
-**Planning first commitment:** 350 kiosks · ₦1.85 billion equity  
-**Verdict:** The model is feasible. Phase 1 is the only present commitment. ₦90 billion **profit** or a **single ₦90bn loan** is outside the model. ₦90bn+ **revenue** is an earned 20,000-site option.
+**Prepared:** August 2026 (v2.0)  
+**Opening plan:** 350 kiosks · ₦1.85 billion equity  
+**First operating scale:** 2,000 kiosks with ₦8–12 billion facility after Phase 1 data
 
 ```bash
 python3 model/financial_model.py
