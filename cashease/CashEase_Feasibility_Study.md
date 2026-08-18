@@ -835,12 +835,14 @@ Use this only with **300–500 live kiosks** and an audit.
 | --- | --- |
 | `model/financial_model.py` | Six-year three-case model, hold cases, BOI overlays, break-even |
 | `model/generate_charts.py` | Figures in `charts/` |
+| `model/build_pdf.py` | Rebuild `CashEase_Feasibility_Study.pdf` |
 | `model/outputs/model_results.json` | Full numeric dump |
 | `model/outputs/*_annual.csv` | Stress / planning / promoter annual extracts |
 
 ```bash
 python3 model/financial_model.py
 python3 model/generate_charts.py
+python3 model/build_pdf.py
 ```
 
 Discount rate 22%. Tax 32.1% of PBT. Fleet paths and unit assumptions are in `SCENARIOS` inside `financial_model.py`.
@@ -870,5 +872,6 @@ Conversation id `a565b656-f2ff-4d66-8b0b-e1cedc5a6505`.
 | --- | --- | --- |
 | 1.0 | 17 Aug 2026 | First feasibility study from the progressed Grok plan; three-case model and BOI DSCR |
 | 1.1 | 18 Aug 2026 | Site rules (one per pad, chains, hotels as amenity); franchise; bank signing; nationwide vs density; cost–benefit; ₦90bn meanings |
+| 1.2 | 18 Aug 2026 | Print-ready A4 PDF (`CashEase_Feasibility_Study.pdf`) |
 
 **Next refresh triggers:** counsel memo received; 60-day OEM trial closed; first 15-site counts complete; any CBN circular on IADs, agent cash caps or POS geotagging.

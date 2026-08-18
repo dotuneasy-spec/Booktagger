@@ -6,19 +6,22 @@ This folder is the **feasibility study document** for CashEase: own the machines
 
 | Document | Description |
 | --- | --- |
-| [CashEase_Feasibility_Study.md](./CashEase_Feasibility_Study.md) | The study — model, market, operations, three-case financials, BOI/DSCR, go/no-go |
+| [CashEase_Feasibility_Study.pdf](./CashEase_Feasibility_Study.pdf) | Print-ready A4 study — the document to circulate |
+| [CashEase_Feasibility_Study.md](./CashEase_Feasibility_Study.md) | Source memorandum |
 | [charts/](./charts/) | Figures used in the study |
 | [model/financial_model.py](./model/financial_model.py) | Six-year model (stress / planning / promoter, hold cases, BOI overlays) |
 | [model/generate_charts.py](./model/generate_charts.py) | Rebuild figures |
+| [model/build_pdf.py](./model/build_pdf.py) | Rebuild the PDF |
 | [model/outputs/](./model/outputs/) | JSON and CSV extracts |
 
-**Prepared:** August 2026 (v1.1)  
+**Prepared:** August 2026 (v1.2)  
 **Planning first commitment:** 350 kiosks · ₦1.85 billion equity  
 **Verdict:** The model is feasible. Phase 1 is the only present commitment. ₦90 billion **profit** or a **single ₦90bn loan** is outside the model. ₦90bn+ **revenue** is an earned 20,000-site option.
 
 ```bash
 python3 model/financial_model.py
 python3 model/generate_charts.py
+python3 model/build_pdf.py
 ```
 
-`matplotlib` is required for charts (`pip install -r model/requirements.txt`).
+`matplotlib`, `markdown` and `weasyprint` are required (`pip install -r model/requirements.txt`).
