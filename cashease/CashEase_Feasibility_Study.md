@@ -10,7 +10,7 @@ CashEase deploys owned kiosks on the paths where ordinary people already work in
 | Field | Detail |
 | --- | --- |
 | Working name | CashEase Nigeria Ltd (legal name to be confirmed) |
-| Prepared | August 2026 · v2.0 |
+| Prepared | August 2026 · v2.1 |
 | Horizon | Year 1–Year 6 (2027–2032) |
 | Currency | Nigerian naira (₦), nominal |
 | Planning case | 180 tx/day, 92% uptime, ₦100 blended fee, bank cash from Year 2 |
@@ -43,7 +43,7 @@ CashEase deploys owned kiosks on the paths where ordinary people already work in
 
 ## 1. The Plan
 
-Nigeria’s last mile still runs on cash. Conductors, traders and artisans need ₦100s and ₦200s all day. That need is majority, not niche. CashEase meets it as a **convenience on an existing trip**: the park gate, the market door, the busy station — not a destination people travel to, and not a box that invents a crowd on an empty street.
+Nigeria’s last mile still runs on cash. The customer is the **mass of ordinary people who earn and spend in notes** — including the poor, who are more cash-dependent, not less. Conductors, traders and artisans need ₦100s and ₦200s all day. Population is the strength of the market. Dedicated change kiosks are a **new category**, so there is little historical “tx per kiosk” data; that is unmeasured, not disproven. CashEase meets the need as a **convenience on an existing trip**: the park gate, the market door, the busy station. Phase 1 is how a new mass market is **proven on the path the masses already walk**.
 
 **The business, in one page**
 
@@ -52,7 +52,7 @@ Nigeria’s last mile still runs on cash. Conductors, traders and artisans need 
 3. **Sit on livelihood paths.** Markets, motor parks, petrol on those roads. One machine per counted pad.
 4. **Rent space like any shop.** Ordinary leases. Hosts get rent and maybe 5–10% of that site’s net.
 5. **Partner with a bank for cash**, after live volumes: they load small notes and settle POS; they take a share of eligible fees; they do not buy the hardware.
-6. **Build 350, then 2,000.** National hubs and a larger fleet follow only when those doors hold traffic.
+6. **Build 350, then 2,000.** That grid *is* the demand file for a new market. National hubs follow when those doors hold traffic.
 7. **Use policy as support.** Alignment with cash circulation and inclusion helps a bank or BOI conversation. It is not the commercial contract.
 
 ### Opening numbers — planning case
@@ -81,7 +81,7 @@ Nigeria’s last mile still runs on cash. Conductors, traders and artisans need 
 | Question | Plan |
 | --- | --- |
 | Is the model sound? | **Yes.** Owned multi-service kiosks on cash paths, bank-supplied float. |
-| Phase 1 (350, ₦1.85bn) | **Go.** Proof of sites, OEM, and books. |
+| Phase 1 (350, ₦1.85bn) | **Go.** First grid for a new mass-cash category: sites, OEM, and books. |
 | 2,000 kiosks | **Go after Phase 1 gates**, with an **₦8–12bn** facility and a bank cash SLA. |
 | 20,000 kiosks | **Later option** if unit traffic still holds in new hubs. |
 | ₦90bn annual **profit** or one **₦90bn loan** | **Outside this model.** Thin fees and one queue per pad cap earnings. |
@@ -149,21 +149,36 @@ These are outside the operating design (they may appear later as options):
 | | Helpful | Harmful |
 | --- | --- | --- |
 | **Internal** | Clear ownership; bundle matches how people already use agents; China OEM path is real | Cash logistics; theft; float until a bank line exists |
-| **External** | Mass cash livelihood demand; ATM/agent-density pressure on banks | Device classification; small-note scarcity; POS aggregators already on the best doors |
+| **External** | Population-scale cash livelihoods, including the poor; new category; ATM/agent-density pressure on banks | Device classification; small-note scarcity; POS aggregators already on the best doors |
 
 ---
 
 ## 3. Market
 
-### 3.1 The job
+### 3.1 Demand thesis — population, the masses, a new category
 
-Nigeria remains cash-plus-digital. Large notes are easy to get; small notes are not. Danfo, okada, keke, stalls and roadside trade need broken money **all day**. That is a majority livelihood need.
+**The bet.** Demand sits with the **ordinary majority**, including the poor. Nigeria’s population is the market’s strength. Most livelihoods still run on cash: fares, stalls, daily food, wages in notes. Poverty raises cash dependence; it does not remove the need to break a ₦1,000 for a ₦300 ride or a ₦200 purchase. A reliable place to get ₦100s and ₦200s is a mass convenience, not a middle-class gadget.
 
-Change is **not a destination**. People do not travel across town to break ₦1,000. They need ₦100s **while they are already** at the park, the stall, or the junction. CashEase intercepts that trip. A quiet shop in a cash-heavy country still does 30 transactions.
+**Why there is little data.** A dedicated note-breaking kiosk is a **new category**. There is no 20-year series of “transactions per change machine” the way there is for beer, airtime or POS. The hole is **unmeasured**, not evidence that the masses will not use it. Agency cash-out already showed that bottom-of-pyramid volume can support a terminal if it sits on a daily path. CashEase adds the missing cassette: small notes, on that same path.
 
-Habit forms on **existing** footfall: the same gate every morning. The machine does not pull the majority down a side street.
+**What population does.** It supports **many** livelihood doors — parks, markets, busy petrol — because that is where the masses already walk. Each kiosk still serves the catchment of **that door**, not 200 million people at once. The thesis is: put the box where the population already queues for work and trade; habit will thicken the queue. Phase 1 **is** how a new market is proven. It is not a vote of no confidence in the poor.
 
-### 3.2 Where the money is
+| Pillar | What we take as given | What Phase 1 writes down |
+| --- | --- | --- |
+| Mass cash need | Conductors, traders, artisans, commuters — including the poor | Tx/day, fee mix, peak hours on each pad |
+| Population | National scale; Lagos–Ogun is a dense first belt | How many **doors** in the belt clear 89–180 tx/day |
+| New category | No incumbent “change kiosk” chain | First category dataset for banks and BOI |
+| Convenience | People use what is in front of them | Stocked hopper + path site → repeat use |
+
+**Policy rhyme.** Faster small-note circulation at the last mile is liquidity **in use**. That is a fair CBN/BOI story. It supports introductions and file language. The commercial proof remains the books on those doors.
+
+### 3.2 The job on the path
+
+Nigeria remains cash-plus-digital. Large notes are easy to get; small notes are not. Danfo, okada, keke, stalls and roadside trade need broken money **all day**.
+
+Change is **not a destination**. People do not travel across town to break ₦1,000. They need ₦100s **while they are already** at the park, the stall, or the junction. CashEase intercepts that trip. Habit forms on **existing** footfall: the same gate every morning.
+
+### 3.3 Where the money is
 
 The comparable business is the POS/agent kiosk that already earns in a prime spot — not a bank ATM lobby.
 
@@ -175,11 +190,11 @@ The comparable business is the POS/agent kiosk that already earns in a prime spo
 
 Before a BOI file, replace desktop traffic with: current CBN denomination mix; acquirer POS cash-out in the target LGAs; a **two-week manual count** of change events at each candidate door.
 
-### 3.3 Pricing
+### 3.4 Pricing
 
 Nigerians already pay ATM surcharges and agent fees. ₦20–₦100 to break a note and ₦50–₦200 for POS cash-out are in-market **if** the alternative is a hunt for ₦100s. Pricing dies if the cassette is empty, a human agent next door is cheaper, or the site is a mall with working ATMs.
 
-### 3.4 Competition
+### 3.5 Competition
 
 | Competitor | Implication |
 | --- | --- |
@@ -187,7 +202,7 @@ Nigerians already pay ATM surcharges and agent fees. ₦20–₦100 to break a n
 | Informal changers | Instant and flexible. Win on reliability, hours, and having stock |
 | Bank ATMs | Dispense larger notes; poor small-note mix. Adjacent job, not the same pad |
 
-### 3.5 Regional expansion
+### 3.6 Regional expansion
 
 Other African currencies are out of scope until Nigeria has a working 2,000.
 
@@ -681,5 +696,6 @@ Discount rate 22%. Tax 32.1% of PBT. Fleet paths and unit assumptions are in `SC
 | Version | Date | Notes |
 | --- | --- | --- |
 | 2.0 | 18 Aug 2026 | Standalone plan: verdict as the opening design; livelihood-path demand; measured scale |
+| 2.1 | 18 Aug 2026 | Demand thesis: population, cash-using masses, new category; Phase 1 as how the market is proven |
 
 **Next refresh triggers:** counsel memo received; 60-day OEM trial closed; first 15-site counts complete; any circular on IADs, agent cash caps or POS geotagging.
