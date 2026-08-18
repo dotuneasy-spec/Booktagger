@@ -36,8 +36,9 @@ CashEase deploys owned kiosks on the paths where ordinary people already work in
 10. [Cost–Benefit](#10-costbenefit)
 11. [Risk](#11-risk)
 12. [Environmental, Social & Governance](#12-environmental-social--governance)
-13. [Implementation](#13-implementation)
-14. [Appendices](#14-appendices)
+13. [Strategy to maximise potential](#13-strategy-to-maximise-potential)
+14. [Implementation](#14-implementation)
+15. [Appendices](#15-appendices)
 
 ---
 
@@ -612,7 +613,51 @@ Single-purpose Ltd. Reserved matters: debt above ₦2bn, OEM POs above 50 units,
 
 ---
 
-## 13. Implementation
+## 13. Strategy to maximise potential
+
+The job is to **stand where the pain already is** and stack every door-opener that makes a live hopper possible: private leases, public concessions, bank float, a thin ATM sidecar. Do not wait for one saviour (CBN, vestibules, franchise, or a federal PPP).
+
+**Objective.** Maximise the number of **fat livelihood-path doors** with **stocked ₦100s**, company-owned boxes (operators may buy growth machines later), and cheap enough capital to reach 2,000 — then hubs — without betting the firm on 20,000 iron sitting quiet.
+
+### 13.1 Four tracks, in parallel (not in a queue)
+
+| Track | What you maximise | First move |
+| --- | --- | --- |
+| **A. Pain doors** | Capture of conductor/trader/commuter pain | 10 OEM units; two-week **pain counts**; pay rent on the best 10–15 pads |
+| **B. Bank float** | Small notes in the cassette | Acquirer now; **cash SLA** when 10–50 boxes have books. ATM-adjacent = **pilot of 5–10**, not the estate |
+| **C. Public land** | Official high-traffic slabs | Mini-concession: one park + one market; you own machines; fee or small share to LGA/terminal |
+| **D. Policy story** | Introductions, not a cheque | Liquidity-in-use + inclusion language for BOI and bank desks |
+
+Track A **never pauses** for B, C, or D. Those tracks **raise the ceiling** once A is alive.
+
+### 13.2 Sequence that compounds
+
+1. **Create the first situations (months 0–6).** Hunt park chairmen, market associations, busy petrol dealers. Count change-asks, lost fares, walked customers. Order 10 machines. Go live. This is the new-category proof.  
+2. **Thicken the belt (months 6–12).** 350 doors in Lagos–Ogun on those paths. One machine per pad. Kill the quiet 10%.  
+3. **Unlock float (months 9–18).** Bank adopts **cash + settlement** on *your* grid. Ask for a **vestibule sidecar** in the same paper — extra, not exclusive.  
+4. **Unlock public pads (in parallel).** Copy one working park concession to the next LGA. That is how government “adoption” becomes **land**, while the bank remains **cash**.  
+5. **Fund 2,000 (after books).** ₦8–12bn against machines + SLA. Best risk-adjusted scale (~₦1.2bn NPAT/year on planning).  
+6. **Stretch equity only after 2,000.** Hire-purchase / operator-bought boxes, **gross** fee share on the switch, buyback, bank still owns float.  
+7. **Copy hubs, then 20,000 as operations.** Same pattern in Ibadan, Abuja, Kano, PH. 20,000 is possible if B+C hold and doors stay fat — not if adoption means ATM lobbies only.
+
+### 13.3 What to push, what to refuse
+
+| Push hard | Refuse / delay |
+| --- | --- |
+| Pads on parks, markets, busy petrol | Waiting for banks or a federal PPP to “approve the market” |
+| Bank as **cashier** of ₦100s | Selling the fleet to banks as the core P&L |
+| LGA/park **concession** for the slab | Nationwide exclusive that blocks private sites |
+| One box; second only if the queue is real | Four machines on one slab |
+| 70%+ of POS; change fees yours | Vestibule deal that forbids livelihood sites |
+| Policy as a **letter and intro** | Policy as the revenue line |
+
+### 13.4 How 20,000 becomes the upside, not the bet
+
+Bank float + public high-traffic concessions + a dense first belt is the **maximum-potential** shape. ATM sites add a slice of people who just withdrew large notes. Population and on-ground pain are why the ceiling can be high. The first 350–2,000 are how you **find and create** the situations. If those print, you have earned the right to chase 20,000. If a pad is dead, you move it — you do not conclude the masses had no pain.
+
+---
+
+## 14. Implementation
 
 | # | Action | Owner | Timing |
 | --- | --- | --- | --- |
@@ -632,7 +677,7 @@ Raise **₦1.85 billion**, build **350**, then borrow for **2,000**. Nationwide 
 
 ---
 
-## 14. Appendices
+## 15. Appendices
 
 ### A. Glossary
 
@@ -708,5 +753,6 @@ Discount rate 22%. Tax 32.1% of PBT. Fleet paths and unit assumptions are in `SC
 | --- | --- | --- |
 | 2.0 | 18 Aug 2026 | Standalone plan: verdict as the opening design; livelihood-path demand; measured scale |
 | 2.2 | 18 Aug 2026 | On-ground pains as demand validation; kiosk tx/day as the meter, not the proof of need |
+| 2.3 | 18 Aug 2026 | Strategy to maximise potential: four parallel tracks, sequence, 20,000 as earned ceiling |
 
 **Next refresh triggers:** counsel memo received; 60-day OEM trial closed; first 15-site counts complete; any circular on IADs, agent cash caps or POS geotagging.

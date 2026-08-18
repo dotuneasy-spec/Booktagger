@@ -17,7 +17,7 @@ Owned multi-service cash kiosks on livelihood paths in Nigeria: note-breaking, P
 | [model/build_pdf.py](./model/build_pdf.py) | Rebuild the PDF |
 | [model/outputs/](./model/outputs/) | JSON and CSV extracts |
 
-**Prepared:** August 2026 (v2.2)  
+**Prepared:** August 2026 (v2.3)  
 **Opening plan:** 350 kiosks · ₦1.85 billion equity  
 **First operating scale:** 2,000 kiosks with ₦8–12 billion facility after Phase 1 data
 
