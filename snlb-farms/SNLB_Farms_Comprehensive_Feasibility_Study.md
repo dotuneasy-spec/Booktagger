@@ -8,7 +8,7 @@ A self-funding expansion from 1 hectare to 100 hectares, driven by two-cycle ann
 
 | Field | Detail |
 | --- | --- |
-| Entity | SNLB Farms |
+| Entity | **SNLB ENTERPRISE** (CAC business name **BN 6922259**, 31 March 2023) trading as SNLB Farms |
 | Prepared | August 2026 |
 | Horizon | Year 1–Year 5 (build-out in six cycles / three years; steady state Years 4–5) |
 | Currency | Nigerian naira (₦), nominal |
@@ -262,6 +262,7 @@ Seasonal field labour sits inside per-hectare production cost. Management scales
 | Role | Cycles 1–2 (1–3 ha) | Cycles 3–4 (15–27 ha) | Cycles 5–6 (72–100 ha) |
 | --- | --- | --- | --- |
 | Farm manager | 1 | 1 | 1 senior |
+| FarmPark (advisory / later SLA) | Lekki advisory; not a substitute for the on-site manager | Optional mechanization coordination | Master service only if C4 mobilisation was real |
 | Field supervisors | 0 | 1–2 | 4–6 |
 | Logistics / Mile 12 | Owner | 1 | 2 |
 | Finance & admin | Owner | 1 | 2–3 |
@@ -364,9 +365,30 @@ Missed Peak timing is a farm-manager miss, not a market miss.
 
 The promoters intend to engage **FarmPark**, office at Suite 2, 3rd Floor, King’s Deck, Alternative Route off Chevron Drive, Lekki, as the farm-management company. Public identity: trading name FarmPark / farmpark.ng; LinkedIn and 2022 job ads state that **Farm Park is a trademark of FarmAgro Projects Limited**; job boards also use **FarmPark Limited**. Founding Executive Director named in public profiles: **David Omaghomi**. Contacts they publish: 0708 062 9726, care@farmpark.ng.
 
-Public positioning is farmland acquisition, **co-investment**, and “we manage the farms, you earn the returns,” with LinkedIn posts weighted to **fish, poultry and hatchery** in Lagos/Ibadan — not a published tomato drip SLA on an Ogun 100 ha block. Website marketing figures (500 acres, 75 co-investors, 85% “annual yield”) and US-dollar price tiles are **unverified** and are not used in this model. LinkedIn headcount scrapes are in the **1–11** range.
+The SNLB contracting party is **SNLB ENTERPRISE** (CAC BN 6922259). Convert to a limited company before a long SLA or a credit file.
 
-**Engagement shape.** Cycles 1–2 remain Stage 0: FarmPark on **advisory** terms; a named farm manager on the Ogun site; SNLB keeps the 100 ha option, the ₦8 million equity and the 50/50 NPAT split. FarmPark is not to insert its land product or a profit share. A mechanization SLA is still required before Cycle 4. The public file, gap list and first-meeting ask sit in **Appendix F** and in `FarmPark_Partner_File.md`. Until CAC papers, a Cycle 1 advisory letter and a reference-farm visit are in the data room, FarmPark is a **named intention**, not a closed CP.
+#### How FarmPark operates (their public model)
+
+They sell three products in one loop: **farmland acquisition**, **co-investment** (share profits and risk), and **expert farm management** so the client does not farm. LinkedIn About: they select land, cultivate **whichever produce the investor desires** (crop or ranch), and generate income for that investor. Founder packages: **FARM-IN** (urban/diaspora capital enters a project), **FARM-OUT** (they or a placed farmer operate the land), **e-Farming** (track from anywhere). Client-services staff close after **site tours**. A 2022 Farm Officer was hired to analyse **crops, poultry, staff and finances** and to write planting/harvest schedules — mixed crop-and-livestock, not a tomato drip SLA.
+
+Their own May 2023 operating notes: plan and budget (crop, irrigation, pest, marketing); put a **farmer on site every day**; kit from hoe to tractor/sprayer; a store; logistics to market; soil tests; crop insurance; **diversify into livestock** as risk management. Public posts that name a sector name **fish, poultry and hatchery** in Lagos/Ibadan. Tomato is only in scope as client-chosen produce. Website figures (500 acres, 85% “annual yield”) are unverified and are **not** used in this model.
+
+#### How that sits on this tomato farm
+
+SNLB’s crop, calendar, land and P&L are already locked. FarmPark is useful only as a **contractor on SNLB’s Ogun block**. The default FarmPark product (they bring land and co-investors, pick the “hottest” sector, remit returns) is **not** the engagement.
+
+| Tomato-farm activity | SNLB | On-site farm manager | FarmPark (intended C1–2 advisory) |
+| --- | --- | --- | --- |
+| 100 ha option and ₦8.0 million | Holds both | — | Does not sell land or pool capital |
+| Hybrid tomato, drip, 20/18 t/ha | Accountable | Daily | Advise spec, calendar, fertigation, labour gang |
+| Regular harvest Feb–Apr; Peak Jul–Nov | Accountable | Executes | Calendar and Peak IPM; no livestock on the block |
+| Grade, crate, Mile 12, cash T+0 | **Sells** | Supports | Informed only — does not take the floor or remit “investor returns” |
+| 50/50 NPAT | Stays inside SNLB | — | Naira retainer / later SLA; **no profit share** |
+| Mechanization at 5 / 25 / 60 ha; +45 ha | Accountable | Coordinates | Optional SLA from C3; written mobilisation before C4 |
+
+e-Farming is a weekly photo pack, not the operator. If they cannot show a tomato or intensive-vegetable farm you can walk, keep them as land/admin advisor and hire the agronomist separately.
+
+**Engagement shape.** Cycles 1–2 remain Stage 0: FarmPark on **advisory** terms; a named farm manager on the Ogun site. A mechanization SLA is still required before Cycle 4. The full operating file, RACI and gap list sit in **Appendix F** and in `FarmPark_Partner_File.md`. Until CAC papers, a Cycle 1 advisory letter and a reference-farm visit are in the data room, FarmPark is a **named intention**, not a closed CP.
 
 ---
 
@@ -418,9 +440,9 @@ From Year 2, selected parcels convert to owned land where the lease allows, usin
 
 | Week | Gate |
 | --- | --- |
-| −16 to −14 | Counsel on master option/lease; CAC/TIN; open farm account; ₦8m paid in |
+| −16 to −14 | Counsel on master option/lease; BN 6922259 on file / Ltd conversion; open farm account; ₦8m paid in |
 | −14 to −12 | Soil lab + borehole yield/quality on first 10 ha; survey |
-| −12 to −10 | Seed and drip quotations; FMC advisory letter; farm-manager hire |
+| −12 to −10 | Seed and drip quotations; **FarmPark** Cycle 1 advisory letter; farm-manager hire |
 | −10 to −8 | NAIC/GIT bind; crate and input orders; genset/pump confirmed |
 | −8 to −6 | Drip install on 1 ha; nursery started |
 | −6 to −4 | Fertigation trial on a short lateral; IPM kit on site; buyer list started |
@@ -688,7 +710,7 @@ Inflation 17% versus flat prices through Year 5 is the stress-case Year 5 5% EBI
 
 ### 7.4 Regulatory and legal
 
-CAC limited company before transplanting, with agriculture in the objects and an express borrowing power. TIN from Cycle 1. Pension Reform Act once management is employed. Master lease reviewed for renewal, sub-lease, lease-to-own and lender assignment. OGEPA screening on land use; escalate before packhouse.
+CAC: **SNLB ENTERPRISE** is already registered as a business name (**BN 6922259**, 31 March 2023; agricultural services, general trading and merchandise; 17 Ugochukwu Orji Street, Westgate Estate, Igbo Efon, Lekki). Convert to a **limited company** before transplant if a lease assignment or a credit file is in view — a BN has unlimited personal liability and is a weaker contracting party for FarmPark. TIN from Cycle 1. Pension Reform Act once management is employed. Master lease reviewed for renewal, sub-lease, lease-to-own and lender assignment. OGEPA screening on land use; escalate before packhouse.
 
 ### 7.5 Insurance (costed)
 
@@ -746,7 +768,7 @@ The planning-case NPV at 18% is **₦5.78 billion** (five years, no terminal val
 
 ### 9.3 Recommendations
 
-- Incorporate SNLB Farms as a limited company; open a dedicated operating account; pay in ₦8 million.
+- Convert **SNLB ENTERPRISE** (BN 6922259) to a limited company before a credit file or a long FMC SLA; open a dedicated operating account; pay in ₦8 million.
 - Instruct counsel on the master option/lease before drip deposits.
 - Commission soil and borehole tests on the first 10 ha.
 - Bind NAIC and GIT; hire the farm manager; engage **FarmPark** on **advisory** terms only after the Appendix F ticks (CAC entity, no co-investment, Cycle 1 letter, reference-farm visit).
@@ -787,7 +809,7 @@ The opportunity is a structural tomato deficit, a 1.5-hour corridor to the price
 
 ### B. Conditions of first planting
 
-1. CAC incorporation, TIN, MEMART with agri objects and borrowing power.
+1. **SNLB ENTERPRISE** BN 6922259 on file; convert to Ltd (agriculture objects, borrowing power) before a credit application; TIN; farm account.
 2. ₦8,000,000 paid into the farm account, with the share register and board minutes.
 3. Executed master option/lease with lender-assignment language.
 4. Independent soil test and borehole yield/quality on the first 10 ha.
@@ -802,7 +824,7 @@ The opportunity is a structural tomato deficit, a 1.5-hour corridor to the price
 
 ### C. Data-room index
 
-Corporate (CAC, MEMART, TIN) · Land (lease/option, survey, counsel) · Technical (soil, water, drip, seed, IPM, calendar) · Market (price log, LOIs) · Financial (statements, cycle packs, tax, insurance) · ESG (OGEPA, labour) · Security (asset register) · Quotations · FMC (FarmPark CAC, advisory letter, reference farms, fee quote).
+Corporate (CAC BN 6922259 / successor Ltd, MEMART, TIN) · Land (lease/option, survey, counsel) · Technical (soil, water, drip, seed, IPM, calendar) · Market (price log, LOIs) · Financial (statements, cycle packs, tax, insurance) · ESG (OGEPA, labour) · Security (asset register) · Quotations · FMC (FarmPark CAC, advisory letter matching the tomato RACI, reference farms, fee quote).
 
 ### D. Model files
 
@@ -820,11 +842,13 @@ NIHORT production guidance and HortiTom4/5 notes. Olam-Caraway public yields. Mi
 | --- | --- |
 | Office at Chevron / King’s Deck | Repeated on website, LinkedIn and 2021–22 job ads |
 | Legal name | **Open.** Trademark said to sit in FarmAgro Projects Limited; job boards say FarmPark Limited. No RC number in public materials. |
-| Commercial model | Investor-facing: land, co-investment, managed returns. Conflicts with SNLB 50/50 unless they accept **advisory / services only**. |
-| Tomato / drip / Ogun operating proof | **Not in public sources.** Posts mention fish, poultry, hatchery; one Ogun anecdote is a land-due-diligence warning, not a tomato farm. |
+| How they operate | Land sale + co-investment + managed farm. FARM-IN / FARM-OUT / e-Farming. Place a farmer, schedule plant/harvest, irrigate, remit returns. Mixed **crop and poultry/fish**. Tomato only as “produce the investor desires.” |
+| Tomato / drip / Mile 12 SOP | **Not published.** No cultivar, no 20 t/ha, no Feb–Apr Regular window, no Mile 12 floor. |
+| Risk method they preach | Diversify into **livestock** — conflicts with a tomato-only 100 ha block |
 | Website claims (500 acres, 85% yield, $12.99 plans, foreign staff names) | Treat as **template / unverified**. Do not use in the model. |
 | Headcount | Public scrapes 1–11 people. Insufficient on its face for 72–100 ha without named subcontractors. |
 | Related party signal | 2022 jobs directed CVs to a **Revelation Properties** Gmail. |
+| SNLB counterparty | **SNLB ENTERPRISE** BN 6922259 on file (`legal/SNLB_ENTERPRISE_CAC_BN_6922259.pdf`). Ltd conversion still open. |
 
 **Gaps the promoters must close before paying a retainer or treating the FMC CP as met**
 
@@ -843,6 +867,6 @@ Walk away if they will only transact as an unnamed “FarmPark,” insist on co-
 
 | Version | Date | Notes |
 | --- | --- | --- |
-| Comprehensive Feasibility Study | August 2026 | Regular-first, non-glut prices; Cycle 1 calendar, quality spec, power/security, procurement, buffer policy, offtake heads of terms; FarmPark named as intended FMC with open due-diligence gaps |
+| Comprehensive Feasibility Study | August 2026 | Regular-first, non-glut prices; FarmPark operating model mapped onto the tomato RACI; SNLB ENTERPRISE BN 6922259 on file |
 
 Prepared for SNLB Farms. Not for general circulation. Replace planning tables with live quotations and the site report before any binding credit application.

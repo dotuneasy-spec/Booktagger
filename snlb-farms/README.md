@@ -9,10 +9,12 @@ Commercial tomato production on a leased 100-hectare master block in Ogun State,
 | [model/financial_model.py](./model/financial_model.py) | 5-year / 10-cycle model (base, upside, stress; optional ₦80m facility) |
 | [model/generate_charts.py](./model/generate_charts.py) | Rebuild figures |
 | [model/build_pdf.py](./model/build_pdf.py) | Rebuild the PDF |
-| [FarmPark_Partner_File.md](./FarmPark_Partner_File.md) | Public desk file on the intended FMC (King’s Deck, Chevron, Lekki) and the gaps still open |
+| [charts/](./charts/) | Figures used in the study |
+| [FarmPark_Partner_File.md](./FarmPark_Partner_File.md) | How FarmPark operates, tomato-farm RACI, and remaining DD gaps |
+| [legal/SNLB_ENTERPRISE_CAC_BN_6922259.pdf](./legal/SNLB_ENTERPRISE_CAC_BN_6922259.pdf) | CAC business-name certificate (31 March 2023) |
 
 **Prepared:** August 2026  
-**Entity:** SNLB Farms  
+**Entity:** SNLB ENTERPRISE (CAC BN 6922259) trading as SNLB Farms  
 **Opening capital:** ₦8,000,000 (₦3.0m CapEx + ₦5.0m Cycle 1 working capital)  
 **Planning case:** Regular first at non-glut Mile 12 prices — 20/18 t/ha, ₦33,000 / ₦145,000 baskets, full cost stack, NTA 2025 tax
 
