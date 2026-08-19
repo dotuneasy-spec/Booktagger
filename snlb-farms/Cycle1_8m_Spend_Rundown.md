@@ -101,7 +101,7 @@ This is the Regular production bill (₦3.4 million) plus the cash that is not i
 | **5% production contingency** | 170,000 | Price shocks on seed and solubles |
 | **Farm manager (₦70,000 × 6 months)** | 420,000 | On-site; FarmPark does not replace this |
 | **Soil lab + borehole water test (first 10 ha)** | 80,000 | Condition of first planting |
-| **FarmPark Cycle 1 advisory (retainer)** | 150,000 | Naira fee, not a profit share. Quote may be higher — then cut contingency, not drip |
+| **FarmPark Cycle 1 advisory (retainer)** | 150,000 | Naira fee for Epe-method supervise and weekly photo pack — not a profit share. Quote may be higher — then cut contingency, not drip |
 | **Pre-ops (CAC/TIN bank, counsel memo on option)** | 64,000 | BN 6922259 is already filed; Ltd conversion is extra if done now |
 | **Outside-production subtotal** | **1,600,000** | |
 | **Working capital total** | **5,000,000** | |

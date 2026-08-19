@@ -13,7 +13,7 @@ https://github.com/dotuneasy-spec/Booktagger/raw/cursor/snlb-bankable-feasibilit
 | [model/generate_charts.py](./model/generate_charts.py) | Rebuild figures |
 | [model/build_pdf.py](./model/build_pdf.py) | Rebuild the PDF |
 | [charts/](./charts/) | Figures used in the study |
-| [FarmPark_Partner_File.md](./FarmPark_Partner_File.md) | How FarmPark operates, tomato-farm RACI, and remaining DD gaps |
+| [FarmPark_Partner_File.md](./FarmPark_Partner_File.md) | How FarmPark operates, public track record (Epe, *Sun* interview, no audited accounts), capital-at-work visuals, tomato-farm RACI, remaining DD gaps |
 | [Cycle1_8m_Spend_Rundown.md](./Cycle1_8m_Spend_Rundown.md) | Model 1-ha tomato plan + August 2026 line-item uses for the ₦8 million pack |
 | [legal/SNLB_ENTERPRISE_CAC_BN_6922259.pdf](./legal/SNLB_ENTERPRISE_CAC_BN_6922259.pdf) | CAC business-name certificate (31 March 2023) |
 

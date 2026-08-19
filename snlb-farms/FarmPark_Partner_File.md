@@ -45,17 +45,58 @@ The 2022 HR mailbox is a **Revelation Properties** Gmail, not a FarmPark domain.
 | Name | Public role | Note |
 | --- | --- | --- |
 | **David Omaghomi** | Founding Executive Director | LinkedIn: agri-tech / farm-estate packages **FARM-IN / FARM-OUT / e-Farming**; also ESG / sustainability / climate-resilience language. The person to meet. |
+| **Yisau Hammed** | **Farm Manager, FarmPark Epe** (Jul 2020–present) | FUTA agric tech. Poultry supervisor → farm officer → farm manager on the Epe site. This is the named person who shows they run a farm, not only a Lekki desk. Not, on that CV, a drip-tomato superintendent — still visit the farm. |
+| **Paschal Adikaibe** | Former Farm Administrator (Aug–Dec 2019) then BDM team lead (Jan 2020–Mar 2022) | *The Sun* interview (Ayo Alonge) on Farm Park poultry, the Epe pilot, vegetable production from 2018, and “investors’ funds properly managed.” Now at Sahel Consulting. Historical testimony, not current staff. |
 | **Katherine Mba** | Client Services Manager (one profile); another profile lists a past FarmPark **sales / customer-service** role and a later move out of agri | Confirm she is still there. Her FarmPark JD was investor-facing: cold calls, proposals, **site tours**, closing. |
-| **Yisau Hammed** | Agric tech (FUTA) listed on the company page | Not a named tomato farm manager. |
 | **Orkuma Adamu** | Sales Executive | Sales, not field operations. |
 
 The farmpark.ng “About” page lists **Emily Carter, Michael Zhang, Sophia Patel, David Nguyen**. Those names do not match the LinkedIn staff. Treat them as **website-template placeholders**, not a management team.
+
+### 1.1 Public track record and financials (desk search, August 2026)
+
+FarmPark is an **established** Lekki FMC, not a new desk. Use that. Do not import their marketing yield into SNLB’s model.
+
+**What public sources actually give you**
+
+| Claim | Source | How to treat it |
+| --- | --- | --- |
+| Company established **2016**; Farm Park is a **trademark**; sister poultry companies | *The Sun*, Paschal Adikaibe as Farm Administrator | Consistent with a 2016–18 start. Matches LinkedIn 2018 / founder 2017. |
+| Lagos site is a **pilot farm** — “we test things that we are meant to give to farmers, to be sure that investors funds are properly managed” | Same interview | The sentence that alludes to experience putting **other people’s money** into production. Ask to **walk Epe**. |
+| **~250 poultry farmers** since inception; vegetable production from **2018**; farm-management for third parties from 2018; **~750 farmers** in all | Same interview | His estimate. Ask for a **named** reference list. Do not put 750 into a credit memo as if audited. |
+| Broilers produced and processed for meat; NAIC policy on capital; “we haven’t ever sought for loans” | Same interview | Operating culture: insure the kit, grow from cash. Useful colour. Not SNLB’s tomato DSCR. |
+| Broiler “you might get up to **30%** ROI”; snail “250%” | Same interview, as **generic investor advice** | **Not** FarmPark’s audited return. Do not cite as their track record. |
+| “Cashew plantation in Ilorin which is about **15,000 hectares**” | Same interview | Treat as **unverifiable puffery** until they show title and a map. Do not repeat in the circulating study. |
+| Farm-monitoring **app** | Same interview | Claimed. Public LinkedIn articles do not name the app. Ask for a demo. |
+| Named **Farm Manager at Epe** from July 2020 | Yisau Hammed LinkedIn | Living proof of a FarmPark farm with a manager on it. Poultry background. |
+| Site tours before close | Katherine Mba JD; LinkedIn land posts | Instagram-language of capital at work: the investor stands on the farm. |
+| Ilara, Epe “Farm Park” plots; farm-for-you and remit every 4–6 months; 2 acres ~₦450,000 (then) | Nairaland / Revelation Properties (~2018) | **Land product**. Plot prices are not farm P&L. Related-party signal (same 2022 HR Gmail). |
+
+**What was not found**
+
+- No audited financial statements, management accounts, or tax clearance for FarmPark, FarmPark Limited or FarmAgro Projects Limited.
+- No CAC RC number, no filed accounts, no tomato t/ha, no Mile 12 ticket history.
+- Website **500 acres / 75 co-investors / 85% annual yield** and US$ price tiles: **template / unverified**. Indian companies named “Farmagro” are unrelated.
+- Instagram **@farmparkng** (and farmpark.ng) require a login from this environment; the feed was not scraped.
+
+The circulating study therefore **alludes** to FarmPark as an experienced operator (Epe pilot, named manager, site tours, mixed crop/livestock since ~2018) and uses **SNLB’s own ₦8 million uses** as the naira proof that this project’s capital becomes kit. It does not borrow 85% or 30% as SNLB’s return.
+
+### 1.2 Instagram and “money put to good use”
+
+Pull the last twelve months of **@farmparkng** into the data room at the first meeting (screenshots with dates). What those posts should show — and what SNLB must photograph on the Ogun hectare — is kit, not a yield percentage:
+
+1. Borehole / tank / pump and drip laterals (water and fertigation actually installed).
+2. Nursery trays, seed bags, labour gang, a named manager in the frame.
+3. Crates, graded produce, a vehicle at the gate.
+4. An investor or client **on the farm** (their site-tour habit).
+5. A weekly e-Farming photo pack — their own remote-reporting product.
+
+If the Instagram grid is mostly Lekki office, land flyers and co-invest slogans, keep them as a land/admin advisor and hire the agronomist separately. If it is Epe pens, ponds, vegetable beds and site walks, that is the experience this file is buying — applied to SNLB’s tomato kit, not to a FarmPark co-invest SPA.
 
 ---
 
 ## 2. How FarmPark operates (their public model)
 
-This is reconstructed from **their** website, LinkedIn About, founder CV, 2021–22 jobs, and May 2023 LinkedIn articles. It is not a signed SOP. Where they are silent, the file says so.
+This is reconstructed from **their** website, LinkedIn About, founder CV, 2021–22 jobs, May 2023 LinkedIn articles, and the *Sun* Farm Administrator interview. It is not a signed SOP. Where they are silent, the file says so.
 
 ### 2.1 What they sell — three products, one loop
 
@@ -92,7 +133,7 @@ From LinkedIn posts, the Farm Officer JD (April 2022) and the May 2023 articles 
 3. **Plan and budget.** Crop (or livestock) selection, planting and harvest **schedules**, irrigation plan, pest and disease measures, marketing, weather and soil. They treat a written business plan as the execution tool.
 4. **Place a farmer on the ground.** “A typical farmer in Lagos is said to have no day off.” Equipment from hoe/cutlass up to tractor, plow, sprayer, planter. Storage building. Logistics to move produce to sale.
 5. **Supervise resources.** Water, fertilizer, land, energy; irrigation scheduling; soil tests for nutrient need.
-6. **Data / tech.** Collect data on nutrients, crop growth, livestock health, topology — stated as a principle, with **no named farm-management app** in public materials.
+6. **Data / tech.** Collect data on nutrients, crop growth, livestock health, topology — stated as a principle. The *Sun* interview claims a farm-monitoring **app**; public LinkedIn articles do not name it. Ask for a demo.
 7. **Risk.** Crop insurance, **diversify crops and livestock**, stay current on sector trends. Diversification is their stated risk tool — it fights SNLB’s tomato-only block.
 8. **Harvest and remit.** Cultivate, generate income, investor receives returns. Public material does **not** name Mile 12, a selling desk, or a basket spec.
 9. **Report remotely.** e-Farming / “track from anywhere.”
@@ -279,7 +320,7 @@ Meet **David Omaghomi** at King’s Deck. Do not send the lease, the ₦8 millio
 
 1. CAC certificate, status report, and the name of the contracting company.
 2. Organogram and the CV of the person who would run SNLB’s Ogun hectare.
-3. Three reference farms (crop, ha, yield, buyer). Offer a site visit. Walk their “typical farm” checklist: on-site farmer, water, kit, store, logistics.
+3. Three reference farms (crop, ha, yield, buyer). Offer a site visit — **walk the Epe pilot** with Yisau Hammed if he is still there. Walk their “typical farm” checklist: on-site farmer, water, kit, store, logistics. Bring last twelve months of **@farmparkng** (kit on a farm, not only land flyers).
 4. How FARM-IN / FARM-OUT / e-Farming would be **rewritten** as a Cycle 1 advisory letter (Regular, 1 ha, February–April harvest, drip, Mile 12) with **no equity farm-out**.
 5. Fee quote in naira: advisory retainer; later SLA; any input margin. Confirm they will not sell the fruit.
 6. Confirmation in writing: no co-investment, no FarmPark land, no NPAT share, no livestock on the block.
@@ -310,17 +351,22 @@ SNLB still hires (or seconds) a **named farm manager on site**. FarmPark does no
 - https://www.linkedin.com/in/davidomaghomi
 - FarmPark LinkedIn articles (May 2023): *Farm Management: Tips for running an effective Farm*; *Features of a Typical Farm in Lagos*; *Finding the Perfect Farm Opportunity in Lagos*
 - MyJobMag employer page; Farm Officer ad (April 2022); BDM ad (July 2021, careers@farmpark.ng)
-- LinkedIn profiles: Katherine Mba, Yisau Hammed, Orkuma Adamu
+- LinkedIn profiles: Katherine Mba, **Yisau Hammed** (Farm Manager, Epe, Jul 2020–), Orkuma Adamu, **Paschal Adikaibe** (Farm Administrator 2019; BDM 2020–22)
+- *The Sun* (Ayo Alonge): *How investors can maximise profit in poultry farming – Adikaibe, Farm Administrator, Farm Park* — https://thesun.ng/how-investors-can-maximise-profit-in-poultry-farming-adikaibe-farm-administrator-farm-park/
+- Nairaland / Revelation Properties: Ilara, Epe “Farm Park” land listings (~2018)
+- Instagram: https://www.instagram.com/farmparkng/ — login wall from this desk; feed not scraped
 - SNLB ENTERPRISE CAC certificate, BN 6922259, 31 March 2023 (`legal/SNLB_ENTERPRISE_CAC_BN_6922259.pdf`)
 
-No FarmPark CAC portal extract was pulled. No FarmPark farm was visited. No FarmPark letter is in the SNLB data room yet.
+No FarmPark CAC portal extract was pulled. No FarmPark farm was visited. No FarmPark letter is in the SNLB data room yet. **No audited FarmPark / FarmAgro Projects Limited financials were found in the public domain.**
 
 ---
 
 ## 8. Bottom line
 
-FarmPark is a **real Lekki office** (King’s Deck, Chevron) that has, since about 2017–18, sold **land, co-investment and managed-farm returns**. Their operating method is: take a client, pick or accept a produce, put a farmer on land, irrigate and schedule, harvest, remit. Public crop talk is **fish, poultry and hatchery**. Tomato is only in scope as “whichever produce the investor desires.”
+FarmPark is a **real Lekki office** (King’s Deck, Chevron) that has, since about 2016–18, sold **land, co-investment and managed-farm returns**, kept an **Epe pilot farm**, and put a **named farm manager** on that farm (Yisau Hammed, from 2020). Their own Farm Administrator told *The Sun* they test on the pilot “so that investors’ funds are properly managed.” That is the experience this file alludes to.
 
-That method can support SNLB **if** it is rewritten as **advisory / services on SNLB’s Ogun tomato block**, with SNLB keeping land, ₦8 million, 50/50 and Mile 12. It cannot support SNLB if they farm-in your capital, farm-out equity in the 100 ha, add livestock, or sell the fruit.
+Their operating method is: take a client, pick or accept a produce, put a farmer on land, irrigate and schedule, harvest, remit. Public crop talk is **fish, poultry and hatchery**, with vegetables from 2018. Tomato is only in scope as “whichever produce the investor desires.” **No audited financials** sit in the public domain; 85% website yield and generic 30% broiler ROI are not their tomato track record.
 
-Treat the first meeting as due diligence. Get the CAC entity, a Cycle 1 advisory letter that matches the RACI in §3.1, and a farm you can walk. Close the ticks in section 4 before you pay a retainer or name them as operator in a credit file.
+That method can support SNLB **if** it is rewritten as **advisory / services on SNLB’s Ogun tomato block**, with SNLB keeping land, ₦8 million, 50/50 and Mile 12, and with the ₦8 million visibly spent on borehole, drip, seed, labour and crates (the Instagram of capital at work). It cannot support SNLB if they farm-in your capital, farm-out equity in the 100 ha, add livestock, or sell the fruit.
+
+Treat the first meeting as due diligence. Get the CAC entity, a Cycle 1 advisory letter that matches the RACI in §3.1, a walk of the Epe farm, and twelve months of Instagram/site-tour photos. Close the ticks in section 4 before you pay a retainer or name them as operator in a credit file.
