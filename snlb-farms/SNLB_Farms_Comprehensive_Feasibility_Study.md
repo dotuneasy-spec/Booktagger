@@ -35,7 +35,7 @@ A self-funding expansion from 1 hectare to 100 hectares, driven by two-cycle ann
 9. [Conclusion](#9-conclusion)
 10. [Appendices](#10-appendices)
 
-Intended farm-management partner: **FarmPark** (King’s Deck, Chevron Drive, Lekki) — an established Lekki FMC with a working Epe pilot farm and a public habit of putting investor capital into kit, labour and a farmer on site (§4.14; Appendix F). Engagement is advisory on SNLB’s land; this is not a FarmPark co-investment. Cycle 1 opening uses (₦8.0 million at August 2026 shop tickets) are in §6.11.
+Intended farm-management partner: **FarmPark** (King’s Deck, Chevron Drive, Lekki) — remaining gaps in Appendix F. Engagement is advisory on SNLB’s land; this is not a FarmPark co-investment. Cycle 1 opening uses (₦8.0 million at August 2026 shop tickets) are in §6.11.
 
 ---
 
@@ -404,56 +404,19 @@ Missed Peak timing is a farm-manager miss, not a market miss.
 
 ### 4.14 Intended farm-management partner — FarmPark (Lekki)
 
-The promoters intend to engage **FarmPark**, office at Suite 2, 3rd Floor, King’s Deck, Alternative Route off Chevron Drive, Lekki, as the farm-management company. Public identity: trading name FarmPark / farmpark.ng; LinkedIn and 2022 job ads state that **Farm Park is a trademark of FarmAgro Projects Limited**; job boards also use **FarmPark Limited**. Founding Executive Director named in public profiles: **David Omaghomi**. Contacts they publish: 0708 062 9726, care@farmpark.ng.
+The promoters intend to engage **FarmPark**, office at Suite 2, 3rd Floor, King’s Deck, Alternative Route off Chevron Drive, Lekki, as the farm-management company. Trading name FarmPark / farmpark.ng. Job boards state that **Farm Park is a trademark of FarmAgro Projects Limited** and also use **FarmPark Limited**. Founding Executive Director: **David Omaghomi**. Contacts they publish: 0708 062 9726, care@farmpark.ng.
 
 The SNLB contracting party is **SNLB ENTERPRISE** (BN 6922259) until **SNLB Farms Limited** is incorporated (§2.1). The Cycle 1 advisory letter is novated to the Ltd when the RC issues.
 
-FarmPark is engaged because they already run farms for other people’s money. That experience is used here as **operating cover for the ₦8 million kit** — borehole, drip, seed, labour, crates — not as a substitute for SNLB’s tomato P&L. Their public 85% “annual yield” and 500-acre website tiles stay out of the model.
+#### How FarmPark operates
 
-#### Public track record (what can be sourced)
+They sell three products in one loop: **farmland acquisition**, **co-investment** (share profits and risk), and **expert farm management** so the client does not farm. Client-services staff close after **site tours**. Tomato is in scope only as produce the client chooses. Website figures (500 acres, 85% “annual yield”) are unverified and are **not** used in this model.
 
-FarmPark has been trading as a Lekki agribusiness since about **2016–18** (Farm Administrator: established 2016; LinkedIn company page: 2018; founder CV: FarmPark from March 2017). The method they describe in public is the one an investor wants to see: **test on a pilot farm, then put a farmer, water, kit and a harvest schedule on the client’s land**, so capital is spent on production rather than on a brochure.
-
-| What they have actually shown | Source | What it is (and is not) |
-| --- | --- | --- |
-| **Epe pilot farm** — inputs and methods are run there first “to be sure that investors’ funds are properly managed” | *The Sun*, Farm Administrator **Paschal Adikaibe** (FarmPark Aug 2019–Mar 2022; interview language matches the 2019–20 border-closure period) | A working test site, not an audited tomato yield |
-| **Named farm manager on the Epe farm** since July 2020 | LinkedIn: **Yisau Hammed**, Farm Manager, FarmPark Epe (poultry supervisor → farm officer → farm manager) | Someone lives on a FarmPark farm. He is not, on that CV, a drip-tomato superintendent |
-| **Vegetable production from 2018**, plus farm-management for other people’s land in the same year | Same *Sun* interview | Crop work exists alongside poultry; no hybrid cultivar or t/ha is published |
-| **~250 poultry farmers** since inception; **~750 farmers** in all (his estimate) | Same *Sun* interview | Management’s own count — not a signed reference list, not SNLB’s Mile 12 buyer log |
-| **Broiler production and processing** for meat; NAIC insurance of capital; “we haven’t ever sought for loans” | Same *Sun* interview | Operating culture (insure the kit; grow from internal cash). The **30% broiler ROI** he quoted is generic poultry advice, **not** a FarmPark audited margin and **not** used in this tomato model |
-| Investor **site inspections / site tours** before money moves | Client-services JD (**Katherine Mba**); LinkedIn land/co-invest posts | The visual habit: walk the land, see the pens and ponds, then commit. SNLB copies that for the Ogun hectare |
-| Mixed **crop, poultry, fish and hatchery** in Lagos and Ibadan | LinkedIn company posts; 2022 Farm Officer JD (crops, poultry, staff and **financial documents**) | They already read farm books. Those books have not been published |
-| Ilara, Epe **Farm Park** land product (plots, “we farm on your behalf and remit every 4–6 months”) | Nairaland / Revelation Properties listings (~2018) | Related-party **land sale**, not a tomato drip P&L. Do not treat plot prices as FarmPark farm profit |
-
-**Financials hunt (August 2026).** No audited financial statements, management accounts, tax clearance, or filed CAC financials for FarmPark, FarmPark Limited or FarmAgro Projects Limited were found in the public domain. Website tiles (500 acres, 75 co-investors, 85% “annual yield”, US$12.99–$42.99 “plans”) read as **template copy** and are discarded. Indian “Farmagro” companies are unrelated. Until they put a reference-farm pack on letterhead — crop, hectares, last two cycle yields, buyer, and permission to visit — the track record that can be used in this study is **operating presence**, not a tomato NPV.
-
-What that presence is still worth: an FMC that has, for the better part of a decade, placed farmers, insured capital, tested inputs at Epe before they go to a client, and taken urban investors onto a working farm. That is the cover for SNLB’s Cycle 1 spend. It is not a reason to farm-in the ₦8 million as a FarmPark co-investment.
-
-#### Instagram and capital-at-work (what “good use” looks like)
-
-Public Instagram handles in their orbit (**@farmparkng** / **farmpark.ng**) sit behind a login wall from this desk; captions were not scraped. The **ideas** that already sit in their own operating notes, site-tour practice and e-Farming product are the ones that show money became kit, not a slide:
-
-| Visual (the Instagram language of a managed farm) | Why an investor trusts it | SNLB Cycle 1 equivalent (₦8 million, §6.11) |
-| --- | --- | --- |
-| Borehole / tank / pump on a farm, not a Lekki office | Water is the first CapEx that cannot be faked | A1–A2 — ₦1.15 million borehole + pump + tank |
-| Drip laterals on beds, fertigation tank, filter | Intensive horticulture, not a rain-fed plot | A3 — ₦950,000 drip + install |
-| Nursery trays, shade, hybrid seed bags | The cycle has actually started | Seed/nursery ₦1.02 million + nursery hardware |
-| Farmer and labour gang **on the land** (not a remote dashboard) | Their own rule: a typical farmer has no day off | On-site manager ₦420,000; seasonal labour ₦612,000 |
-| Crates, graded fruit, vehicle at the farm gate | Harvest is real; logistics exist | 40 crates ₦320,000; Mile 12 haul ₦360,000 |
-| Investor or client **standing on the farm** (site tour) | They already close after walking the site | Pre-ops visit to Epe **and** to SNLB’s Ogun hectare before the retainer is paid |
-| Weekly photo pack (their **e-Farming** product) | Diaspora / busy capital can see the week’s work | Mandatory weekly pack to SNLB from transplant one — photos of drip, labour, IPM, crates. e-Farming is reporting, not the operator |
-
-FarmPark’s ₦150,000 Cycle 1 retainer buys that supervision: spec the drip, see the Epe method applied on SNLB’s hectare, and keep the photo pack honest. It does **not** buy a share of NPAT, a FarmPark plot, or poultry on the tomato block.
-
-#### How FarmPark operates (their public model)
-
-They sell three products in one loop: **farmland acquisition**, **co-investment** (share profits and risk), and **expert farm management** so the client does not farm. LinkedIn About: they select land, cultivate **whichever produce the investor desires** (crop or ranch), and generate income for that investor. Founder packages: **FARM-IN** (urban/diaspora capital enters a project), **FARM-OUT** (they or a placed farmer operate the land), **e-Farming** (track from anywhere). Client-services staff close after **site tours**. A 2022 Farm Officer was hired to analyse **crops, poultry, staff and finances** and to write planting/harvest schedules — mixed crop-and-livestock, not a tomato drip SLA.
-
-Their own May 2023 operating notes: plan and budget (crop, irrigation, pest, marketing); put a **farmer on site every day**; kit from hoe to tractor/sprayer; a store; logistics to market; soil tests; crop insurance; **diversify into livestock** as risk management. Public posts that name a sector name **fish, poultry and hatchery** in Lagos/Ibadan. Tomato is only in scope as client-chosen produce. Website figures (500 acres, 85% “annual yield”) are unverified and are **not** used in this model. The Epe test-first rule and the named farm manager are the parts of that model that belong on SNLB’s Ogun block. The co-invest / land-sale / livestock-diversify parts do not.
+The default FarmPark product (they bring land and co-investors, pick the sector, remit returns) is **not** the engagement. FarmPark is useful only as a **contractor on SNLB’s Ogun block**. Livestock diversification as risk management does not apply: this block is tomato only.
 
 #### How that sits on this tomato farm
 
-SNLB’s crop, calendar, land and P&L are already locked. FarmPark is useful only as a **contractor on SNLB’s Ogun block**. The default FarmPark product (they bring land and co-investors, pick the “hottest” sector, remit returns) is **not** the engagement.
+SNLB’s crop, calendar, land and P&L are already locked.
 
 | Tomato-farm activity | SNLB | On-site farm manager | FarmPark (intended C1–2 advisory) |
 | --- | --- | --- | --- |
@@ -464,7 +427,7 @@ SNLB’s crop, calendar, land and P&L are already locked. FarmPark is useful onl
 | 50/50 NPAT | Stays inside SNLB | — | Naira retainer / later SLA; **no profit share** |
 | Mechanization at 5 / 25 / 60 ha; +45 ha | Accountable | Coordinates | Optional SLA from C3; written mobilisation before C4 |
 
-e-Farming is a weekly photo pack, not the operator. If they cannot show a tomato or intensive-vegetable farm you can walk, keep them as land/admin advisor and hire the agronomist separately.
+A weekly photo pack is reporting, not the operator. If they cannot show a tomato or intensive-vegetable farm you can walk, keep them as land/admin advisor and hire the agronomist separately.
 
 **Engagement shape.** Cycles 1–2 remain Stage 0: FarmPark on **advisory** terms; a named farm manager on the Ogun site. A mechanization SLA is still required before Cycle 4. The full operating file, RACI and gap list sit in **Appendix F**. Until CAC papers, a Cycle 1 advisory letter and a reference-farm visit are in the data room, FarmPark is a **named intention**, not a closed CP.
 
@@ -778,7 +741,7 @@ Regular production **₦3.4 million** plus cash that still leaves the account be
 | Pre-ops (bank, counsel memo on option) | 64,000 | BN 6922259 on file; Ltd conversion is extra |
 | **Working capital** | **5,000,000** | |
 
-FarmPark’s ₦150,000 is a **naira retainer**, not a slice of NPAT. It pays the established FMC to apply their Epe test-first habit to SNLB’s hectare so the rest of the ₦8 million is visibly kit, seed and labour (§4.14).
+FarmPark’s ₦150,000 is a **naira retainer**, not a slice of NPAT.
 
 #### 6.11.4 One-page uses (sums to ₦8,000,000)
 
@@ -1036,7 +999,7 @@ NIHORT production guidance and HortiTom4/5 notes. Olam-Caraway public yields. Mi
 | Farmer counts they quote | ~250 poultry farmers; ~750 farmers in all — **management estimate**, not audited. Vegetable production and third-party farm management from **2018**. |
 | Audited financials | **None found** (FarmPark / FarmPark Limited / FarmAgro Projects Limited). No filed P&L, tax clearance or tomato t/ha on letterhead. |
 | How they operate | Land sale + co-investment + managed farm. FARM-IN / FARM-OUT / e-Farming. Place a farmer, schedule plant/harvest, irrigate, remit returns. Mixed **crop and poultry/fish**. Tomato only as “produce the investor desires.” Site tours before money moves. |
-| Instagram / capital-at-work | @farmparkng behind login from this desk. Use their own visuals: Epe farm, site tours, weekly e-Farming pack. Map those to SNLB’s ₦8m kit (§4.14). |
+| Instagram / capital-at-work | @farmparkng behind login from this desk. Use their own visuals: Epe farm, site tours, weekly e-Farming pack. |
 | Tomato / drip / Mile 12 SOP | **Not published.** No cultivar, no 20 t/ha, no Feb–Apr Regular window, no Mile 12 floor. |
 | Risk method they preach | Diversify into **livestock** — conflicts with a tomato-only 100 ha block |
 | Website claims (500 acres, 85% yield, $12.99 plans, foreign staff names) | Treat as **template / unverified**. Do not use in the model. Generic broiler “~30% ROI” in the *Sun* interview is **not** FarmPark’s tomato track record. |
@@ -1073,6 +1036,6 @@ Walk away if they will only transact as an unnamed “FarmPark,” insist on co-
 
 | Version | Date | Notes |
 | --- | --- | --- |
-| Comprehensive Feasibility Study | August 2026 | §2.1 incorporated vehicle: SNLB ENTERPRISE BN 6922259 and proposed SNLB Farms Limited; Cycle 1 ₦8m uses; FarmPark advisory, public track record and capital-at-work visuals (§4.14) |
+| Comprehensive Feasibility Study | August 2026 | §2.1 incorporated vehicle: SNLB ENTERPRISE BN 6922259 and proposed SNLB Farms Limited; Cycle 1 ₦8m uses; FarmPark advisory |
 
 Prepared for SNLB Farms. Not for general circulation. Replace planning tables with live quotations and the site report before any binding credit application.
