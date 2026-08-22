@@ -1,4 +1,5 @@
-import { getStore, OFFERS } from "../data/catalog";
+import { getOffers } from "../data/catalog";
+import { getStore } from "./registry";
 import type { ClickEvent, MerchantLead, PriceAlert } from "./types";
 
 const clicks: ClickEvent[] = [];
@@ -10,7 +11,7 @@ function id(prefix: string): string {
 }
 
 export function recordClick(offerId: string, source = "web"): ClickEvent | null {
-  const offer = OFFERS.find((item) => item.id === offerId);
+  const offer = getOffers().find((item) => item.id === offerId);
   if (!offer) return null;
   const store = getStore(offer.storeId);
   const event: ClickEvent = {
@@ -105,7 +106,7 @@ export function monetizationSnapshot() {
 }
 
 export function outboundUrl(offerId: string, source = "web"): string | null {
-  const offer = OFFERS.find((item) => item.id === offerId);
+  const offer = getOffers().find((item) => item.id === offerId);
   if (!offer) return null;
   const tagged = new URL(offer.url);
   tagged.searchParams.set("utm_source", "oja");

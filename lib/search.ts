@@ -1,11 +1,7 @@
-import {
-  OFFERS,
-  PRODUCTS,
-  getStore,
-  offersForProduct,
-} from "../data/catalog";
+import { PRODUCTS, getOffers, offersForProduct } from "../data/catalog";
 import { extractProduct, productToExtracted } from "./extract";
 import { scoreMatch } from "./match";
+import { getStore, liveStores } from "./registry";
 import type {
   Offer,
   ProductSearchHit,
@@ -61,7 +57,7 @@ function applyOfferFilters(offers: Offer[], filters: SearchFilters): Offer[] {
 
 export function searchProducts(query: string, filters: SearchFilters = {}): SearchResult {
   const extracted = extractProduct(query.trim() || "popular deals");
-  const filteredOffers = applyOfferFilters(OFFERS, filters);
+  const filteredOffers = applyOfferFilters(getOffers(), filters);
 
   const hits: ProductSearchHit[] = PRODUCTS.filter((product) => {
     if (filters.category && product.category !== filters.category) return false;
@@ -125,4 +121,23 @@ export function suggest(query: string, limit = 6) {
     lowestPrice: hit.lowestPrice,
     score: hit.score,
   }));
+}
+
+export function suggestSites(query: string, limit = 5) {
+  return liveStores()
+    .filter((store) => {
+      if (!query.trim()) return true;
+      const hay = `${store.name} ${store.domain} ${store.kind}`.toLowerCase();
+      return query
+        .toLowerCase()
+        .split(/\s+/)
+        .every((token) => hay.includes(token));
+    })
+    .slice(0, limit)
+    .map((store) => ({
+      id: store.id,
+      name: store.name,
+      domain: store.domain,
+      status: store.status,
+    }));
 }

@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { CATEGORIES, PRODUCTS, STORES } from "../data/catalog";
+import { CATEGORIES, PRODUCTS } from "../data/catalog";
+import { directoryStats, liveStores } from "../lib/registry";
 import { SearchBox } from "../components/SearchBox";
 import { ProductCard } from "../components/ProductCard";
 import { BoltIcon, ShieldIcon, TagIcon } from "../components/icons";
@@ -11,6 +12,8 @@ export default function HomePage() {
     .filter((hit) => hit.product.popular)
     .slice(0, 4);
   const samples = ["Infinix Note 40 Pro 256", "Firman 2.5kVA", "iPhone 13 128 UK used", "Oraimo FreePods 4"];
+  const live = liveStores();
+  const stats = directoryStats();
 
   return (
     <div className="pb-16">
@@ -40,18 +43,25 @@ export default function HomePage() {
           </div>
         </div>
         <div className="card rounded-3xl p-6">
-          <p className="text-xs uppercase tracking-[0.16em] text-muted">Stores on the engine</p>
+          <p className="text-xs uppercase tracking-[0.16em] text-muted">Nigerian ecommerce collection</p>
+          <p className="mt-3 text-3xl font-semibold">{stats.total} sites</p>
+          <p className="text-sm text-muted">
+            {stats.live} live on compare · {stats.feedReady} feed-ready
+          </p>
           <ul className="mt-4 space-y-3">
-            {STORES.map((store) => (
+            {live.map((store) => (
               <li className="flex items-center justify-between text-sm" key={store.id}>
-                <span className="flex items-center gap-2">
+                <Link className="flex items-center gap-2 hover:text-green" href={`/stores/${store.id}`}>
                   <span className="h-2.5 w-2.5 rounded-full" style={{ background: store.color }} />
                   {store.name}
-                </span>
-                <span className="text-muted">{Math.round(store.affiliateRate * 100)}% affiliate</span>
+                </Link>
+                <span className="text-muted">live</span>
               </li>
             ))}
           </ul>
+          <Link className="mt-4 inline-block text-sm text-green" href="/stores">
+            Search the full directory
+          </Link>
         </div>
       </section>
 

@@ -1,6 +1,6 @@
 # Oja
 
-A Nigerian price-comparison engine. Search once, match the same product across Jumia, Konga, Jiji, Slot, Kara, and Pointek, then send the shopper out through a tracked buy link.
+A Nigerian price-comparison engine. Search once, match the same product across a **directory of Nigerian ecommerce sites**, then send the shopper out through a tracked buy link.
 
 This repository is a working product concept: matching engine, sample Naija catalog, comparison UI, and the monetization rails (affiliate redirects, sponsored slots, alerts, merchant plans).
 
@@ -30,9 +30,10 @@ Merchant plans live on `/merchants`. Leads POST to `/api/leads`. Wire Paystack o
 
 - Next.js 16 App Router, TypeScript, Tailwind 4
 - In-process catalog and matching (`lib/match.ts`, `lib/search.ts`)
-- Sample catalog in `data/catalog.ts` — ready to swap for merchant feeds or a licensed crawler
+- Ecommerce directory in `data/directory.ts` — marketplaces, specialists, pharmacies, grocers, auto, B2B
+- Classifier + integrate API (`lib/classify-site.ts`, `lib/registry.ts`) so a new `.ng` shop can be added without a code change
 
-The catalog is synthetic but priced and titled like Nigerian storefronts. Do not scrape stores from this app until you have a feed agreement or robots-compliant pipeline.
+The product catalog is synthetic but titled like Nigerian storefronts. Connecting a store does **not** scrape it. Oja classifies the URL, opens a feed slot, and attaches sample offers on overlapping aisles until a merchant file or affiliate API is wired.
 
 ## Run
 
@@ -55,10 +56,15 @@ Useful queries:
 
 - `GET /api/search?q=`
 - `GET /api/suggest?q=`
+- `GET /api/stores?q=&kind=&status=`
+- `POST /api/stores/classify` `{ url }`
+- `POST /api/stores/integrate` `{ url, name? }`
 - `POST /api/alerts`
 - `POST /api/leads`
 - `GET /api/stats`
 - `GET /go/:offerId?src=`
+
+Directory UI: `/stores` and `/stores/[id]`.
 
 ## What to build next
 

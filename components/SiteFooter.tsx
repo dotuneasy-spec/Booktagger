@@ -14,6 +14,9 @@ export function SiteFooter() {
           <p className="text-xs uppercase tracking-[0.16em] text-muted">Product</p>
           <ul className="mt-3 space-y-2 text-sm">
             <li>
+              <Link href="/stores">Ecommerce directory</Link>
+            </li>
+            <li>
               <Link href="/deals">Today&apos;s deals</Link>
             </li>
             <li>

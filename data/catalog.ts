@@ -4,65 +4,10 @@ import type {
   Offer,
   PricePoint,
   Store,
-  StoreId,
 } from "../lib/types";
+import { SEED_SITES } from "./directory";
 
-export const STORES: Store[] = [
-  {
-    id: "jumia",
-    name: "Jumia",
-    domain: "jumia.com.ng",
-    color: "#F68B1E",
-    affiliateRate: 0.06,
-    featured: true,
-    blurb: "Nigeria's largest marketplace. Frequent flash sales, mixed seller quality.",
-  },
-  {
-    id: "konga",
-    name: "Konga",
-    domain: "konga.com",
-    color: "#ED017F",
-    affiliateRate: 0.05,
-    featured: false,
-    blurb: "Strong on electronics and household goods, KongaPay checkout.",
-  },
-  {
-    id: "jiji",
-    name: "Jiji",
-    domain: "jiji.ng",
-    color: "#00B53F",
-    affiliateRate: 0.03,
-    featured: false,
-    blurb: "Classifieds. Often cheapest, especially UK used — verify the seller.",
-  },
-  {
-    id: "slot",
-    name: "Slot",
-    domain: "slot.ng",
-    color: "#E30613",
-    affiliateRate: 0.04,
-    featured: true,
-    blurb: "Lagos electronics specialist. Competitive phones and laptops.",
-  },
-  {
-    id: "kara",
-    name: "Kara",
-    domain: "kara.com.ng",
-    color: "#1A73E8",
-    affiliateRate: 0.04,
-    featured: false,
-    blurb: "Nationwide delivery on phones, appliances, and accessories.",
-  },
-  {
-    id: "pointek",
-    name: "Pointek",
-    domain: "pointekonline.com",
-    color: "#111827",
-    affiliateRate: 0.035,
-    featured: false,
-    blurb: "Computer Village energy. Sharp prices on gadgets if they have stock.",
-  },
-];
+const LIVE_AT_BOOT: Store[] = SEED_SITES.filter((site) => site.status === "live");
 
 export const CATEGORIES: Array<{
   id: CategoryId;
@@ -484,7 +429,7 @@ const OFFER_SEEDS: OfferSeed[] = [
   { productId: "hollandia-yoghurt", basePrice: 9800, previousDelta: 600 },
 ];
 
-const STORE_PRICE_BIAS: Record<StoreId, number> = {
+const STORE_PRICE_BIAS: Record<string, number> = {
   jumia: 0.03,
   konga: 0.015,
   jiji: -0.11,
@@ -493,7 +438,10 @@ const STORE_PRICE_BIAS: Record<StoreId, number> = {
   pointek: -0.04,
 };
 
-const TITLE_STYLES: Record<StoreId, (product: CanonicalProduct, condition: Offer["condition"]) => string> = {
+const TITLE_STYLES: Record<
+  string,
+  (product: CanonicalProduct, condition: Offer["condition"]) => string
+> = {
   jumia: (product, condition) =>
     `${product.brand} ${product.model} ${specTail(product)} - ${condition === "new" ? "Official Store" : conditionLabel(condition)}`,
   konga: (product, condition) =>
@@ -518,6 +466,10 @@ function specTail(product: CanonicalProduct): string {
   if (product.attributes.capacityKva) parts.push(`${product.attributes.capacityKva}kVA`);
   if (product.attributes.screenInches) parts.push(`${product.attributes.screenInches}"`);
   return parts.join(" ");
+}
+
+function defaultTitle(product: CanonicalProduct, condition: Offer["condition"]): string {
+  return `${product.title} ${conditionLabel(condition)}`;
 }
 
 function compactSpecs(product: CanonicalProduct): string {
@@ -546,7 +498,7 @@ function buildOffers(): Offer[] {
     const product = PRODUCTS.find((item) => item.id === seed.productId);
     if (!product) continue;
 
-    for (const store of STORES) {
+    for (const store of LIVE_AT_BOOT) {
       const includeUk =
         product.category === "phones" &&
         (store.id === "jiji" || store.id === "pointek") &&
@@ -555,7 +507,9 @@ function buildOffers(): Offer[] {
       const condition: Offer["condition"] = includeUk && store.id === "jiji" ? "uk-used" : "new";
       const conditionBias = condition === "uk-used" ? 0.78 : 1;
       const jitter = ((hash(`${seed.productId}-${store.id}`) % 17) - 8) / 100;
-      const price = Math.round(seed.basePrice * (1 + STORE_PRICE_BIAS[store.id] + jitter) * conditionBias);
+      const price = Math.round(
+        seed.basePrice * (1 + (STORE_PRICE_BIAS[store.id] ?? 0) + jitter) * conditionBias,
+      );
 
       const skipPointek = store.id === "pointek" && ["beauty", "groceries", "fashion"].includes(product.category);
       if (skipPointek) continue;
@@ -567,7 +521,7 @@ function buildOffers(): Offer[] {
         id: `${product.id}-${store.id}-${condition}`,
         productId: product.id,
         storeId: store.id,
-        title: TITLE_STYLES[store.id](product, condition),
+        title: (TITLE_STYLES[store.id] ?? defaultTitle)(product, condition),
         priceNgn: price,
         previousPriceNgn: seed.previousDelta ? price + seed.previousDelta : undefined,
         url: `https://${store.domain}/catalog/${product.slug}`,
@@ -589,12 +543,25 @@ function buildOffers(): Offer[] {
   return offers;
 }
 
-export const OFFERS: Offer[] = buildOffers();
+export const SEED_OFFERS: Offer[] = buildOffers();
+export const OFFERS = SEED_OFFERS;
 
-export function getStore(id: StoreId): Store {
-  const store = STORES.find((item) => item.id === id);
-  if (!store) throw new Error(`Unknown store ${id}`);
-  return store;
+const runtimeOffers: Offer[] = [];
+
+export function addRuntimeOffers(offers: Offer[]) {
+  for (const offer of offers) {
+    if (!runtimeOffers.some((item) => item.id === offer.id) && !SEED_OFFERS.some((item) => item.id === offer.id)) {
+      runtimeOffers.push(offer);
+    }
+  }
+}
+
+export function getOffers(): Offer[] {
+  return [...SEED_OFFERS, ...runtimeOffers];
+}
+
+export function basePriceFor(productId: string): number | undefined {
+  return OFFER_SEEDS.find((seed) => seed.productId === productId)?.basePrice;
 }
 
 export function getProduct(idOrSlug: string): CanonicalProduct | undefined {
@@ -602,7 +569,7 @@ export function getProduct(idOrSlug: string): CanonicalProduct | undefined {
 }
 
 export function offersForProduct(productId: string): Offer[] {
-  return OFFERS.filter((offer) => offer.productId === productId);
+  return getOffers().filter((offer) => offer.productId === productId);
 }
 
 export function priceHistoryForProduct(productId: string): PricePoint[] {

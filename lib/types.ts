@@ -1,6 +1,6 @@
 export type Condition = "new" | "uk-used" | "fairly-used";
 
-export type StoreId = "jumia" | "konga" | "jiji" | "slot" | "kara" | "pointek";
+export type StoreId = string;
 
 export type CategoryId =
   | "phones"
@@ -12,14 +12,50 @@ export type CategoryId =
   | "fashion"
   | "groceries";
 
+export type SiteKind =
+  | "marketplace"
+  | "classifieds"
+  | "electronics"
+  | "grocery"
+  | "fashion"
+  | "beauty"
+  | "pharmacy"
+  | "power"
+  | "home"
+  | "auto"
+  | "print"
+  | "b2b"
+  | "social-commerce";
+
+export type IntegrationStatus = "live" | "feed-ready" | "pending" | "watchlist";
+
+export type IntegrationMethod =
+  | "affiliate-api"
+  | "product-feed"
+  | "csv"
+  | "manual"
+  | "unassigned";
+
 export type Store = {
   id: StoreId;
   name: string;
   domain: string;
+  homepage: string;
   color: string;
   affiliateRate: number;
   featured: boolean;
   blurb: string;
+  kind: SiteKind;
+  categories: CategoryId[];
+  city: string;
+  nationwide: boolean;
+  platform: "custom" | "shopify" | "woocommerce" | "jiji" | "marketplace";
+  status: IntegrationStatus;
+  integrationMethod: IntegrationMethod;
+  ecommerceSignals: string[];
+  checkout: string[];
+  addedAt: string;
+  source: "seed" | "submitted";
 };
 
 export type ProductAttributes = {

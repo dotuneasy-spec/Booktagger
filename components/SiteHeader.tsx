@@ -14,13 +14,16 @@ export function SiteHeader({ compact = false }: { compact?: boolean }) {
           </div>
         ) : null}
         <nav className="ml-auto flex items-center gap-4 text-sm">
+          <Link className="hover:text-green" href="/stores">
+            Stores
+          </Link>
           <Link className="hover:text-green" href="/deals">
             Deals
           </Link>
           <Link className="hover:text-green" href="/how-it-works">
             Matching
           </Link>
-          <Link className="hover:text-green" href="/merchants">
+          <Link className="hidden hover:text-green sm:inline" href="/merchants">
             For merchants
           </Link>
         </nav>

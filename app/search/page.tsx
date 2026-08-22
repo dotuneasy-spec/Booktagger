@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { CATEGORIES, STORES } from "../../data/catalog";
+import { CATEGORIES } from "../../data/catalog";
+import { liveStores } from "../../lib/registry";
 import { ProductCard } from "../../components/ProductCard";
 import { SearchBox } from "../../components/SearchBox";
 import { searchProducts } from "../../lib/search";
@@ -69,7 +70,7 @@ export default async function SearchPage({
       </div>
 
       <div className="mt-5 flex flex-wrap gap-2 text-sm">
-        {STORES.map((store) => (
+        {liveStores().map((store) => (
           <Link
             className={`chip rounded-full px-3 py-1 ${filters.storeId === store.id ? "border-green bg-green/10" : ""}`}
             href={href({ store: filters.storeId === store.id ? undefined : store.id })}

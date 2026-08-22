@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getStore } from "../data/catalog";
+import { getStore } from "../lib/registry";
 import { conditionLabel } from "../lib/copy";
 import { formatNaira } from "../lib/money";
 import type { RankedOffer } from "../lib/types";

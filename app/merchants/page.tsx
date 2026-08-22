@@ -1,4 +1,4 @@
-import { STORES } from "../../data/catalog";
+import { liveStores } from "../../lib/registry";
 import { MerchantForm } from "../../components/MerchantForm";
 import { monetizationSnapshot } from "../../lib/affiliate";
 import { formatNaira } from "../../lib/money";
@@ -63,7 +63,7 @@ export default function MerchantsPage() {
             Est. commission {formatNaira(snapshot.estimatedCommission)} · {snapshot.leads} leads
           </p>
           <ul className="mt-4 space-y-2 text-sm">
-            {STORES.map((store) => (
+            {liveStores().map((store) => (
               <li className="flex justify-between" key={store.id}>
                 <span>{store.name}</span>
                 <span className="text-muted">{Math.round(store.affiliateRate * 100)}% take</span>
