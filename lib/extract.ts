@@ -115,11 +115,15 @@ function parseMemory(text: string): { ramGb?: number; storageGb?: number } {
   const ramFromPair = values.find((value) => value <= 32);
   const storageFromPair = values.find((value) => value >= 64);
 
+  const bareStorage = text.match(/\b(64|128|256|512|1024)\b/);
+
   return {
     ramGb: ramKeyword ? Number(ramKeyword[1]) : values.length >= 2 ? ramFromPair : undefined,
     storageGb: romKeyword
       ? Number(romKeyword[1])
-      : storageFromPair ?? (values.length === 1 && values[0] >= 64 ? values[0] : undefined),
+      : storageFromPair ??
+        (values.length === 1 && values[0] >= 64 ? values[0] : undefined) ??
+        (bareStorage ? Number(bareStorage[1]) : undefined),
   };
 }
 

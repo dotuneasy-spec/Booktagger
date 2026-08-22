@@ -5,6 +5,13 @@ import { clusterListings, sameProduct, scoreMatch } from "./match";
 import { searchProducts } from "./search";
 
 describe("product matching", () => {
+  it("reads a bare 256 as storage on a Naija phone query", () => {
+    const extracted = extractProduct("infinix note 40 pro 256");
+    assert.equal(extracted.storageGb, 256);
+    assert.equal(extracted.brand, "infinix");
+    assert.equal(extracted.family, "note");
+  });
+
   it("treats messy A55 titles as the same phone", () => {
     const query = extractProduct("samsung a55 256gb");
     const jumia = extractProduct("Samsung Galaxy A55 5G 8/256 - Official Store");
