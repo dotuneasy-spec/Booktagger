@@ -2,9 +2,13 @@
 
 An English translation of Giovanni Verga’s novel *Eros* (first published 1874–75), prepared from the public-domain fifth Treves edition (Milan, 1884).
 
-The typeset book is:
+## Download
 
-- [`eros-translation/Eros_Giovanni_Verga_English.pdf`](eros-translation/Eros_Giovanni_Verga_English.pdf)
+**[Download the English PDF](https://github.com/dotuneasy-spec/Booktagger/raw/cursor/translate-eros-english-pdf-51a7/Eros_English.pdf)**
+
+Direct file: [`Eros_English.pdf`](Eros_English.pdf) (246 pages, ~1 MB)
+
+The same book also lives at [`eros-translation/Eros_Giovanni_Verga_English.pdf`](eros-translation/Eros_Giovanni_Verga_English.pdf).
 
 Rebuild from the chapter files with:
 
