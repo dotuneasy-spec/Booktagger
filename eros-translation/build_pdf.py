@@ -42,10 +42,9 @@ def md_to_paragraphs(text: str) -> tuple[str, list[str]]:
 
 def p_html(text: str, first: bool = False) -> str:
     t = html.escape(text)
-    # light typography
     t = t.replace("---", "—").replace("--", "—")
     t = t.replace("...", "…")
-    t = t.replace("&quot;", "“", 1) if False else t
+    t = re.sub(r"\*(.+?)\*", r"<em>\1</em>", t)
     cls = ' class="drop"' if first else ""
     return f"<p{cls}>{t}</p>"
 
@@ -267,7 +266,7 @@ def build_html() -> str:
     parts.append("</div>")
 
     parts.append("<div class='colophon'>")
-    parts.append("<p>Original Italian text © public domain. First published 1874–75; this translation follows the fifth edition, Milan, Fratelli Treves, 1884, as transcribed on Wikisource.</p>")
+    parts.append("<p>The original Italian text is in the public domain. First published 1874–75; this translation follows the fifth edition, Milan, Fratelli Treves, 1884, as transcribed on Wikisource.</p>")
     parts.append("<p>English translation prepared 2026. The modern critical apparatus of later copyrighted Italian editions is not included.</p>")
     parts.append("</div>")
 
