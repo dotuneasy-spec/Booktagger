@@ -300,7 +300,6 @@ COVER = """
     <dt>Planning case NPV</dt><dd>₦5.78 billion at 18% (Regular first, non-glut, 5-year, no TV)</dd>
     <dt>Opening capital</dt><dd>₦8.0 million (₦3.0m CapEx + ₦5.0m Cycle 1 working capital)</dd>
     <dt>Includes</dt><dd>SWOT · ESG · charts · NPV/IRR · three scenarios · Cycle 1 ₦8m uses · optional ₦80m facility</dd>
-    <dt>Download</dt><dd>github.com/dotuneasy-spec/Booktagger — SNLB_Farms_Comprehensive_Feasibility_Study.pdf</dd>
   </dl>
   <div class="foot">
     <span>Ogun State  →  Mile 12, Lagos</span>

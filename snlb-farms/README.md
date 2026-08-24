@@ -2,9 +2,6 @@
 
 Commercial tomato production on a leased 100-hectare master block in Ogun State, Nigeria, supplying Mile 12 International Market, Lagos.
 
-**Download the circulating study (PDF):**  
-https://github.com/dotuneasy-spec/Booktagger/raw/cursor/snlb-bankable-feasibility-3a17/snlb-farms/SNLB_Farms_Comprehensive_Feasibility_Study.pdf
-
 | Document | Description |
 | --- | --- |
 | [SNLB_Farms_Comprehensive_Feasibility_Study.pdf](./SNLB_Farms_Comprehensive_Feasibility_Study.pdf) | Print-ready A4 study (charts, three scenarios, DCF) — the document to circulate |
