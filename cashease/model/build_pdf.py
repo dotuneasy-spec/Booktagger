@@ -209,9 +209,9 @@ COVER = """
   <p class="eyebrow">Confidential  ·  Promoters, advisors, banks and DFIs</p>
   <h1>CashEase Nigeria<span>Feasibility Study</span></h1>
   <div class="rule"></div>
-  <p class="lede">Owned multi-service cash kiosks on everyday streets — petty traders, mallams, bus waits. Note-breaking, POS cash-out, airtime and bills. Pain follows people; availability is ATM-like. The company owns the machines; a bank supplies small notes and settlement. One machine per counted pitch. Raise ₦1.85 billion for 350 kiosks, then fund 2,000. National hubs follow a dense first belt.</p>
+  <p class="lede">Owned multi-service cash kiosks on everyday streets — petty traders, mallams, bus waits. Note-breaking, POS cash-out, airtime and bills. Pain follows people; availability is ATM-like. The stall’s offer is growth: keep the sale, then restock, then credit. The company owns the machines; a bank supplies small notes and settlement. One machine per counted pitch. Raise ₦1.85 billion for 350 kiosks, then fund 2,000. National hubs follow a dense first belt.</p>
   <dl>
-    <dt>Prepared</dt><dd>August 2026  ·  v2.4</dd>
+    <dt>Prepared</dt><dd>August 2026  ·  v2.5</dd>
     <dt>Horizon</dt><dd>6 years (2027–2032)  ·  350 → 2,000 → earned scale</dd>
     <dt>Opening equity</dt><dd>₦1.85 billion for 350 kiosks (planning case)</dd>
     <dt>Planning unit</dt><dd>180 tx/day  ·  ₦100 blended fee  ·  break-even 89 tx/day</dd>
