@@ -10,7 +10,7 @@ CashEase deploys owned kiosks wherever ordinary people already spend cash in dai
 | Field | Detail |
 | --- | --- |
 | Working name | CashEase Nigeria Ltd (legal name to be confirmed) |
-| Prepared | August 2026 · v2.7 |
+| Prepared | August 2026 · v2.8 |
 | Horizon | Year 1–Year 6 (2027–2032) |
 | Currency | Nigerian naira (₦), nominal |
 | Planning case | 180 tx/day, 92% uptime, ₦100 blended fee, bank cash from Year 2 |
@@ -49,7 +49,7 @@ Nigeria’s last mile still runs on cash. The customer is **everyone who spends 
 **The business, in one page**
 
 1. **Own 100% of the kiosks.** They are company assets and later collateral.
-2. **Sell a bundle.** Note-breaking is the reason to stop; POS cash-out, airtime and bills pay the rent. The stall’s later offer is a **platform**: restock, goods on credit, BNPL — only after we know them.
+2. **Sell a bundle, then a stall OS.** Note-breaking is the reason to stop; POS, airtime and bills pay the rent. The destination is an **inclusive, holistic trade platform** (cash → restock → goods on credit / BNPL) for stalls Omni-class apps skip. Only after we know them.
 3. **Follow people on everyday streets.** Petty-trade rows, mallam spots, bus waits and park edges — not only named mega-nodes. One machine per counted pad. Dense coverage in a belt, like ATMs, so the habit forms.
 4. **Rent space like any shop.** Ordinary leases. Hosts get rent and maybe 5–10% of that site’s net.
 5. **Partner with a bank for cash**, after live volumes: they load small notes and settle POS; they take a share of eligible fees; they do not buy the hardware.
@@ -175,14 +175,37 @@ CashEase **originates and collects**. A licensed partner **books the loan**. Day
 
 This is not assigning a manager to every stall. Humans on the street drop and collect. The product that “manages” growth is **credit attached to goods**.
 
-That ladder is the path from thin kiosk fees to a **platform take on GMV**. Phase 1 still only meters the kiosk. Credit services are earned on the same streets.
+### 2.6.1 Beat OmniRetail: inclusive + the whole stall process
+
+The category leader to watch is **OmniRetail** (and TradeDepot / Sabi): factory → distributor → shop, 160k+ retailers, credit, OmniPay. That is a real, capitalised **route-to-market** machine. CashEase does not beat them by cloning OmniOne for manufacturers in Year 1.
+
+**Where they are strong.** Brands and distributors: visibility, warehouses, SKU range, collateral-free credit for shops already on the app, POS for collections. Their customer at the top of the file is the **manufacturer**. The retailer they want can order, take delivery, and sit in a credit model.
+
+**Where they leave a gap — inclusive.** A large layer of last-mile trade never clears their floor: the mallam, the drink crate, the park-edge seller, the person who is cash-only, has no smartphone habit, cannot meet MOQ, and is not a “retailer” in a brand’s dashboard. **Inclusive** here means: start those businesses anyway — cash-first, small packs, the kiosk on the street, no app required to take the first sale.
+
+**Where they leave a gap — holistic.** Omni’s process is **supply**. The stall’s process is the whole day:
+
+| Stall process | Omni-class today | CashEase |
+| --- | --- | --- |
+| Customer pays with a large note | Weak / not the product | **Kiosk — this is the wedge** |
+| Stay in small notes / cash-out | Agent POS, not change | Hopper + POS on the same pad |
+| Restock | **Their core** | Later, smaller MOQ, named stalls |
+| Goods on credit / BNPL | **Their core** | Later, partner-booked, on *your* door |
+| Airtime, bills, walk-up cash | Separate fintechs | Already on the box |
+| Brand / factory dashboard | **Their core** | Out of scope until a working belt |
+
+**Holistic** means one relationship for that loop — take money, keep selling, restock, take goods on credit — not eight apps and a trek. It does not mean ship 900 SKUs and a manufacturer portal before the hopper works.
+
+**How you actually beat them.** Go **lower** (people they do not onboard) and **wider on the stall’s day** (cash + change, which they do not own). Do not fight them for Unilever’s dashboard. If a stall later grows into Omni’s band, you already have the cash door and the repayment file. Partner or coexist on big SKUs; own the last metre they skip.
+
+That ladder is the path from thin kiosk fees to a **platform take on GMV**. Phase 1 still only meters the kiosk. Omni-class GMV is earned on the same streets after the door is real.
 
 ### 2.7 SWOT
 
 | | Helpful | Harmful |
 | --- | --- | --- |
 | **Internal** | Clear ownership; bundle matches how people already use agents; China OEM path is real | Cash logistics; theft; float until a bank line exists |
-| **External** | Population-scale daily cash need; pain follows people; ATM-like convenience; stalls that want to grow; new category | Device classification; small-note scarcity; POS aggregators and B2B restock apps already on the busiest walks |
+| **External** | Population-scale daily cash need; pain follows people; ATM-like convenience; stalls Omni-class apps skip; holistic stall process | Device classification; small-note scarcity; POS aggregators and Omni / TradeDepot / Sabi already on reachable shops |
 
 ---
 
@@ -254,6 +277,7 @@ Nigerians already pay ATM surcharges and agent fees. ₦20–₦100 to break a n
 
 | Competitor | Implication |
 | --- | --- |
+| **OmniRetail, TradeDepot, Sabi** | Factory-to-shop platforms; credit and restock for reachable retailers. Do not clone their manufacturer portal. Beat them by **inclusion** (cash-first, smaller stalls) and a **holistic stall process** (change + cash, then restock/BNPL). Coexist on big SKUs |
 | Moniepoint, OPay, PalmPay, bank agents | Sit in the same doors. Differentiate with the change module and owned hardware; partner for acquiring |
 | Informal changers | Instant and flexible. Win on reliability, hours, and having stock |
 | Bank ATMs | Dispense larger notes; poor small-note mix. Adjacent job, not the same pad |
@@ -664,7 +688,7 @@ Single-purpose Ltd. Reserved matters: debt above ₦2bn, OEM POs above 50 units,
 
 The job is to **stand where people already stop for daily cash** and stack every door-opener that makes a live hopper possible: private leases, public concessions, bank float, a thin ATM sidecar. Do not wait for one saviour (CBN, vestibules, franchise, or a federal PPP). Do not wait for a shortlist of famous crowd places.
 
-**Objective.** Maximise **ATM-like availability** of stocked ₦100s on everyday streets (petty trade, mallam, bus wait), then a **trade-services platform** on those same stalls (restock, goods on credit, BNPL), company-owned boxes (operators may buy growth machines later), and cheap enough capital to reach 2,000 — then hubs — without betting the firm on 20,000 iron sitting quiet.
+**Objective.** Maximise **ATM-like availability** of stocked ₦100s on everyday streets, then an **inclusive, holistic stall OS** (cash → restock → goods on credit / BNPL) for traders Omni-class platforms skip — company-owned boxes, cheap enough capital to reach 2,000 — without betting the firm on a factory portal or 20,000 iron sitting quiet.
 
 ### 13.1 Five tracks, in parallel (not in a queue)
 
@@ -674,7 +698,7 @@ The job is to **stand where people already stop for daily cash** and stack every
 | **B. Bank float** | Small notes in the cassette | Acquirer now; **cash SLA** when 10–50 boxes have books. ATM-adjacent = **pilot of 5–10**, not the estate |
 | **C. Public land** | Official high-traffic slabs | Mini-concession: one park + one market street; you own machines; fee or small share to LGA/terminal |
 | **D. Policy story** | Introductions, not a cheque | Liquidity-in-use + **MSME growth** (existing stalls) for BOI and bank desks |
-| **E. Trade-services platform** | Restock, then **goods on credit / BNPL** so known stalls turn more | After 30–50 live doors: cash restock first. Credit/BNPL only on named stalls with a partner book. CashEase originates and collects |
+| **E. Trade-services platform** | Inclusive stall OS: restock, then **goods on credit / BNPL** — Omni-class services for stalls they skip | After 30–50 live doors: cash restock first, small MOQ, no app required. Credit/BNPL only on named stalls with a partner book. Do not open a manufacturer portal |
 
 Track A **never pauses** for B, C, D, or E. E is the **platform** (restock → goods on credit → BNPL) after the hopper is in front of the stall. It must not eat the ₦1.85bn OEM-and-float cheque.
 
@@ -700,6 +724,7 @@ Track A **never pauses** for B, C, D, or E. E is the **platform** (restock → g
 | Policy as a **letter and intro** | Policy as the revenue line |
 | Help **known** stalls grow (leakage → restock → goods on credit / BNPL) | Day-one BNPL to strangers; CashEase as the lender of record on its own equity |
 | Originate and collect; **partner books** the receivable | Become an unlicensed digital lender |
+| Inclusive + holistic **stall** process (cash → crate → BNPL) | Clone OmniRetail’s factory dashboard in Year 1 |
 
 ### 13.4 How 20,000 becomes the upside, not the bet
 
@@ -809,5 +834,6 @@ Discount rate 22%. Tax 32.1% of PBT. Fleet paths and unit assumptions are in `SC
 | 2.5 | 30 Aug 2026 | Value proposition: help existing stalls grow (stop leakage → restock → credit); Track E |
 | 2.6 | 30 Aug 2026 | Curating SKUs/playbook is in; per-stall management consulting is not the estate |
 | 2.7 | 30 Aug 2026 | Growth layer restated as a trade-services platform: goods on credit and BNPL; CashEase originates, partner books |
+| 2.8 | 30 Aug 2026 | Positioning vs OmniRetail: inclusive (cash-first, smaller stalls) and holistic stall process; do not clone the factory portal |
 
 **Next refresh triggers:** counsel memo received; 60-day OEM trial closed; first 15-site counts complete; any circular on IADs, agent cash caps or POS geotagging.
