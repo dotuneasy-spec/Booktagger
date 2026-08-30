@@ -149,7 +149,7 @@ COVER = """
     <dt>Y3 run-rate</dt><dd>₦960m gross · ₦542m EBITDA · ₦310m NPAT</dd>
     <dt>Unlevered IRR</dt><dd>16% planning · −9% stress · 43% if land is a concession</dd>
     <dt>NPV @ 22%</dt><dd>Planning −₦0.71bn · clears ~15% property hurdle</dd>
-    <dt>Versus fleet</dt><dd>Same ~₦2.6bn buys 25 coaches; higher paper NPAT, worse residual</dd>
+    <dt>36 states</dt><dd>Destinations on the timetable — not 36 copies of the yard</dd>
   </dl>
   <div class="foot">
     <span>Rent the station  ·  do not buy the buses</span>

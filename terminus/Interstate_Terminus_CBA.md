@@ -17,7 +17,7 @@ A private **state-to-state** terminus, open every day, sized so **morning, after
 | Tax | 32.1% of PBT (30% CIT + 3% education tax) |
 | Classification | Illustrative planning note — not investment advice |
 
-**Verdict in one line.** The **shape** of the business is right (airport, not airline). On **bought** outer-Lagos land with 72% bay occupancy it **earns** (Y3 NPAT ~₦310m, IRR ~16%, payback ~7 years) but it **does not clear a 22% hurdle**. It **does** clear a ~15% property hurdle. It **fails** if you overpay for inner-city land or open empty. It **works well** if land is a **concession** and bays are **pre-let**.
+**Verdict in one line.** The **shape** of the business is right (airport, not airline). On **bought** outer-Lagos land with 72% bay occupancy it **earns** (Y3 NPAT ~₦310m, IRR ~16%, payback ~7 years) but it **does not clear a 22% hurdle**. It **does** clear a ~15% property hurdle. It **fails** if you overpay for inner-city land or open empty. It **works well** if land is a **concession** and bays are **pre-let**. The **36 states** are on the **destination board**, not in the CapEx as 36 stations.
 
 ---
 
@@ -28,9 +28,10 @@ A private **state-to-state** terminus, open every day, sized so **morning, after
 3. [What it returns](#3-what-it-returns)
 4. [Cost–benefit](#4-costbenefit)
 5. [Versus owning the buses](#5-versus-owning-the-buses)
-6. [What the numbers do not capture](#6-what-the-numbers-do-not-capture)
-7. [Go / no-go](#7-go--no-go)
-8. [Appendices](#8-appendices)
+6. [The 36 states](#6-the-36-states)
+7. [What the numbers do not capture](#7-what-the-numbers-do-not-capture)
+8. [Go / no-go](#8-go--no-go)
+9. [Appendices](#9-appendices)
 
 ---
 
@@ -61,6 +62,12 @@ Sizing the yard for every operator’s fleet at 07:00 is how you bankrupt a stat
 5. You are the **Lagos (or Abuja) end**. Operators already have the other city.
 
 If (3) fails, do not build.
+
+### 1.4 What “state-to-state” includes — and what it does not
+
+**The 36 states are destinations, not 36 construction sites.** Coaches already leave Lagos for the federation (East, Abuja, PH, Kano, Calabar, the West). One designated Lagos-end station **serves those routes**. That is how the 36 states sit in this CBA: **as demand on the timetable**, not as 36 copies of the ₦2.57bn yard.
+
+**Not in v1.0 of the numbers:** 36 state governments as counterparties; a terminus in every capital; FCT as a second model; population-weighted demand by state. Those are Section 6.
 
 ---
 
@@ -206,7 +213,42 @@ Do not take a % of their ticket as the core rent. That is how parks get replaced
 
 ---
 
-## 6. What the numbers do not capture
+## 6. The 36 states
+
+**Short answer.** No — the cash model is **one site**. Yes — the *traffic* is already **state-to-state across the federation**. Mixing those two is how you either under-claim (only Lagos) or over-build (36 monuments).
+
+### 6.1 Three different “involve the 36 states”
+
+| Meaning | In this CBA? | What it actually is |
+| --- | --- | --- |
+| **A. Destinations** — buses from *this* station run to many states, every day | **Yes, as the product.** Occupancy assumes a mix of East / Abuja / South / North legs, not a Lagos–Ibadan shuttle | One Lagos (or Abuja) **hub**. Operators hold the other end |
+| **B. 36 governments** — each state concessions you land | **No.** Only **Lagos or Ogun** (the siting state) is the Phase 1 counterparty | A second state appears when you build the **pair** (e.g. Abuja) |
+| **C. 36 termini** — copy the yard in every capital | **No, and should not be.** 36 × ₦2.57bn ≈ **₦92bn** of concrete. Most capitals cannot fill 36 bays at ₦1.8m/month | Hubs, not a flag in every state |
+
+### 6.2 Why 36 copies fail the same test this CBA already ran
+
+Stress is “expensive land + empty bays.” That is the default in a thin capital. A station in a state with little *originating* interstate luxury traffic is the stress case **before** you pour. Daily, everyone-uses-it volume in this country **concentrates**: Lagos as origin, then Abuja, Port Harcourt, Kano, Onitsha/Enugu, Ibadan. The other states are mostly **where the coach is going**, not where you need a 2 ha private ISBT on day one.
+
+### 6.3 A federation-scale map that can still be true
+
+| Phase | Where | Role of the 36 states |
+| --- | --- | --- |
+| **1** | One Lagos–Ogun (or Abuja) hub | **All 36 as possible destinations** on tenant routes. One siting government |
+| **2** | Pair: Lagos **and** Abuja (or PH) | Two ends of the fattest legs. Two governments, not 36 |
+| **3** | 5–8 **hubs** (add Kano, Enugu/Onitsha, Ibadan, PH if not already) | Covers the corridors that actually run every day. Remaining states stay **destinations** |
+| **Not a phase** | One monument per state capital | Political map, not a P&L |
+
+Order-of-magnitude if Phase 3 is earned (illustrative, not a second model): six hubs at ~₦1.8–2.6bn each is about **₦12–15bn**, not ₦92bn. Still only after Phase 1 bays are actually full.
+
+### 6.4 What to do with state governments
+
+- **Siting state (Lagos or Ogun):** designation, LASTMA, land or concession — this is the only government that can kill or make Phase 1.  
+- **Destination states:** you do not need their C of O to sell a Lagos bay to a bus going to Enugu. The **operator** already has (or rents) a park there.  
+- **“Involve 36 states” as a tour of 36 governors:** that is a political campaign, not occupancy. Do not spend the ₦2.57bn on it.
+
+---
+
+## 7. What the numbers do not capture
 
 **Benefits (real, not in NPV)**  
 Everyday infrastructure; many operators under one roof; a file of fleets you could later sell energy or wash to; possible BITP/LAMATA overflow if city terminals clog; inclusion of mid-tier lines that cannot buy Jibowu.
@@ -216,7 +258,7 @@ Union/tout pressure; designation delayed a year (burns the ramp); LASTMA relocat
 
 ---
 
-## 7. Go / no-go
+## 8. Go / no-go
 
 | Question | Answer |
 | --- | --- |
@@ -225,14 +267,15 @@ Union/tout pressure; designation delayed a year (burns the ramp); LASTMA relocat
 | Build if land is **concession or cheap edge**, **≥40% bays pre-let**, you accept **~15–16% IRR** as property? | **Go — Phase 0.** |
 | Inner-city trophy site, Jibowu prices? | **No.** |
 | Own 25 coaches instead, same cheque? | **No** if you want residual and sleep. Yes only if you *want* to be a bus company. |
+| Build **36** state-capital copies to “cover Nigeria”? | **No.** Cover the federation as **destinations** from hubs. |
 
-**Phase 0 (before ₦2.6bn):** 90 days. Site longlist with express access. Counsel on designation. Term sheets from **four operators**, **≥15 bays**. Only then buy or concession. Order of spend: **paper, then dirt.**
+**Phase 0 (before ₦2.6bn):** 90 days. Site longlist with express access. Counsel on designation. Term sheets from **four operators**, **≥15 bays**, routes that already touch many states. Only then buy or concession. Order of spend: **paper, then dirt.**
 
-**Capital this year if gates pass:** about **₦2.6bn** planning (or ~₦2.0bn if the state holds the land). Do not order a second city until year 3 occupancy holds.
+**Capital this year if gates pass:** about **₦2.6bn** planning (or ~₦2.0bn if the state holds the land). Do not order a second **city** until year 3 occupancy holds. Do not order 36.
 
 ---
 
-## 8. Appendices
+## 9. Appendices
 
 ### A. Assumptions (planning)
 
@@ -254,5 +297,6 @@ Some open parks still take **10–25% of the fare** as a loading fee. That can l
 | Version | Date | Notes |
 | --- | --- | --- |
 | 1.0 | 30 Aug 2026 | First CBA: landlord interstate terminus vs fleet; three cases |
+| 1.1 | 30 Aug 2026 | 36 states: destinations on the timetable, not 36 copies of the yard |
 
 **Next refresh:** named site and asking price; four operator term sheets; designation memo.
