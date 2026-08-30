@@ -10,7 +10,7 @@ CashEase deploys owned kiosks wherever ordinary people already spend cash in dai
 | Field | Detail |
 | --- | --- |
 | Working name | CashEase Nigeria Ltd (legal name to be confirmed) |
-| Prepared | August 2026 · v2.5 |
+| Prepared | August 2026 · v2.6 |
 | Horizon | Year 1–Year 6 (2027–2032) |
 | Currency | Nigerian naira (₦), nominal |
 | Planning case | 180 tx/day, 92% uptime, ₦100 blended fee, bank cash from Year 2 |
@@ -159,6 +159,17 @@ The second pain, after “I cannot break this note,” is **the stall cannot gro
 | **3. Grow the crate** | More turns, larger order, pay later | Credit / BNPL only on stalls already seen buying and selling | After books; bank or distributor floats goods |
 
 Growth means **more sales for people who already trade**. It does not mean minting new traders on day-one credit. Ease and convenience lower the **restock** barrier. They do not lower the barrier to enter trading with someone else’s inventory.
+
+**Curating is a thing. Per-stall management consulting is not the core.**
+
+| | What it is | In this plan? |
+| --- | --- | --- |
+| **Curating** | You pick SKUs, pack sizes, drop days, and which stalls get restock — category management for the street | **Yes** — that *is* Track E. One playbook, many stalls |
+| **Productized help** | A simple list: what sold, what to reorder, when the van comes; later a thin record of cash in/out | **Yes, later** — same field team, not a consultancy brand |
+| **Management consulting** | Sit with each mallam on “strategy,” books, HR, branding, and bring that business up by coaching | **No as the estate.** Labour does not scale to 350–20,000 doors. Petty traders do not buy retainers. Donor “SME clinics” already exist and do not print a kiosk P&L |
+| **Paid advisory for fat shops** | A shop that already turns serious volume wants formalisation, a TIN, a second till, or a loan file | **Optional overlay** after you know the names — priced, few accounts, never the fleet average |
+
+Bring each business up by **changing what arrives on the table** (notes, stock, then credit), not by assigning a manager to every stall. If a human must visit, they are a **drop / collector**, not a consultant.
 
 That ladder is also the path from thin kiosk fees to a **platform take on GMV**. Phase 1 still only meters step 1. Steps 2–3 are earned on the same streets.
 
@@ -659,7 +670,7 @@ The job is to **stand where people already stop for daily cash** and stack every
 | **B. Bank float** | Small notes in the cassette | Acquirer now; **cash SLA** when 10–50 boxes have books. ATM-adjacent = **pilot of 5–10**, not the estate |
 | **C. Public land** | Official high-traffic slabs | Mini-concession: one park + one market street; you own machines; fee or small share to LGA/terminal |
 | **D. Policy story** | Introductions, not a cheque | Liquidity-in-use + **MSME growth** (existing stalls) for BOI and bank desks |
-| **E. Trader growth** | Restock + later credit so known stalls turn more | After 30–50 live doors: one van, 10–15 SKUs, cash on delivery. No day-one BNPL |
+| **E. Trader growth** | Restock + later credit so known stalls turn more | After 30–50 live doors: one van, 10–15 SKUs, **curated** list, cash on delivery. No day-one BNPL. No per-stall management consultancy |
 
 Track A **never pauses** for B, C, D, or E. E is how the stall **grows** after the hopper is in front of it. It must not eat the ₦1.85bn OEM-and-float cheque.
 
@@ -684,6 +695,7 @@ Track A **never pauses** for B, C, D, or E. E is how the stall **grows** after t
 | 70%+ of POS; change fees yours | Vestibule deal that forbids livelihood / street sites |
 | Policy as a **letter and intro** | Policy as the revenue line |
 | Help **known** stalls grow (leakage → restock → credit) | Day-one credit that mints new traders |
+| **Curate** SKUs and drop days (one playbook) | Hire consultants to “manage” every mallam |
 
 ### 13.4 How 20,000 becomes the upside, not the bet
 
@@ -791,5 +803,6 @@ Discount rate 22%. Tax 32.1% of PBT. Fleet paths and unit assumptions are in `SC
 | 2.3 | 18 Aug 2026 | Strategy to maximise potential: four parallel tracks, sequence, 20,000 as earned ceiling |
 | 2.4 | 18 Aug 2026 | Pain follows people: ATM-like everyday convenience (petty trader, mallam, bus wait); named hubs are density, not the strategy |
 | 2.5 | 30 Aug 2026 | Value proposition: help existing stalls grow (stop leakage → restock → credit); Track E |
+| 2.6 | 30 Aug 2026 | Curating SKUs/playbook is in; per-stall management consulting is not the estate |
 
 **Next refresh triggers:** counsel memo received; 60-day OEM trial closed; first 15-site counts complete; any circular on IADs, agent cash caps or POS geotagging.
