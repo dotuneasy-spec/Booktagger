@@ -796,5 +796,246 @@
     "npat_margin": 0.058365240929705214,
     "note": "Illustrative. Empty legs, accidents, FX parts and fare wars can wipe the 11% EBITDA. No land residual."
   },
+  "phased": {
+    "horizon": 12,
+    "hubs": [
+      {
+        "id": "lagos",
+        "name": "Lagos\u2013Ogun hub",
+        "phase": 1,
+        "open_t": 0,
+        "capex": 2565960000.0,
+        "land": 760000000,
+        "works": 1725960000.0,
+        "bays": 36,
+        "bay_occ": 0.72,
+        "steady_gross": 960072000.0,
+        "y12_ebitda": 542255720.0,
+        "y12_npat": 309595291.88,
+        "residual": 4171333100.4648867
+      },
+      {
+        "id": "abuja",
+        "name": "Abuja hub (pair)",
+        "phase": 2,
+        "open_t": 3,
+        "capex": 2560520000.0,
+        "land": 864000000,
+        "works": 1616520000.0,
+        "bays": 32,
+        "bay_occ": 0.68,
+        "steady_gross": 844628000.0,
+        "y12_ebitda": 438957640.0,
+        "y12_npat": 243171383.56,
+        "residual": 3571117259.858646
+      },
+      {
+        "id": "ph",
+        "name": "Port Harcourt hub",
+        "phase": 3,
+        "open_t": 5,
+        "capex": 1774520000.0,
+        "land": 420000000,
+        "works": 1274520000.0,
+        "bays": 28,
+        "bay_occ": 0.65,
+        "steady_gross": 586100000.0,
+        "y12_ebitda": 259795640.0,
+        "y12_npat": 133131285.56,
+        "residual": 2089963522.0272455
+      },
+      {
+        "id": "kano",
+        "name": "Kano hub",
+        "phase": 3,
+        "open_t": 6,
+        "capex": 1667420000.0,
+        "land": 330000000,
+        "works": 1257420000.0,
+        "bays": 28,
+        "bay_occ": 0.62,
+        "steady_gross": 508982000.0,
+        "y12_ebitda": 200762940.0,
+        "y12_npat": 93628627.25999999,
+        "residual": 1651439712.761667
+      },
+      {
+        "id": "enugu",
+        "name": "Enugu / Onitsha hub",
+        "phase": 3,
+        "open_t": 7,
+        "capex": 1504560000.0,
+        "land": 280000000,
+        "works": 1144560000.0,
+        "bays": 24,
+        "bay_occ": 0.6,
+        "steady_gross": 434170000.0,
+        "y12_ebitda": 147553920.0,
+        "y12_npat": 61331299.68,
+        "residual": 1265510784.3818002
+      },
+      {
+        "id": "ibadan",
+        "name": "Ibadan hub",
+        "phase": 3,
+        "open_t": 8,
+        "capex": 1594260000.0,
+        "land": 364000000,
+        "works": 1150260000.0,
+        "bays": 24,
+        "bay_occ": 0.64,
+        "steady_gross": 506248000.0,
+        "y12_ebitda": 212126820.0,
+        "y12_npat": 104982783.78,
+        "residual": 1733868466.9690673
+      }
+    ],
+    "phase_capex": {
+      "1": 2565960000.0,
+      "2": 2560520000.0,
+      "3": 6540760000.0
+    },
+    "cumulative_capex": 11667240000.0,
+    "annual": [
+      {
+        "year": 1,
+        "capex": 0.0,
+        "gross": 528039600.00000006,
+        "ebitda": 189392158.40000004,
+        "npat": 70000933.55360003,
+        "fcf_ops": 156298933.5536
+      },
+      {
+        "year": 2,
+        "capex": 0.0,
+        "gross": 768057600.0,
+        "ebitda": 385427470.4,
+        "npat": 203108910.4016,
+        "fcf_ops": 289406910.4016
+      },
+      {
+        "year": 3,
+        "capex": 0.0,
+        "gross": 960072000.0,
+        "ebitda": 542255720.0,
+        "npat": 309595291.88,
+        "fcf_ops": 395893291.88
+      },
+      {
+        "year": 4,
+        "capex": 0.0,
+        "gross": 1424617400.0,
+        "ebitda": 676328020.8000001,
+        "npat": 345749530.12320006,
+        "fcf_ops": 512873530.12320006
+      },
+      {
+        "year": 5,
+        "capex": 0.0,
+        "gross": 1635774400.0,
+        "ebitda": 845708764.8,
+        "npat": 460759055.2992,
+        "fcf_ops": 627883055.2992
+      },
+      {
+        "year": 6,
+        "capex": 0.0,
+        "gross": 2127055000.0,
+        "ebitda": 1041017580.8,
+        "npat": 548844896.24,
+        "fcf_ops": 779694896.24
+      },
+      {
+        "year": 7,
+        "capex": 0.0,
+        "gross": 2553520100.0,
+        "ebitda": 1184857361.6,
+        "npat": 595407431.7392001,
+        "fcf_ops": 889128431.7392001
+      },
+      {
+        "year": 8,
+        "capex": 0.0,
+        "gross": 3036779100.0,
+        "ebitda": 1376158163.2,
+        "npat": 680657020.5832,
+        "fcf_ops": 1031606020.5832
+      },
+      {
+        "year": 9,
+        "capex": 0.0,
+        "gross": 3525554400.0,
+        "ebitda": 1570178204.8000002,
+        "npat": 783954842.3175999,
+        "fcf_ops": 1192416842.3175998
+      },
+      {
+        "year": 10,
+        "capex": 0.0,
+        "gross": 3738950400.0,
+        "ebitda": 1726019662.4,
+        "npat": 894621652.7695999,
+        "fcf_ops": 1303083652.7696
+      },
+      {
+        "year": 11,
+        "capex": 0.0,
+        "gross": 3840200000.0,
+        "ebitda": 1801452680.0,
+        "npat": 945840671.7199999,
+        "fcf_ops": 1354302671.72
+      },
+      {
+        "year": 12,
+        "capex": 0.0,
+        "gross": 3840200000.0,
+        "ebitda": 1801452680.0,
+        "npat": 945840671.7199999,
+        "fcf_ops": 1354302671.72
+      }
+    ],
+    "npv22": -2178873364.6572227,
+    "npv18": -1541196588.427786,
+    "npv15": -798111704.2792745,
+    "irr": 0.12690505104025981,
+    "cash": [
+      -2565960000.0,
+      156298933.5536,
+      289406910.4016,
+      -2164626708.12,
+      512873530.12320006,
+      -1146636944.7008,
+      -887725103.76,
+      -615431568.2607999,
+      -562653979.4168,
+      1192416842.3175998,
+      1303083652.7696,
+      1354302671.72,
+      15837535518.183311
+    ],
+    "y12_gross": 3840200000.0,
+    "y12_ebitda": 1801452680.0,
+    "y12_npat": 945840671.7199999,
+    "copies36": {
+      "n": 36,
+      "capex": 92374560000.0,
+      "note": "36 \u00d7 planning Lagos yard. Most would run at stress occupancy or worse.",
+      "stress_y3_ebitda_if_all_stress": -6599511360.0
+    },
+    "spokes": {
+      "bays": 12,
+      "capex_each": 793280000.0,
+      "steady_gross": 229279999.99999997,
+      "steady_ebitda": 82320959.99999997,
+      "eight_cities_capex": 6346240000.0,
+      "cities_example": "Jos, Kaduna, Calabar, Warri, Benin, Maiduguri, Uyo, Asaba \u2014 only with pre-lets"
+    },
+    "gates": {
+      "phase2": "Lagos median occupancy \u2265 65% for 12 months; \u226520 bays contracted; designation clean",
+      "phase3": "Pair (Lagos+Abuja) both \u2265 60% occ; cash to fund next hub without emptying float",
+      "spokes": "Named operator LOI for \u22658 of 12 bays; no spoke without that paper",
+      "never": "36 identical 2 ha copies; a capital with no originating volume"
+    }
+  },
   "verdict_planning": false
 }

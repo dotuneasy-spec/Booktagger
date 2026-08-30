@@ -324,6 +324,307 @@ def break_even(p: dict, cx: dict, sg: dict) -> dict:
     }
 
 
+def overlay(base: dict, **kw) -> dict:
+    q = dict(base)
+    q.update(kw)
+    return q
+
+
+PLAN = SCENARIOS["planning"]
+
+HUBS = [
+    {
+        "id": "lagos",
+        "name": "Lagos–Ogun hub",
+        "phase": 1,
+        "open_t": 0,
+        "params": overlay(PLAN),
+    },
+    {
+        "id": "abuja",
+        "name": "Abuja hub (pair)",
+        "phase": 2,
+        "open_t": 3,
+        "params": overlay(
+            PLAN,
+            site_m2=18_000,
+            land_per_m2=48_000,
+            pave_m2=14_500,
+            build_m2=2_300,
+            bays=32,
+            bay_occ=0.68,
+            bay_rent_month=1_900_000,
+            casual_departures_day=10,
+            layover_buses=16,
+            retail_m2=800,
+            parking_year=32_000_000,
+            staff_year=128_000_000,
+            power_year=70_000_000,
+        ),
+    },
+    {
+        "id": "ph",
+        "name": "Port Harcourt hub",
+        "phase": 3,
+        "open_t": 5,
+        "params": overlay(
+            PLAN,
+            site_m2=15_000,
+            land_per_m2=28_000,
+            pave_m2=12_000,
+            build_m2=1_800,
+            utilities=200_000_000,
+            fitout=90_000_000,
+            bays=28,
+            bay_occ=0.65,
+            bay_rent_month=1_500_000,
+            casual_departures_day=8,
+            layover_buses=12,
+            retail_m2=650,
+            retail_m2_month=10_000,
+            parking_year=22_000_000,
+            ads_year=16_000_000,
+            staff_year=110_000_000,
+            security_year=40_000_000,
+            power_year=58_000_000,
+            rates_year=28_000_000,
+            admin_year=28_000_000,
+        ),
+    },
+    {
+        "id": "kano",
+        "name": "Kano hub",
+        "phase": 3,
+        "open_t": 6,
+        "params": overlay(
+            PLAN,
+            site_m2=15_000,
+            land_per_m2=22_000,
+            pave_m2=12_000,
+            build_m2=1_800,
+            utilities=190_000_000,
+            fitout=85_000_000,
+            bays=28,
+            bay_occ=0.62,
+            bay_rent_month=1_350_000,
+            casual_departures_day=7,
+            layover_buses=12,
+            retail_m2=600,
+            retail_m2_month=9_000,
+            parking_year=18_000_000,
+            ads_year=14_000_000,
+            staff_year=105_000_000,
+            security_year=38_000_000,
+            power_year=55_000_000,
+            rates_year=24_000_000,
+            admin_year=26_000_000,
+        ),
+    },
+    {
+        "id": "enugu",
+        "name": "Enugu / Onitsha hub",
+        "phase": 3,
+        "open_t": 7,
+        "params": overlay(
+            PLAN,
+            site_m2=14_000,
+            land_per_m2=20_000,
+            pave_m2=11_000,
+            build_m2=1_600,
+            utilities=180_000_000,
+            fitout=80_000_000,
+            bays=24,
+            bay_occ=0.60,
+            bay_rent_month=1_300_000,
+            casual_departures_day=7,
+            layover_buses=10,
+            retail_m2=550,
+            retail_occ=0.70,
+            retail_m2_month=9_000,
+            parking_year=16_000_000,
+            ads_year=12_000_000,
+            staff_year=98_000_000,
+            security_year=36_000_000,
+            power_year=52_000_000,
+            rates_year=22_000_000,
+            admin_year=24_000_000,
+        ),
+    },
+    {
+        "id": "ibadan",
+        "name": "Ibadan hub",
+        "phase": 3,
+        "open_t": 8,
+        "params": overlay(
+            PLAN,
+            site_m2=14_000,
+            land_per_m2=26_000,
+            pave_m2=11_000,
+            build_m2=1_600,
+            utilities=185_000_000,
+            fitout=80_000_000,
+            bays=24,
+            bay_occ=0.64,
+            bay_rent_month=1_400_000,
+            casual_departures_day=8,
+            layover_buses=10,
+            retail_m2=550,
+            parking_year=20_000_000,
+            ads_year=14_000_000,
+            staff_year=100_000_000,
+            security_year=36_000_000,
+            power_year=54_000_000,
+            rates_year=24_000_000,
+            admin_year=24_000_000,
+        ),
+    },
+]
+
+PHASE_HORIZON = 12  # years of calendar after t=0 Lagos spend
+
+
+def hub_year_fcf(p: dict, cx: dict, years_open: int) -> tuple[float, float, float, float]:
+    """Gross, EBITDA, FCF, NPAT for a hub in its Nth operating year (1-indexed)."""
+    scale = RAMP[min(years_open - 1, len(RAMP) - 1)]
+    g = steady_gross(p)["gross"] * scale
+    op = opex_at(p, cx, scale)["opex"]
+    ebitda = g - op
+    da = cx["works"] / WORKS_LIFE
+    ebit = ebitda - da
+    tax = max(0.0, ebit * TAX)
+    npat = ebit - tax
+    fcf = npat + da
+    return g, ebitda, fcf, npat
+
+
+def hub_residual(p: dict, cx: dict, last_ebitda: float) -> float:
+    land_exit = cx["land"] * ((1 + p["land_apprec"]) ** PHASE_HORIZON)
+    works_book = cx["works"] * max(1 - PHASE_HORIZON / WORKS_LIFE, 0.3)
+    if last_ebitda > 0:
+        return 0.7 * (last_ebitda / p["exit_ebitda_yield"]) + 0.3 * (land_exit + works_book)
+    return land_exit * 0.5
+
+
+def run_phased() -> dict:
+    cash = [0.0] * (PHASE_HORIZON + 1)
+    hubs_out = []
+    annual = [
+        {"year": y, "capex": 0.0, "gross": 0.0, "ebitda": 0.0, "npat": 0.0, "fcf_ops": 0.0}
+        for y in range(1, PHASE_HORIZON + 1)
+    ]
+    for h in HUBS:
+        p = h["params"]
+        cx = capex(p)
+        sg = steady_gross(p)
+        t0 = h["open_t"]
+        cash[t0] -= cx["total"]
+        last_e = 0.0
+        last_npat = 0.0
+        ops_years = 0
+        for cal in range(t0 + 1, PHASE_HORIZON + 1):
+            ops_years = cal - t0
+            g, ebitda, fcf, npat = hub_year_fcf(p, cx, ops_years)
+            cash[cal] += fcf
+            row = annual[cal - 1]
+            row["gross"] += g
+            row["ebitda"] += ebitda
+            row["npat"] += npat
+            row["fcf_ops"] += fcf
+            last_e = ebitda
+            last_npat = npat
+        res = hub_residual(p, cx, last_e) if ops_years else 0.0
+        cash[PHASE_HORIZON] += res
+        hubs_out.append(
+            {
+                "id": h["id"],
+                "name": h["name"],
+                "phase": h["phase"],
+                "open_t": t0,
+                "capex": cx["total"],
+                "land": cx["land"],
+                "works": cx["works"],
+                "bays": p["bays"],
+                "bay_occ": p["bay_occ"],
+                "steady_gross": sg["gross"],
+                "y12_ebitda": last_e,
+                "y12_npat": last_npat,
+                "residual": res,
+            }
+        )
+
+    phase_capex = {1: 0.0, 2: 0.0, 3: 0.0}
+    for ho, h in zip(hubs_out, HUBS):
+        phase_capex[h["phase"]] += ho["capex"]
+
+    copies36 = {
+        "n": 36,
+        "capex": 36 * capex(PLAN)["total"],
+        "note": "36 × planning Lagos yard. Most would run at stress occupancy or worse.",
+        "stress_y3_ebitda_if_all_stress": 36 * run_scenario("stress")["years"][2]["ebitda"],
+    }
+
+    spoke = overlay(
+        PLAN,
+        site_m2=8_000,
+        land_per_m2=18_000,
+        pave_m2=6_000,
+        build_m2=900,
+        utilities=90_000_000,
+        fitout=40_000_000,
+        soft_pct=0.12,
+        preopen_wc=40_000_000,
+        bays=12,
+        bay_occ=0.70,
+        bay_rent_month=1_100_000,
+        casual_departures_day=4,
+        layover_buses=6,
+        retail_m2=250,
+        retail_occ=0.65,
+        parking_year=8_000_000,
+        ads_year=6_000_000,
+        staff_year=48_000_000,
+        security_year=18_000_000,
+        power_year=28_000_000,
+        rates_year=12_000_000,
+        admin_year=12_000_000,
+    )
+    spoke_cx = capex(spoke)
+    spoke_g = steady_gross(spoke)["gross"]
+    spoke_op = opex_at(spoke, spoke_cx, 1.0)["opex"]
+    spokes = {
+        "bays": 12,
+        "capex_each": spoke_cx["total"],
+        "steady_gross": spoke_g,
+        "steady_ebitda": spoke_g - spoke_op,
+        "eight_cities_capex": 8 * spoke_cx["total"],
+        "cities_example": "Jos, Kaduna, Calabar, Warri, Benin, Maiduguri, Uyo, Asaba — only with pre-lets",
+    }
+
+    return {
+        "horizon": PHASE_HORIZON,
+        "hubs": hubs_out,
+        "phase_capex": phase_capex,
+        "cumulative_capex": sum(phase_capex.values()),
+        "annual": annual,
+        "npv22": npv(cash, DISCOUNT),
+        "npv18": npv(cash, 0.18),
+        "npv15": npv(cash, 0.15),
+        "irr": irr(cash),
+        "cash": cash,
+        "y12_gross": annual[-1]["gross"],
+        "y12_ebitda": annual[-1]["ebitda"],
+        "y12_npat": annual[-1]["npat"],
+        "copies36": copies36,
+        "spokes": spokes,
+        "gates": {
+            "phase2": "Lagos median occupancy ≥ 65% for 12 months; ≥20 bays contracted; designation clean",
+            "phase3": "Pair (Lagos+Abuja) both ≥ 60% occ; cash to fund next hub without emptying float",
+            "spokes": "Named operator LOI for ≥8 of 12 bays; no spoke without that paper",
+            "never": "36 identical 2 ha copies; a capital with no originating volume",
+        },
+    }
+
+
 def fleet_comparison() -> dict:
     """Same order of capital, as operator of coaches — for contrast, not underwriting."""
     coaches = 25
@@ -354,6 +655,7 @@ def fleet_comparison() -> dict:
 def main() -> None:
     results = {k: run_scenario(k) for k in SCENARIOS}
     fleet = fleet_comparison()
+    phased = run_phased()
     payload = {
         "tax": TAX,
         "discount": DISCOUNT,
@@ -361,6 +663,7 @@ def main() -> None:
         "ramp": RAMP,
         "scenarios": results,
         "fleet": fleet,
+        "phased": phased,
         "verdict_planning": results["planning"]["npv22"] > 0
         and (results["planning"]["irr"] or 0) > 0.18,
     }
@@ -407,6 +710,11 @@ def main() -> None:
     print("STRESS NPV22", f"₦{results['stress']['npv22']/1e9:.2f}bn", "IRR", f"{100*(results['stress']['irr'] or 0):.1f}%", "payback", results["stress"]["payback"])
     print("UPSIDE NPV22", f"₦{results['upside']['npv22']/1e9:.2f}bn", "IRR", f"{100*(results['upside']['irr'] or 0):.1f}%")
     print("FLEET capex", f"₦{fleet['capex']/1e9:.2f}bn", "NPAT", f"₦{fleet['npat']/1e6:.0f}m")
+    ph = phased
+    print("PHASED 6 hubs capex", f"₦{ph['cumulative_capex']/1e9:.2f}bn", "Y12 NPAT", f"₦{ph['y12_npat']/1e6:.0f}m", "IRR", f"{100*(ph['irr'] or 0):.1f}%", "NPV22", f"₦{ph['npv22']/1e9:.2f}bn")
+    print("  phase capex", {k: round(v/1e9, 2) for k, v in ph['phase_capex'].items()})
+    print("  36 copies", f"₦{ph['copies36']['capex']/1e9:.1f}bn")
+    print("  spoke each", f"₦{ph['spokes']['capex_each']/1e6:.0f}m", "x8", f"₦{ph['spokes']['eight_cities_capex']/1e9:.2f}bn")
 
 
 if __name__ == "__main__":

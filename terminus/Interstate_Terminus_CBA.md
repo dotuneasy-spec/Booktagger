@@ -29,9 +29,10 @@ A private **state-to-state** terminus, open every day, sized so **morning, after
 4. [Cost–benefit](#4-costbenefit)
 5. [Versus owning the buses](#5-versus-owning-the-buses)
 6. [The 36 states](#6-the-36-states)
-7. [What the numbers do not capture](#7-what-the-numbers-do-not-capture)
-8. [Go / no-go](#8-go--no-go)
-9. [Appendices](#9-appendices)
+7. [Eventual phases](#7-eventual-phases)
+8. [What the numbers do not capture](#8-what-the-numbers-do-not-capture)
+9. [Go / no-go](#9-go--no-go)
+10. [Appendices](#10-appendices)
 
 ---
 
@@ -238,7 +239,7 @@ Stress is “expensive land + empty bays.” That is the default in a thin capit
 | **3** | 5–8 **hubs** (add Kano, Enugu/Onitsha, Ibadan, PH if not already) | Covers the corridors that actually run every day. Remaining states stay **destinations** |
 | **Not a phase** | One monument per state capital | Political map, not a P&L |
 
-Order-of-magnitude if Phase 3 is earned (illustrative, not a second model): six hubs at ~₦1.8–2.6bn each is about **₦12–15bn**, not ₦92bn. Still only after Phase 1 bays are actually full.
+Order-of-magnitude for hubs is in [§7](#7-eventual-phases). Still only after Phase 1 bays are actually full.
 
 ### 6.4 What to do with state governments
 
@@ -248,7 +249,77 @@ Order-of-magnitude if Phase 3 is earned (illustrative, not a second model): six 
 
 ---
 
-## 7. What the numbers do not capture
+## 7. Eventual phases
+
+This is the analysis for **getting to the federation without 36 monuments**. Same landlord rules: pre-lets, highway access, night waves. New dirt only after the last hub is **full enough**. Figures from `run_phased()` in the model: six hubs over 12 years, unlevered, bought land (not concession).
+
+### 7.1 The map
+
+| Phase | When (if gates pass) | What you build | CapEx in model | What “36 states” means |
+| --- | --- | --- | --- | --- |
+| **0** | 90 days | Paper: site, designation, **≥15 Lagos bays** signed | ~0 | Routes already list many states |
+| **1** | Y0–Y3 | **Lagos–Ogun** only (36 bays) | **₦2.57bn** | Federation as **destinations** |
+| **2** | From Y3 | **Abuja pair** (32 bays) | **+₦2.56bn** | Two ends of the fattest legs |
+| **3** | From Y5–Y8 | **PH, Kano, Enugu/Onitsha, Ibadan** | **+₦6.54bn** | 6 hubs cover daily corridors |
+| **4 (optional)** | After Y8 | **Small spokes** (12 bays), only with LOIs | ~₦0.79bn **each** | Next-tier cities, not capitals-for-show |
+| **Never** | — | 36 × Lagos yard | **₦92.4bn** | Political map. If all ran **stress**, Y3 EBITDA ≈ **−₦6.6bn** |
+
+**Total earned network (Phases 1–3):** **₦11.67bn** cumulative capital. Not ₦92bn.
+
+### 7.2 Each hub (planning-class land, thinner occupancy outside Lagos)
+
+| Hub | Opens (t) | Bays | Occ. | CapEx | Steady gross | Y12 EBITDA | Y12 NPAT |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Lagos–Ogun | 0 | 36 | 72% | ₦2.57bn | ₦960m | ₦542m | ₦310m |
+| Abuja | 3 | 32 | 68% | ₦2.56bn | ₦845m | ₦439m | ₦243m |
+| Port Harcourt | 5 | 28 | 65% | ₦1.77bn | ₦586m | ₦260m | ₦133m |
+| Kano | 6 | 28 | 62% | ₦1.67bn | ₦509m | ₦201m | ₦94m |
+| Enugu / Onitsha | 7 | 24 | 60% | ₦1.50bn | ₦434m | ₦148m | ₦61m |
+| Ibadan | 8 | 24 | 64% | ₦1.59bn | ₦506m | ₦212m | ₦105m |
+| **Six-hub total** | | **172** | | **₦11.67bn** | | **₦1.80bn** | **₦946m** |
+
+Y12 is when all six are at run-rate. Group NPAT ~**₦0.95bn** on ~₦11.7bn in — a **~8%** after-tax capital yield at the end, worse than **one** fat Lagos station (Y3 NPAT ₦310m on ₦2.57bn ≈ 12%).
+
+### 7.3 Program cash (12 years)
+
+| | Six-hub program |
+| --- | --- |
+| Cumulative CapEx | ₦11.67bn |
+| Y12 gross / EBITDA / NPAT | ₦3.84bn / ₦1.80bn / **₦946m** |
+| Unlevered IRR | **12.7%** |
+| NPV @ 22% | **−₦2.18bn** |
+| NPV @ 18% | −₦1.54bn |
+| NPV @ 15% | **−₦0.80bn** |
+
+**Read this twice.** Spreading into six **bought** yards **dilutes** IRR versus Phase 1 alone (16%). Later hubs have lower occupancy and you spend billions years out. **Do not expand to plant flags.** Expand when the next site is a **concession** (that was the upside that flipped Phase 1 NPV) or when an operator will **pay Lagos-like rent** in that city.
+
+Group NPAT in the model (ops only, ₦ million): Y1 70 → Y3 310 → Y6 549 → Y9 784 → Y12 **946**. The climb is real naira; the **hurdle** is not cleared on bought land.
+
+### 7.4 Gates (hard)
+
+| From → to | Must be true |
+| --- | --- |
+| 0 → 1 | ≥15 Lagos bays contracted; express access; designation |
+| 1 → 2 | Lagos **≥65% occupancy for 12 months**; ≥20 bays let; books clean |
+| 2 → 3 | **Both** Lagos and Abuja ≥60% occ; cash for the next hub without emptying the company |
+| 3 → 4 spokes | LOI for **≥8 of 12** bays on **that** spoke. No paper, no dirt |
+| Any → 36 copies | **Never** |
+
+If Phase 1 misses occupancy, the program **stops**. That is a feature.
+
+### 7.5 Optional spokes (Phase 4)
+
+Not in the ₦11.67bn. Twelve-bay yard, ~₦793m each, run-rate ~₦229m gross / **₦82m EBITDA** if 70% let.
+
+Eight named cities (Jos, Kaduna, Calabar, Warri, Benin, Maiduguri, Uyo, Asaba) would add ~**₦6.35bn** — only as a list of **options**, each standing on its own pre-let. That still leaves most of the 36 states as **destinations** from the six hubs. That is national coverage.
+
+### 7.6 How concession changes the phases
+
+Phase 1 **upside** (cheap/concession land) was IRR ~43%. If **each** later hub is a state or LGA concession rather than ₦22k–₦48k/m² freehold, the 12.7% program IRR moves **up** and expansion becomes rational. The analysis of “eventual 36 states” is therefore: **hubs on concessions, spokes on pre-lets, everyone else on the timetable.**
+
+---
+
+## 8. What the numbers do not capture
 
 **Benefits (real, not in NPV)**  
 Everyday infrastructure; many operators under one roof; a file of fleets you could later sell energy or wash to; possible BITP/LAMATA overflow if city terminals clog; inclusion of mid-tier lines that cannot buy Jibowu.
@@ -258,7 +329,7 @@ Union/tout pressure; designation delayed a year (burns the ramp); LASTMA relocat
 
 ---
 
-## 8. Go / no-go
+## 9. Go / no-go
 
 | Question | Answer |
 | --- | --- |
@@ -268,14 +339,15 @@ Union/tout pressure; designation delayed a year (burns the ramp); LASTMA relocat
 | Inner-city trophy site, Jibowu prices? | **No.** |
 | Own 25 coaches instead, same cheque? | **No** if you want residual and sleep. Yes only if you *want* to be a bus company. |
 | Build **36** state-capital copies to “cover Nigeria”? | **No.** Cover the federation as **destinations** from hubs. |
+| Earn Phase 2–3 on **bought** land like Phase 1 planning? | **Not at 15–22%.** Six-hub IRR **12.7%**, NPV @ 15% still negative. Expand on **concessions** or stop after a fat pair. |
 
 **Phase 0 (before ₦2.6bn):** 90 days. Site longlist with express access. Counsel on designation. Term sheets from **four operators**, **≥15 bays**, routes that already touch many states. Only then buy or concession. Order of spend: **paper, then dirt.**
 
-**Capital this year if gates pass:** about **₦2.6bn** planning (or ~₦2.0bn if the state holds the land). Do not order a second **city** until year 3 occupancy holds. Do not order 36.
+**Capital this year if gates pass:** about **₦2.6bn** planning (or ~₦2.0bn if the state holds the land). Second city only after 12 months at ≥65% occupancy. Six-hub **₦11.7bn** is an earned option, not a purchase order. Do not order 36.
 
 ---
 
-## 9. Appendices
+## 10. Appendices
 
 ### A. Assumptions (planning)
 
@@ -286,7 +358,7 @@ Union/tout pressure; designation delayed a year (burns the ramp); LASTMA relocat
 - Hours that match interstate reality, including night  
 - Ramp 55% / 80% / 100%  
 - Residual at Y10: 70% of Y10 EBITDA capitalised at 11% yield + 30% appreciated land and remaining works book  
-- Rebuild: `python3 model/cba_model.py`
+- Rebuild: `python3 model/cba_model.py` (includes `run_phased()` six-hub program)
 
 ### B. Informal park comparison
 
@@ -298,5 +370,6 @@ Some open parks still take **10–25% of the fare** as a loading fee. That can l
 | --- | --- | --- |
 | 1.0 | 30 Aug 2026 | First CBA: landlord interstate terminus vs fleet; three cases |
 | 1.1 | 30 Aug 2026 | 36 states: destinations on the timetable, not 36 copies of the yard |
+| 1.2 | 30 Aug 2026 | Eventual phases: 1 hub → pair → 6 hubs (₦11.7bn); spokes optional; 36 copies still a no |
 
 **Next refresh:** named site and asking price; four operator term sheets; designation memo.
