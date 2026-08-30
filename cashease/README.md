@@ -5,7 +5,7 @@
 
 If that asks you to log in, open the same file from the pull request: [PR #3](https://github.com/dotuneasy-spec/Booktagger/pull/3) → Files changed → `cashease/CashEase_Feasibility_Study.pdf`.
 
-Owned multi-service cash kiosks on everyday streets in Nigeria — petty traders, mallams, bus waits: note-breaking, POS cash-out, airtime and bills. Pain follows people; availability is ATM-like. The stall’s offer is growth: keep the sale, then restock, then credit. The company owns the machines; a bank supplies float. One machine per counted pitch. Opening plan: **350 kiosks, ₦1.85 billion**, then **2,000** with an ₦8–12 billion facility.
+Owned multi-service cash kiosks on everyday streets in Nigeria — petty traders, mallams, bus waits: note-breaking, POS cash-out, airtime and bills. Pain follows people; availability is ATM-like. The stall’s offer is a platform of services: restock, goods on credit, BNPL. The company owns the machines; a bank supplies float. One machine per counted pitch. Opening plan: **350 kiosks, ₦1.85 billion**, then **2,000** with an ₦8–12 billion facility.
 
 | Document | Description |
 | --- | --- |
@@ -17,7 +17,7 @@ Owned multi-service cash kiosks on everyday streets in Nigeria — petty traders
 | [model/build_pdf.py](./model/build_pdf.py) | Rebuild the PDF |
 | [model/outputs/](./model/outputs/) | JSON and CSV extracts |
 
-**Prepared:** August 2026 (v2.6)  
+**Prepared:** August 2026 (v2.7)  
 **Opening plan:** 350 kiosks · ₦1.85 billion equity  
 **First operating scale:** 2,000 kiosks with ₦8–12 billion facility after Phase 1 data
 

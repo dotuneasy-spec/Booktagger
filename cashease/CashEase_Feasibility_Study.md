@@ -10,7 +10,7 @@ CashEase deploys owned kiosks wherever ordinary people already spend cash in dai
 | Field | Detail |
 | --- | --- |
 | Working name | CashEase Nigeria Ltd (legal name to be confirmed) |
-| Prepared | August 2026 · v2.6 |
+| Prepared | August 2026 · v2.7 |
 | Horizon | Year 1–Year 6 (2027–2032) |
 | Currency | Nigerian naira (₦), nominal |
 | Planning case | 180 tx/day, 92% uptime, ₦100 blended fee, bank cash from Year 2 |
@@ -44,12 +44,12 @@ CashEase deploys owned kiosks wherever ordinary people already spend cash in dai
 
 ## 1. The Plan
 
-Nigeria’s last mile still runs on cash. The customer is **everyone who spends notes in daily life** — including the poor, who are more cash-dependent, not less. Pain follows people, not a shortlist of famous crowd places. A drink from a petty trader, change from the mallam, a bus fare, waiting for that bus: those are the jobs. Population is the strength of the market. Dedicated change kiosks are a **new category**, so there is little historical “tx per kiosk” data; that is unmeasured, not disproven. CashEase is **ATM-like convenience for that everyday need** — available where people already are, so they do not hunt. For the stall, the mallam, the conductor, that convenience is also a **growth offer**: they lose fewer sales, turn stock faster, and can later restock without the trek. Phase 1 is how that habit is **proven by covering a first belt densely enough that money can follow availability**.
+Nigeria’s last mile still runs on cash. The customer is **everyone who spends notes in daily life** — including the poor, who are more cash-dependent, not less. Pain follows people, not a shortlist of famous crowd places. A drink from a petty trader, change from the mallam, a bus fare, waiting for that bus: those are the jobs. Population is the strength of the market. Dedicated change kiosks are a **new category**, so there is little historical “tx per kiosk” data; that is unmeasured, not disproven. CashEase is **ATM-like convenience for that everyday need** — available where people already are, so they do not hunt. For the stall, the mallam, the conductor, that convenience is also a **platform offer**: they lose fewer sales, then restock, then take goods on credit / BNPL once they are known. Phase 1 is how that habit is **proven by covering a first belt densely enough that money can follow availability**.
 
 **The business, in one page**
 
 1. **Own 100% of the kiosks.** They are company assets and later collateral.
-2. **Sell a bundle.** Note-breaking is the reason to stop; POS cash-out, airtime and bills pay the rent. The stall’s value is **growth**: fewer walked customers, then easier restock, then credit only after we know them.
+2. **Sell a bundle.** Note-breaking is the reason to stop; POS cash-out, airtime and bills pay the rent. The stall’s later offer is a **platform**: restock, goods on credit, BNPL — only after we know them.
 3. **Follow people on everyday streets.** Petty-trade rows, mallam spots, bus waits and park edges — not only named mega-nodes. One machine per counted pad. Dense coverage in a belt, like ATMs, so the habit forms.
 4. **Rent space like any shop.** Ordinary leases. Hosts get rent and maybe 5–10% of that site’s net.
 5. **Partner with a bank for cash**, after live volumes: they load small notes and settle POS; they take a share of eligible fees; they do not buy the hardware.
@@ -160,18 +160,22 @@ The second pain, after “I cannot break this note,” is **the stall cannot gro
 
 Growth means **more sales for people who already trade**. It does not mean minting new traders on day-one credit. Ease and convenience lower the **restock** barrier. They do not lower the barrier to enter trading with someone else’s inventory.
 
-**Curating is a thing. Per-stall management consulting is not the core.**
+**The growth layer is a platform of services — goods on credit and BNPL — not a consultancy.**
 
-| | What it is | In this plan? |
-| --- | --- | --- |
-| **Curating** | You pick SKUs, pack sizes, drop days, and which stalls get restock — category management for the street | **Yes** — that *is* Track E. One playbook, many stalls |
-| **Productized help** | A simple list: what sold, what to reorder, when the van comes; later a thin record of cash in/out | **Yes, later** — same field team, not a consultancy brand |
-| **Management consulting** | Sit with each mallam on “strategy,” books, HR, branding, and bring that business up by coaching | **No as the estate.** Labour does not scale to 350–20,000 doors. Petty traders do not buy retainers. Donor “SME clinics” already exist and do not print a kiosk P&L |
-| **Paid advisory for fat shops** | A shop that already turns serious volume wants formalisation, a TIN, a second till, or a loan file | **Optional overlay** after you know the names — priced, few accounts, never the fleet average |
+“Bring each business up” means the stall can take more stock **before** they have the cash, on terms, because you already see them sell. That is a **trade-services platform** sitting on the same streets as the kiosk: restock + goods-on-credit + BNPL (+ later pay-in, collections). One system, many stalls. TradeDepot, Sabi, OmniRetail and Moniepoint already sell this shape. CashEase’s wedge is the **live cash door** and the named trader on that door — underwriting from behaviour on your pad, not a credit-officer tour.
 
-Bring each business up by **changing what arrives on the table** (notes, stock, then credit), not by assigning a manager to every stall. If a human must visit, they are a **drop / collector**, not a consultant.
+| Service | What the trader gets | Who holds the risk | When |
+| --- | --- | --- | --- |
+| **Restock (cash)** | Goods to the stall, small MOQ | Trader pays on drop | After 30–50 live doors |
+| **Goods on credit** | Take the crate now, pay from sales | Bank / distributor / licensed lender — not CashEase’s ₦1.85bn | After weeks of seen restock and repayment |
+| **BNPL on the same order** | Scheduled pay-down tied to that invoice | Same — CashEase originates and collects; a partner books the receivable | After books; CBN digital-lending rules apply |
+| **Kiosk (Phase 1)** | Change and cash-out so today’s sales do not walk | Cassette is bank float | Now |
 
-That ladder is also the path from thin kiosk fees to a **platform take on GMV**. Phase 1 still only meters step 1. Steps 2–3 are earned on the same streets.
+CashEase **originates and collects**. A licensed partner **books the loan**. Day-one BNPL to strangers is how the book dies. BNPL to a mallam you have restocked and seen repay is how the platform takes a slice of GMV — the path that can compound past kiosk fees.
+
+This is not assigning a manager to every stall. Humans on the street drop and collect. The product that “manages” growth is **credit attached to goods**.
+
+That ladder is the path from thin kiosk fees to a **platform take on GMV**. Phase 1 still only meters the kiosk. Credit services are earned on the same streets.
 
 ### 2.7 SWOT
 
@@ -660,7 +664,7 @@ Single-purpose Ltd. Reserved matters: debt above ₦2bn, OEM POs above 50 units,
 
 The job is to **stand where people already stop for daily cash** and stack every door-opener that makes a live hopper possible: private leases, public concessions, bank float, a thin ATM sidecar. Do not wait for one saviour (CBN, vestibules, franchise, or a federal PPP). Do not wait for a shortlist of famous crowd places.
 
-**Objective.** Maximise **ATM-like availability** of stocked ₦100s on everyday streets (petty trade, mallam, bus wait), **help those existing stalls grow** (stop leaked sales, then restock, then credit), company-owned boxes (operators may buy growth machines later), and cheap enough capital to reach 2,000 — then hubs — without betting the firm on 20,000 iron sitting quiet.
+**Objective.** Maximise **ATM-like availability** of stocked ₦100s on everyday streets (petty trade, mallam, bus wait), then a **trade-services platform** on those same stalls (restock, goods on credit, BNPL), company-owned boxes (operators may buy growth machines later), and cheap enough capital to reach 2,000 — then hubs — without betting the firm on 20,000 iron sitting quiet.
 
 ### 13.1 Five tracks, in parallel (not in a queue)
 
@@ -670,14 +674,14 @@ The job is to **stand where people already stop for daily cash** and stack every
 | **B. Bank float** | Small notes in the cassette | Acquirer now; **cash SLA** when 10–50 boxes have books. ATM-adjacent = **pilot of 5–10**, not the estate |
 | **C. Public land** | Official high-traffic slabs | Mini-concession: one park + one market street; you own machines; fee or small share to LGA/terminal |
 | **D. Policy story** | Introductions, not a cheque | Liquidity-in-use + **MSME growth** (existing stalls) for BOI and bank desks |
-| **E. Trader growth** | Restock + later credit so known stalls turn more | After 30–50 live doors: one van, 10–15 SKUs, **curated** list, cash on delivery. No day-one BNPL. No per-stall management consultancy |
+| **E. Trade-services platform** | Restock, then **goods on credit / BNPL** so known stalls turn more | After 30–50 live doors: cash restock first. Credit/BNPL only on named stalls with a partner book. CashEase originates and collects |
 
-Track A **never pauses** for B, C, D, or E. E is how the stall **grows** after the hopper is in front of it. It must not eat the ₦1.85bn OEM-and-float cheque.
+Track A **never pauses** for B, C, D, or E. E is the **platform** (restock → goods on credit → BNPL) after the hopper is in front of the stall. It must not eat the ₦1.85bn OEM-and-float cheque.
 
 ### 13.2 Sequence that compounds
 
 1. **Create the first situations (months 0–6).** Walk ordinary streets: petty traders, mallams, bus waits, park edges, busy petrol. Count change-asks, lost fares, walked customers, people anticipating a trip. Order 10 machines. Go live. This is the new-category proof.  
-2. **Thicken the belt (months 6–12).** 350 doors in Lagos–Ogun until the product feels as available as an ATM in that catchment. One machine per pad. Kill pads with no people. When 30–50 doors are live, start **Track E** on named stalls only: restock convenience so those businesses grow.  
+2. **Thicken the belt (months 6–12).** 350 doors in Lagos–Ogun until the product feels as available as an ATM in that catchment. One machine per pad. Kill pads with no people. When 30–50 doors are live, start **Track E** on named stalls: cash restock first, then goods on credit / BNPL with a partner book.  
 3. **Unlock float (months 9–18).** Bank adopts **cash + settlement** on *your* grid. Ask for a **vestibule sidecar** in the same paper — extra, not exclusive.  
 4. **Unlock public pads (in parallel).** Copy one working park or market-street concession to the next LGA. That is how government “adoption” becomes **land**, while the bank remains **cash**.  
 5. **Fund 2,000 (after books).** ₦8–12bn against machines + SLA. Best risk-adjusted scale (~₦1.2bn NPAT/year on planning).  
@@ -694,8 +698,8 @@ Track A **never pauses** for B, C, D, or E. E is how the stall **grows** after t
 | One box; second only if the queue is real | Four machines on one slab; only-famous-hubs thinking |
 | 70%+ of POS; change fees yours | Vestibule deal that forbids livelihood / street sites |
 | Policy as a **letter and intro** | Policy as the revenue line |
-| Help **known** stalls grow (leakage → restock → credit) | Day-one credit that mints new traders |
-| **Curate** SKUs and drop days (one playbook) | Hire consultants to “manage” every mallam |
+| Help **known** stalls grow (leakage → restock → goods on credit / BNPL) | Day-one BNPL to strangers; CashEase as the lender of record on its own equity |
+| Originate and collect; **partner books** the receivable | Become an unlicensed digital lender |
 
 ### 13.4 How 20,000 becomes the upside, not the bet
 
@@ -713,12 +717,12 @@ Bank float + public concessions + a **dense first belt of everyday streets** is 
 | 4 | Acquirer term sheet | Promoter | Month 2 |
 | 5 | Run 10 units 60 days | Operations | Month 4–6 |
 | 6 | If medians ≥ 150 tx/day, complete **350** (₦1.85bn total uses) | Board | Month 6–12 |
-| 6b | Thin restock pilot on **named** stalls at 30–50 live doors (Track E) | Operations | After first 30–50 doors |
+| 6b | Track E: cash restock on **named** stalls; term-sheet a credit/BNPL partner (you originate, they book) | Operations + Promoter | After first 30–50 doors |
 | 7 | Bank partnership on live volumes (Appendix B) | Promoter | Month 9–15 |
 | 8 | BOI/club file for **₦8–12bn**, 2,000-kiosk hold | Finance | After 6–12 months of Phase 1 |
 | 9 | 5,000 and a second tranche after four quarters at plan | Board | Year 3 |
 
-CashEase is a **Nigerian multi-service cash-kiosk operator that owns its boxes and rents its float from banks**. It puts ATM-like availability on the majority’s daily cash moments — petty traders, mallams, bus waits — so money can follow convenience. The stall’s offer is **growth**: keep the sale, then restock, then credit. It rents like a shop: many ordinary doors in one belt, **one machine per pad**.
+CashEase is a **Nigerian multi-service cash-kiosk operator that owns its boxes and rents its float from banks**. It puts ATM-like availability on the majority’s daily cash moments — petty traders, mallams, bus waits — so money can follow convenience. The stall’s offer is a **platform of services**: keep the sale, restock, then goods on credit and BNPL. It rents like a shop: many ordinary doors in one belt, **one machine per pad**.
 
 Raise **₦1.85 billion**, build **350**, then borrow for **2,000**. Nationwide hubs and any ₦90 billion *turnover* story are earned after those doors print.
 
@@ -804,5 +808,6 @@ Discount rate 22%. Tax 32.1% of PBT. Fleet paths and unit assumptions are in `SC
 | 2.4 | 18 Aug 2026 | Pain follows people: ATM-like everyday convenience (petty trader, mallam, bus wait); named hubs are density, not the strategy |
 | 2.5 | 30 Aug 2026 | Value proposition: help existing stalls grow (stop leakage → restock → credit); Track E |
 | 2.6 | 30 Aug 2026 | Curating SKUs/playbook is in; per-stall management consulting is not the estate |
+| 2.7 | 30 Aug 2026 | Growth layer restated as a trade-services platform: goods on credit and BNPL; CashEase originates, partner books |
 
 **Next refresh triggers:** counsel memo received; 60-day OEM trial closed; first 15-site counts complete; any circular on IADs, agent cash caps or POS geotagging.
