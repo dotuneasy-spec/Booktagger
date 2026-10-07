@@ -54,7 +54,7 @@ def draw(results: dict, folder: Path) -> dict[str, str]:
     ax.set_ylim(0, max(us, max(vals)) * 1.08)
     ax.set_ylabel("All-in cost, ₦ million")
     ax.set_xlabel("Published FOB, US dollars")
-    ax.set_title("Landed cost of the listed Chinese machines, with the v4 site-works assumption")
+    ax.set_title("Landed cost, including the US$1,800 programming adder and the v4 site works")
     ax.legend(frameon=False, fontsize=8, loc="upper left")
     p = folder / "fig_china_landed.png"
     _save(fig, p)

@@ -50,6 +50,18 @@ DUTY_RATE = 0.05  # representative 8471.60 rate; not an NCS ruling
 VAT_RATE = 0.075
 SON_USD = 500 + 350  # PC1 + one SONCAP certificate, per consignment
 
+# The only published per-unit "Customized" adder found on a bill-recycler kiosk.
+# It is not printed on the Hongzhou or GRG FOB pages, and the listing does not
+# say the line is a naira note template. It is the stand-in used in the base
+# case because no naira-programming invoice was found. The zero-adder case is
+# the other end of the range.
+CUSTOM_USD = 1_800
+# May 2024 NIBSS sandbox note: ₦250,000 for a device application and ₦250,000
+# for an application certification. One named model, not each deployed kiosk.
+# The September 2026 recertification note says "the applicable fee" and does
+# not restate the amount. This is a POS-terminal process, not an ATM ruling.
+NIBSS_ONCE = 250_000 + 250_000
+
 V4_ALL_IN = 40_000 * FX * 1.08 + INSTALL + SOFTWARE  # 65,529,008 before duty
 LISTED_SITES = 774 + 2048 + 30 + 10 + 13 + 12  # 2,887
 HQ_ANNUAL = 25_000_000
@@ -135,18 +147,30 @@ def payback(flows: list[float]) -> float | None:
     return None
 
 
-def landed(fob: float, ocean: float, thc: float, clearing: float, with_site_works: bool) -> dict:
+def landed(
+    fob: float,
+    ocean: float,
+    thc: float,
+    clearing: float,
+    with_site_works: bool,
+    custom_usd: float,
+) -> dict:
     freight_usd = ocean / PER_CONTAINER
-    cif = fob + freight_usd
+    goods_usd = fob + custom_usd
+    cif = goods_usd + freight_usd
     duty = DUTY_RATE * cif
     vat = VAT_RATE * (cif + duty)
     son_usd = SON_USD / PER_CONTAINER
     border_usd = cif + duty + vat + son_usd
     border_ngn = border_usd * FX + (thc + clearing) / PER_CONTAINER
     works = (INSTALL + SOFTWARE) if with_site_works else 0.0
-    all_in = border_ngn + works
+    machine_ngn = border_ngn + works
+    # The NIBSS pair is paid once for the named model, on the first machine.
+    first_ngn = machine_ngn + NIBSS_ONCE
     return {
         "fob_usd": fob,
+        "custom_usd": custom_usd,
+        "goods_usd": goods_usd,
         "freight_usd": freight_usd,
         "cif_usd": cif,
         "duty_usd": duty,
@@ -154,8 +178,10 @@ def landed(fob: float, ocean: float, thc: float, clearing: float, with_site_work
         "son_usd": son_usd,
         "border_ngn": border_ngn,
         "works_ngn": works,
-        "all_in_ngn": all_in,
-        "exworks_ngn": fob * FX,
+        "nibss_ngn": NIBSS_ONCE,
+        "machine_ngn": machine_ngn,
+        "all_in_ngn": first_ngn,
+        "exworks_ngn": goods_usd * FX,
     }
 
 
@@ -214,20 +240,24 @@ def rollout(all_in: float, cash_profit: float, hq: float, start: int = 1) -> dic
 def main() -> dict:
     rows = []
     for item in LISTINGS:
-        low = landed(item["fob"], OCEAN_LOW, THC_LOW, CLEAR_LOW, True)
-        high = landed(item["fob"], OCEAN_HIGH, THC_HIGH, CLEAR_HIGH, True)
-        bare = landed(item["fob"], OCEAN_HIGH, THC_HIGH, CLEAR_HIGH, False)
+        low = landed(item["fob"], OCEAN_LOW, THC_LOW, CLEAR_LOW, True, CUSTOM_USD)
+        high = landed(item["fob"], OCEAN_HIGH, THC_HIGH, CLEAR_HIGH, True, CUSTOM_USD)
+        bare = landed(item["fob"], OCEAN_HIGH, THC_HIGH, CLEAR_HIGH, False, CUSTOM_USD)
+        plain = landed(item["fob"], OCEAN_HIGH, THC_HIGH, CLEAR_HIGH, True, 0.0)
         cases = {}
-        for label, pack in (("low", low), ("high", high), ("bare", bare)):
+        for label, pack in (("low", low), ("high", high), ("bare", bare), ("plain", plain)):
             ex = pack["exworks_ngn"]
-            ain = pack["all_in_ngn"]
+            first = pack["all_in_ngn"]
+            nxt = pack["machine_ngn"]
             maint = MAINT_RATE * ex
-            ins = INS_RATE * ain
-            dep = ain / LIFE
-            cash_cost = STREET + maint + ins
+            ins_first = INS_RATE * first
+            dep = first / LIFE
+            cash_cost = STREET + maint + ins_first
             full_cost = cash_cost + dep
-            at = {str(tx): unit(ain, ex, tx, 0.0) for tx in (150, 250, 400)}
-            at_half = {str(tx): unit(ain, ex, tx, CIT_FULL / 2) for tx in (150, 250, 400)}
+            at = {str(tx): unit(first, ex, tx, 0.0) for tx in (150, 250, 400)}
+            at_half = {str(tx): unit(first, ex, tx, CIT_FULL / 2) for tx in (150, 250, 400)}
+            # Later machines do not pay the one-time NIBSS fee again.
+            next_at = {str(tx): unit(nxt, ex, tx, 0.0) for tx in (150, 250, 400)}
             cases[label] = {
                 "landed": pack,
                 "be_cash": be(cash_cost),
@@ -236,11 +266,11 @@ def main() -> dict:
                 "be_full_half_cit": be(full_cost + CIT_FULL / 2),
                 "at": at,
                 "at_half_cit": at_half,
-                "roll_400": rollout(ain, at["400"]["cash_profit"], 0.0),
-                "roll_400_hq": rollout(ain, at["400"]["cash_profit"], HQ_ANNUAL),
-                "roll_250": rollout(ain, at["250"]["cash_profit"], 0.0),
-                "roll_250_hq": rollout(ain, at["250"]["cash_profit"], HQ_ANNUAL),
-                "roll_150": rollout(ain, at["150"]["cash_profit"], 0.0),
+                "roll_400": rollout(nxt, next_at["400"]["cash_profit"], 0.0),
+                "roll_400_hq": rollout(nxt, next_at["400"]["cash_profit"], HQ_ANNUAL),
+                "roll_250": rollout(nxt, next_at["250"]["cash_profit"], 0.0),
+                "roll_250_hq": rollout(nxt, next_at["250"]["cash_profit"], HQ_ANNUAL),
+                "roll_150": rollout(nxt, next_at["150"]["cash_profit"], 0.0),
             }
         rows.append({"id": item["id"], "name": item["name"], "role": item["role"], "fob": item["fob"], "cases": cases})
 
@@ -265,6 +295,8 @@ def main() -> dict:
         "per_container_assumption": PER_CONTAINER,
         "duty_rate": DUTY_RATE,
         "vat_rate": VAT_RATE,
+        "custom_usd": CUSTOM_USD,
+        "nibss_once": NIBSS_ONCE,
         "listed_sites": LISTED_SITES,
         "hq_annual": HQ_ANNUAL,
         "rows": rows,
