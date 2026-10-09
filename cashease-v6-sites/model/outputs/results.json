@@ -1,0 +1,238 @@
+{
+  "days": 270,
+  "surcharge": 500,
+  "high_all_in": 23717100.38,
+  "low_all_in": 14586095.96,
+  "high_street": 5784994.94,
+  "high_full": 9173152.14,
+  "low_street": 4849017.38,
+  "kiosk_high_all_in": 16252281.11,
+  "kiosk_street": 2666495.5,
+  "kiosk_revenue": 378000.0,
+  "kiosk_cash": -2288495.5,
+  "per_atm_withdrawals": 283.88,
+  "daily_national": 4744751.38,
+  "avg_ticket": 42314.86,
+  "mall_visitors_day": 26666.67,
+  "be": {
+    "100/0": {
+      "cash": 42.85,
+      "full": 67.95,
+      "low_full": 51.35,
+      "share_of_avg_atm_full": 0.23936,
+      "mall_visitors_per_withdrawal_full": 392.45,
+      "mall_conversion_full": 0.002548
+    },
+    "70/30": {
+      "cash": 61.22,
+      "full": 97.07,
+      "low_full": 73.36,
+      "share_of_avg_atm_full": 0.341943,
+      "mall_visitors_per_withdrawal_full": 274.71,
+      "mall_conversion_full": 0.00364
+    },
+    "50/50": {
+      "cash": 85.7,
+      "full": 135.9,
+      "low_full": 102.71,
+      "share_of_avg_atm_full": 0.478725,
+      "mall_visitors_per_withdrawal_full": 196.22,
+      "mall_conversion_full": 0.005096
+    }
+  },
+  "machines": {
+    "100/0": {
+      "60": {
+        "revenue": 8100000.0,
+        "cash": 2315005.06,
+        "operating": -1073152.14,
+        "npv": -16917894.85,
+        "irr": -0.0871,
+        "payback": null
+      },
+      "120": {
+        "revenue": 16200000.0,
+        "cash": 10415005.06,
+        "operating": 7026847.86,
+        "npv": 6871930.01,
+        "irr": 0.3968,
+        "payback": 2.2772
+      },
+      "200": {
+        "revenue": 27000000.0,
+        "cash": 21215005.06,
+        "operating": 17826847.86,
+        "npv": 38591696.49,
+        "irr": 0.8839,
+        "payback": 1.1179
+      }
+    },
+    "70/30": {
+      "60": {
+        "revenue": 5670000.0,
+        "cash": -114994.94,
+        "operating": -3503152.14,
+        "npv": -24054842.3,
+        "irr": null,
+        "payback": null
+      },
+      "120": {
+        "revenue": 11340000.0,
+        "cash": 5555005.06,
+        "operating": 2166847.86,
+        "npv": -7401964.9,
+        "irr": 0.1414,
+        "payback": 4.2695
+      },
+      "200": {
+        "revenue": 18900000.0,
+        "cash": 13115005.06,
+        "operating": 9726847.86,
+        "npv": 14801871.63,
+        "irr": 0.524,
+        "payback": 1.8084
+      }
+    },
+    "50/50": {
+      "60": {
+        "revenue": 4050000.0,
+        "cash": -1734994.94,
+        "operating": -5123152.14,
+        "npv": -28812807.27,
+        "irr": null,
+        "payback": null
+      },
+      "120": {
+        "revenue": 8100000.0,
+        "cash": 2315005.06,
+        "operating": -1073152.14,
+        "npv": -16917894.85,
+        "irr": -0.0871,
+        "payback": null
+      },
+      "200": {
+        "revenue": 13500000.0,
+        "cash": 7715005.06,
+        "operating": 4326847.86,
+        "npv": -1058011.61,
+        "irr": 0.2612,
+        "payback": 3.0742
+      }
+    }
+  },
+  "low70": {
+    "60": {
+      "revenue": 5670000.0,
+      "cash": 820982.62,
+      "operating": -1262745.37,
+      "npv": -12174857.34,
+      "irr": -0.1902,
+      "payback": null
+    },
+    "120": {
+      "revenue": 11340000.0,
+      "cash": 6490982.62,
+      "operating": 4407254.63,
+      "npv": 4478020.06,
+      "irr": 0.4035,
+      "payback": 2.2471
+    },
+    "200": {
+      "revenue": 18900000.0,
+      "cash": 14050982.62,
+      "operating": 11967254.63,
+      "npv": 26681856.59,
+      "irr": 0.9545,
+      "payback": 1.0381
+    }
+  },
+  "humans": {
+    "60": {
+      "wd": 60,
+      "gross": 1620000,
+      "cashease": 324000.0,
+      "attendant": 1134000.0,
+      "host": 162000.0,
+      "npv_if_fee_150": 1101592.99,
+      "npv_if_fee_300": 1251592.99
+    },
+    "120": {
+      "wd": 120,
+      "gross": 3240000,
+      "cashease": 648000.0,
+      "attendant": 2268000.0,
+      "host": 324000.0,
+      "npv_if_fee_150": 2053185.99,
+      "npv_if_fee_300": 2203185.99
+    },
+    "200": {
+      "wd": 200,
+      "gross": 5400000,
+      "cashease": 1080000.0,
+      "attendant": 3780000.0,
+      "host": 540000.0,
+      "npv_if_fee_150": 3321976.65,
+      "npv_if_fee_300": 3471976.65
+    }
+  },
+  "test_fleet_12": {
+    "60": {
+      "n": 12,
+      "wd": 60,
+      "year0": 320905204.56,
+      "capex": 279105204.56,
+      "annual": -26979939.28,
+      "npv": -400145702.11,
+      "irr": null,
+      "payback": null
+    },
+    "120": {
+      "n": 12,
+      "wd": 120,
+      "year0": 320905204.56,
+      "capex": 279105204.56,
+      "annual": 41060060.72,
+      "npv": -200311173.31,
+      "irr": -0.026815,
+      "payback": null
+    },
+    "200": {
+      "n": 12,
+      "wd": 200,
+      "year0": 320905204.56,
+      "capex": 279105204.56,
+      "annual": 131780060.72,
+      "npv": 66134865.1,
+      "irr": 0.363871,
+      "payback": 2.435158
+    }
+  },
+  "meman_total": 3293,
+  "meman": {
+    "South West": {
+      "stations": 1392,
+      "lead": "Lagos 722"
+    },
+    "South East": {
+      "stations": 173,
+      "lead": "Enugu 53"
+    },
+    "South South": {
+      "stations": 458,
+      "lead": "Rivers 141"
+    },
+    "North Central": {
+      "stations": 529,
+      "lead": "Abuja 200"
+    },
+    "North West": {
+      "stations": 467,
+      "lead": "Kano 140"
+    },
+    "North East": {
+      "stations": 274,
+      "lead": "Adamawa 78"
+    }
+  },
+  "chains_top10": 327
+}
