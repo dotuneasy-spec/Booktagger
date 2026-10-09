@@ -34,6 +34,8 @@ ATM_VALUE_H1 = 36.34e12
 ATM_STOCK = 16_714
 HALF_DAYS = 181
 MALL_MONTH = 800_000  # Actis, "up to", Ikeja, stated while Actis still described the asset
+PALMS_MONTH = 600_000  # Persianas, "more than", The Palms Lekki
+JABI_MONTH = 300_000  # Actis, "expects" / "more than", Jabi; a forecast, not a turnstile
 MALL_DAYS = 30  # assumption: the month is 30 days
 
 
@@ -98,15 +100,22 @@ def main() -> dict:
     per_atm = daily_atm / ATM_STOCK
     ticket = ATM_VALUE_H1 / ATM_TX_H1
     mall_day = MALL_MONTH / MALL_DAYS
+    palms_day = PALMS_MONTH / MALL_DAYS
+    jabi_day = JABI_MONTH / MALL_DAYS
     be = {}
     for label in ("100/0", "70/30", "50/50"):
+        full = hi["splits"][label]["be_full"]
         be[label] = {
             "cash": hi["splits"][label]["be_cash"],
-            "full": hi["splits"][label]["be_full"],
+            "full": full,
             "low_full": lo["splits"][label]["be_full"],
-            "share_of_avg_atm_full": hi["splits"][label]["be_full"] / per_atm,
-            "mall_visitors_per_withdrawal_full": mall_day / hi["splits"][label]["be_full"],
-            "mall_conversion_full": hi["splits"][label]["be_full"] / mall_day,
+            "share_of_avg_atm_full": full / per_atm,
+            "mall_visitors_per_withdrawal_full": mall_day / full,
+            "mall_conversion_full": full / mall_day,
+            "palms_visitors_per_withdrawal_full": palms_day / full,
+            "palms_conversion_full": full / palms_day,
+            "jabi_visitors_per_withdrawal_full": jabi_day / full,
+            "jabi_conversion_full": full / jabi_day,
         }
     machines = {}
     for split in ("100/0", "70/30", "50/50"):
@@ -130,6 +139,8 @@ def main() -> dict:
         "daily_national": daily_atm,
         "avg_ticket": ticket,
         "mall_visitors_day": mall_day,
+        "palms_visitors_day": palms_day,
+        "jabi_visitors_day": jabi_day,
         "be": be,
         "machines": machines,
         "low70": low70,

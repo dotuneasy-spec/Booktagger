@@ -14,6 +14,8 @@
   "daily_national": 4744751.38,
   "avg_ticket": 42314.86,
   "mall_visitors_day": 26666.67,
+  "palms_visitors_day": 20000.0,
+  "jabi_visitors_day": 10000.0,
   "be": {
     "100/0": {
       "cash": 42.85,
@@ -21,7 +23,11 @@
       "low_full": 51.35,
       "share_of_avg_atm_full": 0.23936,
       "mall_visitors_per_withdrawal_full": 392.45,
-      "mall_conversion_full": 0.002548
+      "mall_conversion_full": 0.002548,
+      "palms_visitors_per_withdrawal_full": 294.34,
+      "palms_conversion_full": 0.003397,
+      "jabi_visitors_per_withdrawal_full": 147.17,
+      "jabi_conversion_full": 0.006795
     },
     "70/30": {
       "cash": 61.22,
@@ -29,7 +35,11 @@
       "low_full": 73.36,
       "share_of_avg_atm_full": 0.341943,
       "mall_visitors_per_withdrawal_full": 274.71,
-      "mall_conversion_full": 0.00364
+      "mall_conversion_full": 0.00364,
+      "palms_visitors_per_withdrawal_full": 206.04,
+      "palms_conversion_full": 0.004854,
+      "jabi_visitors_per_withdrawal_full": 103.02,
+      "jabi_conversion_full": 0.009707
     },
     "50/50": {
       "cash": 85.7,
@@ -37,7 +47,11 @@
       "low_full": 102.71,
       "share_of_avg_atm_full": 0.478725,
       "mall_visitors_per_withdrawal_full": 196.22,
-      "mall_conversion_full": 0.005096
+      "mall_conversion_full": 0.005096,
+      "palms_visitors_per_withdrawal_full": 147.17,
+      "palms_conversion_full": 0.006795,
+      "jabi_visitors_per_withdrawal_full": 73.58,
+      "jabi_conversion_full": 0.01359
     }
   },
   "machines": {
