@@ -1,0 +1,573 @@
+{
+  "nibss_once": 500000,
+  "boxes": {
+    "hz4800_plain": {
+      "fob_usd": 4800,
+      "custom_usd": 0,
+      "freight_usd": 345.0,
+      "goods_usd": 4800,
+      "cif_usd": 5145.0,
+      "duty_usd": 257.25,
+      "vat_usd": 405.17,
+      "son_usd": 85.0,
+      "border_ngn": 7926860.39,
+      "works_ngn": 8000000,
+      "machine_ngn": 15926860.39,
+      "all_in_ngn": 16426860.39,
+      "exworks_ngn": 6392100.0
+    },
+    "hz4800_custom": {
+      "fob_usd": 4800,
+      "custom_usd": 1800,
+      "freight_usd": 345.0,
+      "goods_usd": 6600,
+      "cif_usd": 6945.0,
+      "duty_usd": 347.25,
+      "vat_usd": 546.92,
+      "son_usd": 85.0,
+      "border_ngn": 10632516.47,
+      "works_ngn": 8000000,
+      "machine_ngn": 18632516.47,
+      "all_in_ngn": 19132516.47,
+      "exworks_ngn": 8789137.5
+    },
+    "hz4800_plain_lowfreight": {
+      "fob_usd": 4800,
+      "custom_usd": 0,
+      "freight_usd": 297.0,
+      "goods_usd": 4800,
+      "cif_usd": 5097.0,
+      "duty_usd": 254.85,
+      "vat_usd": 401.39,
+      "son_usd": 85.0,
+      "border_ngn": 7814709.57,
+      "works_ngn": 8000000,
+      "machine_ngn": 15814709.57,
+      "all_in_ngn": 16314709.57,
+      "exworks_ngn": 6392100.0
+    },
+    "hz5500_custom": {
+      "fob_usd": 5500,
+      "custom_usd": 1800,
+      "freight_usd": 345.0,
+      "goods_usd": 7300,
+      "cif_usd": 7645.0,
+      "duty_usd": 382.25,
+      "vat_usd": 602.04,
+      "son_usd": 85.0,
+      "border_ngn": 11684716.06,
+      "works_ngn": 8000000,
+      "machine_ngn": 19684716.06,
+      "all_in_ngn": 20184716.06,
+      "exworks_ngn": 9721318.75
+    },
+    "high_band": {
+      "fob_usd": 7850,
+      "custom_usd": 1800,
+      "freight_usd": 345.0,
+      "goods_usd": 9650,
+      "cif_usd": 9995.0,
+      "duty_usd": 499.75,
+      "vat_usd": 787.11,
+      "son_usd": 85.0,
+      "border_ngn": 15217100.38,
+      "works_ngn": 8000000,
+      "machine_ngn": 23217100.38,
+      "all_in_ngn": 23717100.38,
+      "exworks_ngn": 12850784.38
+    }
+  },
+  "streets": {
+    "hz4800_plain": 5029772.91,
+    "hz4800_custom": 5310061.5,
+    "hz4800_plain_lowfreight": 5028090.64,
+    "hz5500_custom": 5419062.62,
+    "high_band": 5784994.94
+  },
+  "fulls": {
+    "hz4800_plain": 7376467.25,
+    "hz4800_custom": 8043278.14,
+    "hz4800_plain_lowfreight": 7358763.44,
+    "hz5500_custom": 8302593.48,
+    "high_band": 9173152.14
+  },
+  "custom": {
+    "be": {
+      "100/0": {
+        "cash": 39.33,
+        "full": 59.58
+      },
+      "70/30": {
+        "cash": 56.19,
+        "full": 85.11
+      },
+      "50/50": {
+        "cash": 78.67,
+        "full": 119.16
+      }
+    },
+    "units": {
+      "100/0": {
+        "60": {
+          "revenue": 8100000.0,
+          "cash": 2789938.5,
+          "npv": -10938424.08,
+          "irr": 0.005162,
+          "payback": 6.857684,
+          "full_cost": 8043278.14
+        },
+        "120": {
+          "revenue": 16200000.0,
+          "cash": 10889938.5,
+          "npv": 12851400.77,
+          "irr": 0.541688,
+          "payback": 1.756898,
+          "full_cost": 8043278.14
+        },
+        "200": {
+          "revenue": 27000000.0,
+          "cash": 21689938.5,
+          "npv": 44571167.25,
+          "irr": 1.127931,
+          "payback": 0.882092,
+          "full_cost": 8043278.14
+        }
+      },
+      "70/30": {
+        "60": {
+          "revenue": 5670000.0,
+          "cash": 359938.5,
+          "npv": -18075371.54,
+          "irr": -0.345032,
+          "payback": null,
+          "full_cost": 8043278.14
+        },
+        "120": {
+          "revenue": 11340000.0,
+          "cash": 6029938.5,
+          "npv": -1422494.14,
+          "irr": 0.248522,
+          "payback": 3.172921,
+          "full_cost": 8043278.14
+        },
+        "200": {
+          "revenue": 18900000.0,
+          "cash": 13589938.5,
+          "npv": 20781342.39,
+          "irr": 0.692448,
+          "payback": 1.407844,
+          "full_cost": 8043278.14
+        }
+      },
+      "50/50": {
+        "60": {
+          "revenue": 4050000.0,
+          "cash": -1260061.5,
+          "npv": -22833336.51,
+          "irr": null,
+          "payback": null,
+          "full_cost": 8043278.14
+        },
+        "120": {
+          "revenue": 8100000.0,
+          "cash": 2789938.5,
+          "npv": -10938424.08,
+          "irr": 0.005162,
+          "payback": 6.857684,
+          "full_cost": 8043278.14
+        },
+        "200": {
+          "revenue": 13500000.0,
+          "cash": 8189938.5,
+          "npv": 4921459.15,
+          "irr": 0.384069,
+          "payback": 2.3361,
+          "full_cost": 8043278.14
+        }
+      }
+    }
+  },
+  "plain": {
+    "be": {
+      "100/0": {
+        "cash": 37.26,
+        "full": 54.64
+      },
+      "70/30": {
+        "cash": 53.23,
+        "full": 78.06
+      },
+      "50/50": {
+        "cash": 74.52,
+        "full": 109.28
+      }
+    },
+    "units": {
+      "100/0": {
+        "60": {
+          "revenue": 8100000.0,
+          "cash": 3070227.09,
+          "npv": -7409556.09,
+          "irr": 0.072083,
+          "payback": 5.350373,
+          "full_cost": 7376467.25
+        },
+        "120": {
+          "revenue": 16200000.0,
+          "cash": 11170227.09,
+          "npv": 16380268.76,
+          "irr": 0.660458,
+          "payback": 1.470593,
+          "full_cost": 7376467.25
+        },
+        "200": {
+          "revenue": 27000000.0,
+          "cash": 21970227.09,
+          "npv": 48100035.24,
+          "irr": 1.333912,
+          "payback": 0.747687,
+          "full_cost": 7376467.25
+        }
+      },
+      "70/30": {
+        "60": {
+          "revenue": 5670000.0,
+          "cash": 640227.09,
+          "npv": -14546503.55,
+          "irr": -0.248233,
+          "payback": null,
+          "full_cost": 7376467.25
+        },
+        "120": {
+          "revenue": 11340000.0,
+          "cash": 6310227.09,
+          "npv": 2106373.85,
+          "irr": 0.332691,
+          "payback": 2.603212,
+          "full_cost": 7376467.25
+        },
+        "200": {
+          "revenue": 18900000.0,
+          "cash": 13870227.09,
+          "npv": 24310210.38,
+          "irr": 0.83218,
+          "payback": 1.184325,
+          "full_cost": 7376467.25
+        }
+      },
+      "50/50": {
+        "60": {
+          "revenue": 4050000.0,
+          "cash": -979772.91,
+          "npv": -19304468.52,
+          "irr": null,
+          "payback": null,
+          "full_cost": 7376467.25
+        },
+        "120": {
+          "revenue": 8100000.0,
+          "cash": 3070227.09,
+          "npv": -7409556.09,
+          "irr": 0.072083,
+          "payback": 5.350373,
+          "full_cost": 7376467.25
+        },
+        "200": {
+          "revenue": 13500000.0,
+          "cash": 8470227.09,
+          "npv": 8450327.15,
+          "irr": 0.482938,
+          "payback": 1.939365,
+          "full_cost": 7376467.25
+        }
+      }
+    }
+  },
+  "cases": {
+    "custom_100_200": {
+      "machines": 1120,
+      "fleet": {
+        "n": 1120,
+        "wd": 200,
+        "share": 1.0,
+        "blocks": 1,
+        "year0": 21076918448.94,
+        "annual": 24211731123.27,
+        "npv": 50033309071.82,
+        "irr": 1.143201,
+        "payback": 0.870525,
+        "share_of_national": 0.04721
+      }
+    },
+    "custom_100_120": {
+      "machines": 3839,
+      "fleet": {
+        "n": 3839,
+        "wd": 120,
+        "share": 1.0,
+        "blocks": 1,
+        "year0": 72146580737.03,
+        "annual": 41589523912.69,
+        "npv": 50002492076.27,
+        "irr": 0.54959,
+        "payback": 1.73473,
+        "share_of_national": 0.097093
+      }
+    },
+    "custom_70_200": {
+      "machines": 2389,
+      "fleet": {
+        "n": 2389,
+        "wd": 200,
+        "share": 0.7,
+        "blocks": 1,
+        "year0": 44911931852.24,
+        "annual": 32321913083.47,
+        "npv": 50018025100.02,
+        "irr": 0.7023,
+        "payback": 1.38952,
+        "share_of_national": 0.100701
+      }
+    },
+    "custom_70_120": {
+      "machines": null,
+      "fleet": null
+    },
+    "custom_50_200": {
+      "machines": 9780,
+      "fleet": {
+        "n": 9780,
+        "wd": 200,
+        "share": 0.5,
+        "blocks": 1,
+        "year0": 183733511098.76,
+        "annual": 79583598558.52,
+        "npv": 50004744608.98,
+        "irr": 0.389926,
+        "payback": 2.308686,
+        "share_of_national": 0.412245
+      }
+    },
+    "plain_100_200": {
+      "machines": 1038,
+      "fleet": {
+        "n": 1038,
+        "wd": 200,
+        "share": 1.0,
+        "blocks": 1,
+        "year0": 16728281089.12,
+        "annual": 22728195723.66,
+        "npv": 50024780095.05,
+        "irr": 1.35529,
+        "payback": 0.736014,
+        "share_of_national": 0.043754
+      }
+    },
+    "plain_100_120": {
+      "machines": 3022,
+      "fleet": {
+        "n": 3022,
+        "wd": 120,
+        "share": 1.0,
+        "blocks": 1,
+        "year0": 48624772111.09,
+        "annual": 33580326278.33,
+        "npv": 50001163792.31,
+        "irr": 0.67167,
+        "payback": 1.448014,
+        "share_of_national": 0.07643
+      }
+    },
+    "plain_70_200": {
+      "machines": 2045,
+      "fleet": {
+        "n": 2045,
+        "wd": 200,
+        "share": 0.7,
+        "blocks": 1,
+        "year0": 32917679506.02,
+        "annual": 28237364407.41,
+        "npv": 50015895023.4,
+        "irr": 0.846078,
+        "payback": 1.165749,
+        "share_of_national": 0.086201
+      }
+    },
+    "plain_70_120": {
+      "machines": 21699,
+      "fleet": {
+        "n": 21699,
+        "wd": 120,
+        "share": 0.7,
+        "blocks": 1,
+        "year0": 348892293692.46,
+        "annual": 135815667714.61,
+        "npv": 50000415915.96,
+        "irr": 0.338775,
+        "payback": 2.568866,
+        "share_of_national": 0.548792
+      }
+    },
+    "high_100_200": {
+      "machines": 1292,
+      "fleet": {
+        "n": 1292,
+        "wd": 200,
+        "share": 1.0,
+        "blocks": 1,
+        "year0": 30230793694.09,
+        "annual": 27320186533.34,
+        "npv": 50009015281.34,
+        "irr": 0.893359,
+        "payback": 1.106537,
+        "share_of_national": 0.05446
+      }
+    },
+    "high_100_120": {
+      "machines": 7084,
+      "fleet": {
+        "n": 7084,
+        "wd": 120,
+        "share": 1.0,
+        "blocks": 1,
+        "year0": 165573039109.08,
+        "annual": 73400695822.11,
+        "npv": 50005935955.49,
+        "irr": 0.401592,
+        "payback": 2.255742,
+        "share_of_national": 0.179162
+      }
+    }
+  },
+  "tranches": [
+    {
+      "n": 12,
+      "wd": 200,
+      "share": 1.0,
+      "blocks": 1,
+      "year0": 265890197.67,
+      "annual": 234679262.03,
+      "npv": 423366412.39,
+      "irr": 0.871647,
+      "payback": 1.132994,
+      "share_of_national": 0.000506
+    },
+    {
+      "n": 100,
+      "wd": 200,
+      "share": 1.0,
+      "blocks": 1,
+      "year0": 1918751647.23,
+      "annual": 2138993850.29,
+      "npv": 4363506262.6,
+      "irr": 1.108773,
+      "payback": 0.897035,
+      "share_of_national": 0.004215
+    },
+    {
+      "n": 500,
+      "wd": 200,
+      "share": 1.0,
+      "blocks": 1,
+      "year0": 9431758236.13,
+      "annual": 10794969251.46,
+      "npv": 22273232854.45,
+      "irr": 1.138946,
+      "payback": 0.873718,
+      "share_of_national": 0.021076
+    },
+    {
+      "n": 1120,
+      "wd": 200,
+      "share": 1.0,
+      "blocks": 1,
+      "year0": 21076918448.94,
+      "annual": 24211731123.27,
+      "npv": 50033309071.82,
+      "irr": 1.143201,
+      "payback": 0.870525,
+      "share_of_national": 0.04721
+    }
+  ],
+  "proof_120": {
+    "n": 12,
+    "wd": 120,
+    "share": 1.0,
+    "blocks": 1,
+    "year0": 265890197.67,
+    "annual": 105079262.03,
+    "npv": 42729214.67,
+    "irr": 0.345763,
+    "payback": 2.530377,
+    "share_of_national": 0.000303
+  },
+  "proof_70_200": {
+    "n": 12,
+    "wd": 200,
+    "share": 0.7,
+    "blocks": 1,
+    "year0": 265890197.67,
+    "annual": 137479262.03,
+    "npv": 137888514.1,
+    "irr": 0.48451,
+    "payback": 1.934039,
+    "share_of_national": 0.000506
+  },
+  "reinvest": {
+    "rows": [
+      {
+        "year": 1,
+        "open": 12,
+        "cash": 234679262.03,
+        "bought": 12,
+        "close": 24
+      },
+      {
+        "year": 2,
+        "open": 24,
+        "cash": 494358524.07,
+        "bought": 26,
+        "close": 50
+      },
+      {
+        "year": 3,
+        "open": 50,
+        "cash": 1056996925.15,
+        "bought": 56,
+        "close": 106
+      },
+      {
+        "year": 4,
+        "open": 106,
+        "cash": 2268833481.31,
+        "bought": 120,
+        "close": 226
+      },
+      {
+        "year": 5,
+        "open": 226,
+        "cash": 4865626101.66,
+        "bought": 259,
+        "close": 485
+      },
+      {
+        "year": 6,
+        "open": 485,
+        "cash": 10470370173.91,
+        "bought": 557,
+        "close": 1042
+      },
+      {
+        "year": 7,
+        "open": 1042,
+        "cash": 22523815920.04,
+        "bought": 1199,
+        "close": 2241
+      }
+    ],
+    "npv": -244084428.11,
+    "end": 2241,
+    "year0": 265890197.67
+  },
+  "daily_national": 4744751.38
+}
