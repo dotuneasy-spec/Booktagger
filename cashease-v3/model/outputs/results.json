@@ -1,0 +1,414 @@
+{
+  "fx": 1331.69,
+  "mpr": 0.23,
+  "inflation": 0.1539,
+  "diesel_retail": 1810,
+  "diesel_gantry": 1700,
+  "population": 237527782,
+  "atm_h1_2024": 16714,
+  "pos_mar_2025": 5900000,
+  "local_authorities": 774,
+  "people_per_atm_mixed_vintage": 14211.306808663396,
+  "people_per_deployed_pos": 40.25894610169492,
+  "machines_20k_per_100k_residents": 8.420067678651586,
+  "machines_20k_over_atms": 1.1966016513102788,
+  "machines_20k_share_of_pos": 0.003389830508474576,
+  "machines_per_local_authority_at_20k": 25.839793281653748,
+  "assumptions": {
+    "freight_rate": 0.08,
+    "install_and_solar_ngn": 6000000,
+    "software_and_cert_ngn": 2000000,
+    "life_years": 7,
+    "salvage_ngn": 0,
+    "float_per_kiosk_ngn": 2000000,
+    "discount_rate": 0.28,
+    "open_days": 300,
+    "uptime": 0.9,
+    "mix_note": 0.55,
+    "mix_cashout": 0.35,
+    "mix_vas": 0.1,
+    "note_fee_ngn": 100,
+    "cashout_surcharge_ngn": 250,
+    "vas_net_ngn": 30,
+    "bank_share_of_surcharge": 0.25,
+    "bank_share_of_note_fee": 0.0,
+    "avg_cashout_ticket_ngn": 12000,
+    "shrink_rate_of_cashout_value": 0.003,
+    "maintenance_rate_of_exworks": 0.1,
+    "rent_per_month_ngn": 150000,
+    "kwh_per_open_day": 8,
+    "diesel_share_of_energy": 0.4,
+    "litres_per_kwh": 0.35,
+    "solar_opex_ngn": 80000,
+    "connectivity_per_month_ngn": 18000,
+    "insurance_rate": 0.015,
+    "cit_per_visit_ngn": 40000,
+    "cit_visits_per_month": 4,
+    "security_per_month_ngn": 120000,
+    "hq_year0": {
+      "pilot": 120000000,
+      "two_k": 400000000,
+      "twenty_k": 1200000000
+    },
+    "hq_annual": {
+      "pilot": 60000000,
+      "two_k": 400000000,
+      "twenty_k": 1200000000
+    },
+    "sizes": {
+      "pilot": 25,
+      "two_k": 2000,
+      "twenty_k": 20000
+    },
+    "test_tx_per_open_day": 80,
+    "horizon_years": 7
+  },
+  "contribution": {
+    "gross_ngn": 145.5,
+    "bank_share_ngn": 21.875,
+    "shrink_ngn": 12.6,
+    "net_ngn": 111.025
+  },
+  "hardware": {
+    "dispense_low": {
+      "usd": 25000,
+      "exworks_ngn": 33292250.0,
+      "freight_ngn": 2663380.0,
+      "install_ngn": 6000000,
+      "software_ngn": 2000000,
+      "all_in_ngn": 43955630.0
+    },
+    "recycler_median": {
+      "usd": 36000,
+      "exworks_ngn": 47940840.0,
+      "freight_ngn": 3835267.2,
+      "install_ngn": 6000000,
+      "software_ngn": 2000000,
+      "all_in_ngn": 59776107.2
+    },
+    "deposit_low": {
+      "usd": 40000,
+      "exworks_ngn": 53267600.0,
+      "freight_ngn": 4261408.0,
+      "install_ngn": 6000000,
+      "software_ngn": 2000000,
+      "all_in_ngn": 65529008.0
+    },
+    "deposit_high": {
+      "usd": 55000,
+      "exworks_ngn": 73242950.0,
+      "freight_ngn": 5859436.0,
+      "install_ngn": 6000000,
+      "software_ngn": 2000000,
+      "all_in_ngn": 87102386.0
+    }
+  },
+  "reference_fixed": {
+    "power_ngn": 688160.0,
+    "diesel_litres": 336.0,
+    "maintenance_ngn": 5326760.0,
+    "rent_ngn": 1800000,
+    "connectivity_ngn": 216000,
+    "insurance_ngn": 1012935.12,
+    "cit_ngn": 1920000,
+    "security_ngn": 1440000,
+    "depreciation_ngn": 9361286.857142856,
+    "float_cost_ngn": 460000.0,
+    "street_ngn": 6064160.0,
+    "cash_fixed_ngn": 12403855.120000001,
+    "full_fixed_ngn": 22225141.977142856
+  },
+  "breakeven": {
+    "street_tx_per_open_day": 202.29544563703536,
+    "cash_tx_per_open_day": 413.782518785392,
+    "full_tx_per_open_day": 741.4126607168174,
+    "contribution_per_tx_ngn": 111.025,
+    "gross_per_tx_ngn": 145.5
+  },
+  "unit_test_80": {
+    "tx_per_open_day": 80,
+    "effective_days": 270.0,
+    "annual_tx": 21600.0,
+    "gross_revenue_ngn": 3142800.0,
+    "bank_share_ngn": 472500.0,
+    "shrink_ngn": 272160.0,
+    "net_revenue_ngn": 2398140.0,
+    "cash_profit_ngn": -10005715.120000001,
+    "operating_profit_ngn": -19827001.977142856,
+    "power_ngn": 688160.0,
+    "diesel_litres": 336.0,
+    "maintenance_ngn": 5326760.0,
+    "rent_ngn": 1800000,
+    "connectivity_ngn": 216000,
+    "insurance_ngn": 1012935.12,
+    "cit_ngn": 1920000,
+    "security_ngn": 1440000,
+    "depreciation_ngn": 9361286.857142856,
+    "float_cost_ngn": 460000.0,
+    "street_ngn": 6064160.0,
+    "cash_fixed_ngn": 12403855.120000001,
+    "full_fixed_ngn": 22225141.977142856
+  },
+  "scenarios": {
+    "pilot": {
+      "pnl": {
+        "kiosks": 25,
+        "tx_per_open_day": 80,
+        "gross_revenue_ngn": 78570000.0,
+        "bank_share_ngn": 11812500.0,
+        "shrink_ngn": 6804000.0,
+        "net_revenue_ngn": 59953500.0,
+        "street_costs_ngn": 151604000.0,
+        "maintenance_ngn": 133169000.0,
+        "insurance_ngn": 25323378.0,
+        "hq_ngn": 60000000,
+        "cash_profit_ngn": -310142878.0,
+        "depreciation_ngn": 234032171.4285714,
+        "float_cost_ngn": 11500000.0,
+        "operating_profit_ngn": -555675049.4285715,
+        "capex_ngn": 1638225200.0,
+        "float_ngn": 50000000
+      },
+      "cashflows": [
+        -1808225200.0,
+        -310142878.0,
+        -310142878.0,
+        -310142878.0,
+        -310142878.0,
+        -310142878.0,
+        -310142878.0,
+        -260142878.0
+      ],
+      "npv_28": -2710237829.1863637,
+      "npv_mpr": -2828342679.604768,
+      "npv_35": -2579797388.164678,
+      "irr": null,
+      "year0_with_hq": -1808225200.0
+    },
+    "two_k": {
+      "pnl": {
+        "kiosks": 2000,
+        "tx_per_open_day": 80,
+        "gross_revenue_ngn": 6285600000.0,
+        "bank_share_ngn": 945000000.0,
+        "shrink_ngn": 544320000.0,
+        "net_revenue_ngn": 4796280000.0,
+        "street_costs_ngn": 12128320000.0,
+        "maintenance_ngn": 10653520000.0,
+        "insurance_ngn": 2025870240.0,
+        "hq_ngn": 400000000,
+        "cash_profit_ngn": -20411430240.000004,
+        "depreciation_ngn": 18722573714.285713,
+        "float_cost_ngn": 920000000.0,
+        "operating_profit_ngn": -40054003954.28571,
+        "capex_ngn": 131058016000.0,
+        "float_ngn": 4000000000
+      },
+      "cashflows": [
+        -135458016000.0,
+        -20411430240.000004,
+        -20411430240.000004,
+        -20411430240.000004,
+        -20411430240.000004,
+        -20411430240.000004,
+        -20411430240.000004,
+        -16411430240.000004
+      ],
+      "npv_28": -194696158511.10953,
+      "npv_mpr": -202428455347.93338,
+      "npv_35": -186150688029.56882,
+      "irr": null,
+      "year0_with_hq": -135458016000.0
+    },
+    "twenty_k": {
+      "pnl": {
+        "kiosks": 20000,
+        "tx_per_open_day": 80,
+        "gross_revenue_ngn": 62856000000.0,
+        "bank_share_ngn": 9450000000.0,
+        "shrink_ngn": 5443200000.0,
+        "net_revenue_ngn": 47962800000.0,
+        "street_costs_ngn": 121283200000.0,
+        "maintenance_ngn": 106535200000.0,
+        "insurance_ngn": 20258702400.0,
+        "hq_ngn": 1200000000,
+        "cash_profit_ngn": -201314302400.00003,
+        "depreciation_ngn": 187225737142.85712,
+        "float_cost_ngn": 9200000000.0,
+        "operating_profit_ngn": -397740039542.8571,
+        "capex_ngn": 1310580160000.0,
+        "float_ngn": 40000000000
+      },
+      "cashflows": [
+        -1351780160000.0,
+        -201314302400.00003,
+        -201314302400.00003,
+        -201314302400.00003,
+        -201314302400.00003,
+        -201314302400.00003,
+        -201314302400.00003,
+        -161314302400.00003
+      ],
+      "npv_28": -1935937941950.4954,
+      "npv_mpr": -2012168852284.5032,
+      "npv_35": -1851685814735.212,
+      "irr": null,
+      "year0_with_hq": -1351780160000.0
+    }
+  },
+  "volume_grid": [
+    {
+      "tx": 40,
+      "net_revenue_ngn": 1199070.0,
+      "cash_profit_ngn": -11204785.120000001,
+      "operating_profit_ngn": -21026071.977142856,
+      "npv_28": -100082363.24571918,
+      "irr": null
+    },
+    {
+      "tx": 80,
+      "net_revenue_ngn": 2398140.0,
+      "cash_profit_ngn": -10005715.120000001,
+      "operating_profit_ngn": -19827001.977142856,
+      "npv_28": -96560676.17265478,
+      "irr": null
+    },
+    {
+      "tx": 120,
+      "net_revenue_ngn": 3597210.0,
+      "cash_profit_ngn": -8806645.120000001,
+      "operating_profit_ngn": -18627931.977142856,
+      "npv_28": -93038989.09959036,
+      "irr": null
+    },
+    {
+      "tx": 200,
+      "net_revenue_ngn": 5995350.0,
+      "cash_profit_ngn": -6408505.120000001,
+      "operating_profit_ngn": -16229791.977142857,
+      "npv_28": -85995614.95346156,
+      "irr": null
+    },
+    {
+      "tx": 400,
+      "net_revenue_ngn": 11990700.0,
+      "cash_profit_ngn": -413155.12000000104,
+      "operating_profit_ngn": -10234441.977142857,
+      "npv_28": -68387179.58813952,
+      "irr": -0.44555645902175467
+    },
+    {
+      "tx": 750,
+      "net_revenue_ngn": 22482562.5,
+      "cash_profit_ngn": 10078707.379999999,
+      "operating_profit_ngn": 257420.5228571426,
+      "npv_28": -37572417.69882595,
+      "irr": 0.017886848477646683
+    }
+  ],
+  "capex_ceiling_ngn": {
+    "80": null,
+    "120": null,
+    "200": null,
+    "400": 13563109.61598203
+  },
+  "hurdle_tx_per_open_day": {
+    "base_fee": 1176.7547561076424,
+    "max_disclosed_surcharge": 563.9939425722038
+  },
+  "sensitivities": [
+    {
+      "cit_per_visit_ngn": 15000,
+      "note_fee_ngn": 50,
+      "surcharge_ngn": 150,
+      "net_per_tx_ngn": 57.275,
+      "full_be_tx": 1359.5966165279826,
+      "cash_be_tx": 724.5003876683319,
+      "street_be_tx": 314.54225067494383
+    },
+    {
+      "cit_per_visit_ngn": 15000,
+      "note_fee_ngn": 100,
+      "surcharge_ngn": 250,
+      "net_per_tx_ngn": 111.025,
+      "full_be_tx": 701.3816366731835,
+      "cash_be_tx": 373.7514947417582,
+      "street_be_tx": 162.26442159340155
+    },
+    {
+      "cit_per_visit_ngn": 15000,
+      "note_fee_ngn": 200,
+      "surcharge_ngn": 500,
+      "net_per_tx_ngn": 231.65,
+      "full_be_tx": 336.15754893865835,
+      "cash_be_tx": 179.13127435227156,
+      "street_be_tx": 77.76994348114573
+    },
+    {
+      "cit_per_visit_ngn": 40000,
+      "note_fee_ngn": 50,
+      "surcharge_ngn": 150,
+      "net_per_tx_ngn": 57.275,
+      "full_be_tx": 1437.1949481638526,
+      "cash_be_tx": 802.0987193042017,
+      "street_be_tx": 392.14058231081367
+    },
+    {
+      "cit_per_visit_ngn": 40000,
+      "note_fee_ngn": 100,
+      "surcharge_ngn": 250,
+      "net_per_tx_ngn": 111.025,
+      "full_be_tx": 741.4126607168174,
+      "cash_be_tx": 413.782518785392,
+      "street_be_tx": 202.29544563703536
+    },
+    {
+      "cit_per_visit_ngn": 40000,
+      "note_fee_ngn": 200,
+      "surcharge_ngn": 500,
+      "net_per_tx_ngn": 231.65,
+      "full_be_tx": 355.3435815069486,
+      "cash_be_tx": 198.31730692056186,
+      "street_be_tx": 96.955976049436
+    },
+    {
+      "cit_per_visit_ngn": 80000,
+      "note_fee_ngn": 50,
+      "surcharge_ngn": 150,
+      "net_per_tx_ngn": 57.275,
+      "full_be_tx": 1561.3522787812442,
+      "cash_be_tx": 926.2560499215934,
+      "street_be_tx": 516.2979129282054
+    },
+    {
+      "cit_per_visit_ngn": 80000,
+      "note_fee_ngn": 100,
+      "surcharge_ngn": 250,
+      "net_per_tx_ngn": 111.025,
+      "full_be_tx": 805.4622991866314,
+      "cash_be_tx": 477.8321572552061,
+      "street_be_tx": 266.34508410684947
+    },
+    {
+      "cit_per_visit_ngn": 80000,
+      "note_fee_ngn": 200,
+      "surcharge_ngn": 500,
+      "net_per_tx_ngn": 231.65,
+      "full_be_tx": 386.0412336162131,
+      "cash_be_tx": 229.0149590298263,
+      "street_be_tx": 127.65362815870047
+    }
+  ],
+  "attended_test": {
+    "sites": 10,
+    "days": 90,
+    "attendant_month_ngn": 180000,
+    "rent_month_ngn": 80000,
+    "transport_per_site_day_ngn": 8000,
+    "float_per_site_ngn": 500000,
+    "setup_ngn": 5000000,
+    "cash_outlay_ngn": 25000000,
+    "spend_ex_float_ngn": 20000000
+  },
+  "interest_only_70pct_at_mpr": 10550170.287999999
+}
